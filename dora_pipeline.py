@@ -307,8 +307,13 @@ def main():
 
     c.execute("SELECT * FROM pull_requests WHERE release_id IS NULL")
     unreleased_prs = c.fetchall()
-    # Assign PRs to releases
-    for pr in prs+unreleased_prs:
+    columns = [desc[0] for desc in c.description]
+
+    unreleased_prs_dicts = [
+        dict(zip(columns, row))
+        for row in unreleased_prs]
+    all_prs = prs + unreleased_prs_dicts
+    for pr in all_prs:
         if pr["merged_at"]:
             merged_dt = datetime.fromisoformat(pr["merged_at"][:-1])
             for r in releases:
