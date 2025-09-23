@@ -64,7 +64,6 @@ def fetch_releases(existing_ids):
     page = 1
     per_page = 100
     result = []
-    last_release_date = None
     existing_ids = set(existing_ids or [])
 
     while True:
@@ -86,10 +85,6 @@ def fetch_releases(existing_ids):
                 return result
             
             published = r["published_at"]
-            delta = None
-            if last_release_date:
-                delta = (datetime.fromisoformat(published[:-1]) - last_release_date).total_seconds() / 3600
-            last_release_date = datetime.fromisoformat(published[:-1])
             body = r.get("body")
             name = r.get("name")
             author = r["author"]["login"] if r.get("author") else ""
@@ -100,7 +95,7 @@ def fetch_releases(existing_ids):
                 "author": author,
                 "body": body or "",
                 "published_at": published,
-                "time_since_last_release": delta,
+                "time_since_last_release": None,
                 "pr_count": 0
             })
         page += 1
@@ -113,7 +108,6 @@ def fetch_prs(existing_ids):
     per_page = 100
     result = []
     while True:
-        print("page",page)
         resp = requests.get(
             url,
             headers=HEADERS,
@@ -299,15 +293,32 @@ def main():
     rows = c.fetchall()
     existing_release_ids = set(str(row[0]) for row in rows)
     releases = fetch_releases(existing_release_ids)
+
     c.execute("SELECT pr_id FROM pull_requests")
     rows = c.fetchall()
     existing_pr_ids = set(str(row[0]) for row in rows)
     prs = fetch_prs(existing_pr_ids)
+
     issues = fetch_issues()
 
     c.execute("SELECT * FROM pull_requests WHERE release_id IS NULL")
     unreleased_prs = c.fetchall()
     columns = [desc[0] for desc in c.description]
+
+    c.execute("SELECT published_at FROM releases ORDER BY published_at DESC LIMIT 1")
+    row = c.fetchone()
+    last_published_at = None
+    if row:
+        last_published_at = datetime.fromisoformat(row[0][:-1]) 
+    releases.sort(key=lambda r: r["published_at"])
+
+    for rel in releases:
+        published_dt = datetime.fromisoformat(rel["published_at"][:-1])
+        if last_published_at:
+            rel["time_since_last_release"] = (published_dt - last_published_at).total_seconds() / 3600
+        else:
+            rel["time_since_last_release"] = 0
+        last_published_at = published_dt
 
     unreleased_prs_dicts = [
         dict(zip(columns, row))
