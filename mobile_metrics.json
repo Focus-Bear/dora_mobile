@@ -12753,6 +12753,42 @@
             "merged_at": "2023-01-12T20:54:44Z",
             "time_to_merge": 1497.3483333333334,
             "release_id": "231928037"
+        },
+        {
+            "pr_id": "3439",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-09-23T17:03:09Z",
+            "merged_at": "2025-09-23T17:03:15Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
+        },
+        {
+            "pr_id": "3436",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "ksvyee",
+            "created_at": "2025-09-23T07:27:52Z",
+            "merged_at": "2025-09-23T13:57:28Z",
+            "time_to_merge": 6.493333333333333,
+            "release_id": null
+        },
+        {
+            "pr_id": "3435",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-09-23T03:10:18Z",
+            "merged_at": "2025-09-23T13:55:38Z",
+            "time_to_merge": 10.755555555555556,
+            "release_id": null
+        },
+        {
+            "pr_id": "3434",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-09-22T21:01:57Z",
+            "merged_at": "2025-09-23T04:23:21Z",
+            "time_to_merge": 7.3566666666666665,
+            "release_id": null
         }
     ],
     "issues": [
@@ -12816,9 +12852,9 @@
             "issue_id": "3322",
             "repo": "Focus-Bear/mobile-app",
             "title": "Push notifications not working",
-            "status": "Ready for QA",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "2400",
@@ -12912,9 +12948,9 @@
             "issue_id": "3136",
             "repo": "Focus-Bear/mobile-app",
             "title": "Multimodal input for tasks",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3387",
@@ -12976,9 +13012,9 @@
             "issue_id": "3394",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improvements to onboarding",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "2799",
@@ -12992,17 +13028,17 @@
             "issue_id": "3330",
             "repo": "Focus-Bear/mobile-app",
             "title": "TOP score is under rating big tasks",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3246",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] Registration windows continue to appear every time the user opens the app",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3009",
@@ -13250,7 +13286,7 @@
             "title": "Allowed app popup appears when the Focus Bear app is open",
             "status": "2028",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3010",
@@ -13618,7 +13654,7 @@
             "title": "Password input defaults to upper case first letter?",
             "status": "2027",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "2785",
@@ -15074,7 +15110,7 @@
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
             "status": "Q4 2025",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "1021",
@@ -15866,7 +15902,7 @@
             "title": "Create emphasis on the word 'here' to grab the user's attention.",
             "status": "UX quick wins",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "1492",
@@ -16002,7 +16038,7 @@
             "title": "The Focus session setup screen on the homescreen does not scroll as smoothly as it does in onboarding.",
             "status": "2028",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "1518",
@@ -16834,7 +16870,7 @@
             "title": "Focus Session After Habits and Greyed Out Bar",
             "status": "QA Passed/Done",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "1977",
@@ -20216,9 +20252,9 @@
             "issue_id": "3402",
             "repo": "Focus-Bear/mobile-app",
             "title": "Block URLs \u2013 \u201c+\u201d button broken",
-            "status": "Emergency fix needed",
+            "status": "Unable to replicate",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3403",
@@ -20384,9 +20420,9 @@
             "issue_id": "3426",
             "repo": "Focus-Bear/mobile-app",
             "title": "Voice input in Vietnamese transcribes output in English",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3427",
@@ -20424,17 +20460,33 @@
             "issue_id": "3431",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve Friction Tests",
-            "status": "September tasks",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         },
         {
             "issue_id": "3432",
             "repo": "Focus-Bear/mobile-app",
             "title": "Update Onboarding Test",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-22T17:24:11.137152+00:00",
-            "updated_at": "2025-09-22T17:24:11.137152+00:00"
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
+        },
+        {
+            "issue_id": "3437",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Evening routine progress not saved, habits reset and inaccessible after exit",
+            "status": "Emergency fix needed",
+            "created_at": "2025-09-24T05:31:23.475827+00:00",
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
+        },
+        {
+            "issue_id": "3438",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Wrong message displayed when morning habits not done but evening habits completed",
+            "status": "Emergency fix needed",
+            "created_at": "2025-09-24T05:31:23.475827+00:00",
+            "updated_at": "2025-09-24T05:31:23.475827+00:00"
         }
     ]
 }
