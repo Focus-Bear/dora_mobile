@@ -13286,7 +13286,7 @@
             "title": "Allowed app popup appears when the Focus Bear app is open",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "3010",
@@ -13654,7 +13654,7 @@
             "title": "Password input defaults to upper case first letter?",
             "status": "2027",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "2785",
@@ -15110,7 +15110,7 @@
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
             "status": "Q4 2025",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "1021",
@@ -15902,7 +15902,7 @@
             "title": "Create emphasis on the word 'here' to grab the user's attention.",
             "status": "UX quick wins",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "1492",
@@ -16038,7 +16038,7 @@
             "title": "The Focus session setup screen on the homescreen does not scroll as smoothly as it does in onboarding.",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "1518",
@@ -16870,7 +16870,7 @@
             "title": "Focus Session After Habits and Greyed Out Bar",
             "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-24T10:35:27.761253+00:00"
         },
         {
             "issue_id": "1977",
