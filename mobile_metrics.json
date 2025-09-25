@@ -13036,9 +13036,9 @@
             "issue_id": "3330",
             "repo": "Focus-Bear/mobile-app",
             "title": "TOP score is under rating big tasks",
-            "status": "Ready for QA",
+            "status": "September tasks",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "3009",
@@ -13286,7 +13286,7 @@
             "title": "Allowed app popup appears when the Focus Bear app is open",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "3010",
@@ -13654,7 +13654,7 @@
             "title": "Password input defaults to upper case first letter?",
             "status": "2027",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "2785",
@@ -15110,7 +15110,7 @@
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
             "status": "Q4 2025",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "1021",
@@ -15902,7 +15902,7 @@
             "title": "Create emphasis on the word 'here' to grab the user's attention.",
             "status": "UX quick wins",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "1492",
@@ -16038,7 +16038,7 @@
             "title": "The Focus session setup screen on the homescreen does not scroll as smoothly as it does in onboarding.",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "1518",
@@ -16870,7 +16870,7 @@
             "title": "Focus Session After Habits and Greyed Out Bar",
             "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T12:03:24.659776+00:00"
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         },
         {
             "issue_id": "1977",
@@ -20503,6 +20503,54 @@
             "status": "Emergency fix needed",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
             "updated_at": "2025-09-24T10:33:15.788423+00:00"
+        },
+        {
+            "issue_id": "2497",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[suggestion] Save button in More Options is too small and not visible enough",
+            "status": "September tasks",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
+        },
+        {
+            "issue_id": "3440",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habit times don't update immediately",
+            "status": "Q1 2026 tasks",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
+        },
+        {
+            "issue_id": "3441",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Remove autocorrect for add URL field",
+            "status": "Q1 2026 tasks",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
+        },
+        {
+            "issue_id": "3442",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Editing todo screen should have a save button",
+            "status": "September tasks",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
+        },
+        {
+            "issue_id": "3443",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Usage stats screen shouldn't show N/A if permissions aren't granted",
+            "status": "Q4 2025",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
+        },
+        {
+            "issue_id": "3444",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Deleting habit not working correctly",
+            "status": "September tasks",
+            "created_at": "2025-09-25T12:03:10.625215+00:00",
+            "updated_at": "2025-09-25T12:03:10.625215+00:00"
         }
     ]
 }
