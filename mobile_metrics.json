@@ -12825,6 +12825,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3460",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-09-27T18:33:20Z",
+            "merged_at": "2025-09-27T19:25:22Z",
+            "time_to_merge": 0.8672222222222222,
+            "release_id": null
+        },
+        {
+            "pr_id": "3458",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-09-27T16:16:00Z",
+            "merged_at": "2025-09-27T18:31:42Z",
+            "time_to_merge": 2.2616666666666667,
+            "release_id": null
+        },
+        {
+            "pr_id": "3457",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "amanueltsfy",
+            "created_at": "2025-09-27T13:23:39Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -12864,17 +12891,17 @@
             "issue_id": "3270",
             "repo": "Focus-Bear/mobile-app",
             "title": "Evening routine shown after wake up time",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3346",
             "repo": "Focus-Bear/mobile-app",
             "title": "Received a Network error - urgent fix",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3298",
@@ -12888,17 +12915,17 @@
             "issue_id": "3313",
             "repo": "Focus-Bear/mobile-app",
             "title": "Loading spinner positioned incorrectly and stuck indefinitely in Habits screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3338",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crash when starting a habit in the \u201cAlbert Einstein\u2026\u201d habit pack",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3340",
@@ -12920,33 +12947,33 @@
             "issue_id": "2400",
             "repo": "Focus-Bear/mobile-app",
             "title": "[onboarding] Cannot save/add habit when the Seconds field is completely cleared",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3334",
             "repo": "Focus-Bear/mobile-app",
             "title": "To do list: debouncing results in ui flicker",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3303",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Task Input] Keyboard overlaps text input field when active",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3247",
             "repo": "Focus-Bear/mobile-app",
             "title": "Password input popup shifts too high when keyboard appears",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3316",
@@ -12976,9 +13003,9 @@
             "issue_id": "3363",
             "repo": "Focus-Bear/mobile-app",
             "title": "Couldn't postpone - blank white screen after choosing time.",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3374",
@@ -13064,17 +13091,17 @@
             "issue_id": "2799",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Suggestion] There should be a \u201cGo Back\u201d button to continue the Habit when the user selects \u201cSkip\u201d.",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3330",
             "repo": "Focus-Bear/mobile-app",
             "title": "TOP score is under rating big tasks",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3009",
@@ -13322,7 +13349,7 @@
             "title": "Allowed app popup appears when the Focus Bear app is open",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3010",
@@ -13690,7 +13717,7 @@
             "title": "Password input defaults to upper case first letter?",
             "status": "2027",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "2785",
@@ -15146,7 +15173,7 @@
             "title": "Improve \u201cUse AI to Convert Brain Dump to Tasks\u201d",
             "status": "Q4 2025",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "1021",
@@ -15938,7 +15965,7 @@
             "title": "Create emphasis on the word 'here' to grab the user's attention.",
             "status": "UX quick wins",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "1492",
@@ -16074,7 +16101,7 @@
             "title": "The Focus session setup screen on the homescreen does not scroll as smoothly as it does in onboarding.",
             "status": "2028",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "1518",
@@ -16264,9 +16291,9 @@
             "issue_id": "1585",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Enhancement] Improve allowed apps selection navigation",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "1688",
@@ -16906,7 +16933,7 @@
             "title": "Focus Session After Habits and Greyed Out Bar",
             "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "1977",
@@ -19024,9 +19051,9 @@
             "issue_id": "3107",
             "repo": "Focus-Bear/mobile-app",
             "title": "Duplicate ellipsis appears during \u201cLoading questionnaire\u201d screen",
-            "status": "UX quick wins",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-24T10:33:15.788423+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3111",
@@ -20104,9 +20131,9 @@
             "issue_id": "2407",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UX] Scrolling in Habit Packs list freezes midway and causes blank space at the bottom",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3365",
@@ -20264,9 +20291,9 @@
             "issue_id": "3393",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine Completion Status Not Syncing Correctly Between Windows and Android",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3398",
@@ -20504,17 +20531,17 @@
             "issue_id": "3426",
             "repo": "Focus-Bear/mobile-app",
             "title": "Voice input in Vietnamese transcribes output in English",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3437",
             "repo": "Focus-Bear/mobile-app",
             "title": "Evening routine progress not saved, habits reset and inaccessible after exit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-24T10:33:15.788423+00:00",
-            "updated_at": "2025-09-26T12:03:09.497963+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3438",
@@ -20640,9 +20667,9 @@
             "issue_id": "2525",
             "repo": "Focus-Bear/mobile-app",
             "title": "App freezes after selecting \u201cUpload audio\u201d in To-do list",
-            "status": "Emergency fix needed",
+            "status": "QA Failed",
             "created_at": "2025-09-27T12:02:56.329343+00:00",
-            "updated_at": "2025-09-27T12:02:56.329343+00:00"
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         },
         {
             "issue_id": "3455",
@@ -20651,6 +20678,22 @@
             "status": "2026",
             "created_at": "2025-09-27T12:02:56.329343+00:00",
             "updated_at": "2025-09-27T12:02:56.329343+00:00"
+        },
+        {
+            "issue_id": "3459",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App has been crashing + can\u2019t open todos",
+            "status": "QA Passed/Done",
+            "created_at": "2025-09-28T12:02:53.761174+00:00",
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
+        },
+        {
+            "issue_id": "3461",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App fails to open from home screen but launches from Play Store (Android)",
+            "status": "Q4 2025",
+            "created_at": "2025-09-28T12:02:53.761174+00:00",
+            "updated_at": "2025-09-28T12:02:53.761174+00:00"
         }
     ]
 }
