@@ -315,7 +315,7 @@ def main():
     for rel in releases:
         published_dt = datetime.fromisoformat(rel["published_at"][:-1])
         if last_published_at:
-            rel["time_since_last_release"] = (published_dt - last_published_at).total_seconds() / 3600
+            rel["time_since_last_release"] = (published_dt - last_published_at).days
         else:
             rel["time_since_last_release"] = 0
         last_published_at = published_dt
