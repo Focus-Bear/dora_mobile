@@ -12852,6 +12852,15 @@
             "merged_at": "2023-01-12T20:54:44Z",
             "time_to_merge": 1497.3483333333334,
             "release_id": "116053449"
+        },
+        {
+            "pr_id": "3463",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "marley195",
+            "created_at": "2025-09-29T07:06:14Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -12867,9 +12876,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2418",
             "repo": "Focus-Bear/web_dashboard",
             "title": "White blank space appears when editing the last habit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-29T12:03:11.487510+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3426",
@@ -12883,17 +12892,17 @@
             "issue_id": "Focus-Bear/mobile-app#2799",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Suggestion] There should be a \u201cGo Back\u201d button to continue the Habit when the user selects \u201cSkip\u201d.",
-            "status": "QA Failed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-29T12:03:11.487510+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#347",
             "repo": "Focus-Bear/web_dashboard",
             "title": "\ud83d\udde3\ufe0f Allow adding an icon next to each activity",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-29T12:03:11.487510+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3447",
@@ -12923,9 +12932,9 @@
             "issue_id": "Focus-Bear/mobile-app#3394",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improvements to onboarding",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-29T12:03:11.487510+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3246",
@@ -20734,6 +20743,14 @@
             "status": "Q4 2025",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
             "updated_at": "2025-09-29T05:07:35.593903+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3464",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habit does not stay completed and routine auto-completes even when unfinished",
+            "status": "2026",
+            "created_at": "2025-09-29T12:03:11.487510+00:00",
+            "updated_at": "2025-09-29T12:03:11.487510+00:00"
         }
     ]
 }
