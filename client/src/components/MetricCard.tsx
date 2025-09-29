@@ -28,7 +28,7 @@ export default function MetricCard({ title, value, icon, testId }: MetricCardPro
 
   return (
     <Card className="metric-card-hover transition-all duration-300 hover:translate-y-[-4px] hover:shadow-xl hover:shadow-gray-200/50 shadow-sm" data-testid={testId}>
-      <CardContent className="p-6">
+      <CardContent className="p-3">
         <div className="flex items-center justify-between">
           <div>
             <p className="text-sm font-medium text-muted-foreground mb-2">{title}</p>
@@ -36,7 +36,7 @@ export default function MetricCard({ title, value, icon, testId }: MetricCardPro
               {value}
             </p>
           </div>
-          <div className={`h-14 w-14 rounded-xl flex items-center justify-center ${iconClasses}`}>
+          <div className={`h-12 w-12 rounded-xl flex items-center justify-center ${iconClasses}`}>
             <Icon className="h-7 w-7" />
           </div>
         </div>

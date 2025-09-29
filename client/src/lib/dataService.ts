@@ -41,10 +41,22 @@ const calculateMetrics = (releases: Release[]): Metrics => {
     ? Math.abs(validReleaseTimes.reduce((sum, time) => sum + time, 0) / validReleaseTimes.length)
     : 0;
   let issuesQA = mobileMetricsData.issues.filter(issue => "Ready for QA" == issue.status)
+  const issuesPassedQA = mobileMetricsData.issues.filter(issue => {
+    const today = new Date();
+    const issueDate = new Date(issue.updated_at);
+
+    // 7 days ago from today
+    const sevenDaysAgo = new Date();
+    sevenDaysAgo.setDate(today.getDate() - 7);
+
+    return issue.status === "QA Passed/Done" && issueDate >= sevenDaysAgo && issueDate <= today;
+  });
+
   return {
     totalReleases: releases.length,
     totalPRs,
     issuesInQA: issuesQA.length,
+    issuesPassedQA: issuesPassedQA.length,
     avgReleaseTime: Math.round(avgReleaseTime * 10) / 10,
     releaseLeaders,
     prLeaders
@@ -90,7 +102,7 @@ function avg(arr) {
   return arr.length ? arr.reduce((a, b) => a + b, 0) : 0;
 }
 
-function groupd(prs,noDays:number) {
+function groupd(prs, noDays: number) {
   const now = new Date();
   return Array.from({ length: noDays }, (_, i) => {
     const day = new Date(now);
@@ -108,7 +120,7 @@ function groupd(prs,noDays:number) {
 }
 
 // --- All time grouped yearly ---
-function groupAll(prs:any) {
+function groupAll(prs: any) {
   const map = {};
   prs.forEach(pr => {
     const year = new Date(pr.merged_at).getFullYear();
@@ -124,8 +136,8 @@ function groupAll(prs:any) {
 export function PRsDataByTime() {
   const prs = mobileMetricsData.pull_requests.filter(pr => pr.merged_at && pr.time_to_merge !== null);
   const mockPRData = {
-    "7d": groupd(prs,7),
-    "30d": groupd(prs,30),
+    "7d": groupd(prs, 7),
+    "30d": groupd(prs, 30),
     "all": groupAll(prs)
   };
   return mockPRData

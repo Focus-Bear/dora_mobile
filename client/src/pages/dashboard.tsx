@@ -128,7 +128,7 @@ export default function Dashboard() {
 
       <div className="mx-auto px-6 py-6">
         {/* Metrics Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-6 mb-8">
           <MetricCard
             title="Total Releases"
             value={metrics?.totalReleases || 0}
@@ -149,9 +149,15 @@ export default function Dashboard() {
           />
           <MetricCard
             title="Avg Release Time"
-            value={`${metrics?.avgReleaseTime || 0} days`}
+            value={`${metrics?.avgReleaseTime || 0} D`}
             icon="clock"
             testId="metric-avg-release-time"
+          />
+          <MetricCard
+            title="QA Passed (7 days)"
+            value={`${metrics?.issuesPassedQA || 0}`}
+            icon="rocket"
+            testId="metric-issues-qa-passed"
           />
         </div>
 

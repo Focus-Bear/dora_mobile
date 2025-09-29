@@ -19,6 +19,7 @@ export const metricsSchema = z.object({
   totalReleases: z.number(),
   totalPRs: z.number(),
   issuesInQA: z.number(),
+  issuesPassedQA: z.number(),
   avgReleaseTime: z.number(),
   releaseLeaders: z.array(z.object({
     author: z.string(),
