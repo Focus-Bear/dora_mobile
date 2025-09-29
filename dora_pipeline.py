@@ -205,8 +205,8 @@ def fetch_issues():
                 number = content.get("number")
                 title = content.get("title")
                 repo_info = content.get("repository")  # this is a dict
-                if repo_info and repo_info.get("name"):
-                    repo_name = repo_info.get("name")
+                if repo_info and repo_info.get("nameWithOwner"):
+                    repo_name = repo_info.get("nameWithOwner")
             for fv in issue["fieldValues"]["nodes"]:
                 status = fv.get("name")
                 if status:
@@ -214,7 +214,7 @@ def fetch_issues():
 
             if number and status:
                 result.append({
-                    "issue_id": number,
+                    "issue_id": f"{repo_name}#{number}",
                     "repo": repo_name,
                     "title": title,
                     "status": status,
@@ -259,11 +259,12 @@ def store_issues_incremental(issues):
         existing = c.fetchone()
         if existing:
             existing_title, existing_status = existing
-            if existing_title != issue["title"] or existing_status != issue["status"]:
+            if existing_status != issue["status"]:
                 c.execute('''
-                UPDATE issues SET title=?, status=?, updated_at=?
+                UPDATE issues SET status=?, updated_at=?
                 WHERE issue_id=?
-                ''', (issue["title"], issue["status"], iso(NOW_UTC), issue["issue_id"]))
+                ''', ( issue["status"], iso(NOW_UTC), issue["issue_id"]))
+
         else:
             c.execute('''
             INSERT INTO issues (issue_id, repo, title, status, created_at, updated_at)
