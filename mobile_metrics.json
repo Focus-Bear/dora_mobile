@@ -12948,9 +12948,9 @@
             "issue_id": "Focus-Bear/mobile-app#3136",
             "repo": "Focus-Bear/mobile-app",
             "title": "Multimodal input for tasks",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-30T12:03:09.813808+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3311",
@@ -12980,9 +12980,9 @@
             "issue_id": "Focus-Bear/mobile-app#3298",
             "repo": "Focus-Bear/mobile-app",
             "title": "[RESEARCH] Habit completion didn't save (iOS)",
-            "status": "QA Failed",
+            "status": "Architecture review/clarification",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-09-30T12:03:09.813808+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3313",
