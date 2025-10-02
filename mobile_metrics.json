@@ -12870,6 +12870,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3471",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-01T17:23:27Z",
+            "merged_at": "2025-10-01T17:23:34Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
+        },
+        {
+            "pr_id": "3468",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-01T14:11:37Z",
+            "merged_at": "2025-10-01T14:11:44Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20768,6 +20786,46 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-01T12:03:13.371877+00:00",
             "updated_at": "2025-10-01T12:03:13.371877+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3467",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Routine timeline is misaligned when selecting \u201cNo thanks\u201d in Timing step during onboarding",
+            "status": "September tasks",
+            "created_at": "2025-10-02T12:02:53.506417+00:00",
+            "updated_at": "2025-10-02T12:02:53.506417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/windows-app-v2#827",
+            "repo": "Focus-Bear/windows-app-v2",
+            "title": "Sign up error when exiting the app during account creation \u2192 \u201cnetwork request failed\u201d + \u201cthe user already exists\u201d",
+            "status": "September tasks",
+            "created_at": "2025-10-02T12:02:53.506417+00:00",
+            "updated_at": "2025-10-02T12:02:53.506417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3469",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow reordering of subtasks under each task in To-Do list",
+            "status": "September tasks",
+            "created_at": "2025-10-02T12:02:53.506417+00:00",
+            "updated_at": "2025-10-02T12:02:53.506417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3470",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Unable to dismiss keyboard after entering text in Focus Goal field",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-02T12:02:53.506417+00:00",
+            "updated_at": "2025-10-02T12:02:53.506417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3472",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Try new animation for egg hatching",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-02T12:02:53.506417+00:00",
+            "updated_at": "2025-10-02T12:02:53.506417+00:00"
         }
     ]
 }
