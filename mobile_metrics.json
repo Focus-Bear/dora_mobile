@@ -12888,6 +12888,42 @@
             "merged_at": "2025-10-01T14:11:44Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3479",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-10-03T11:26:56Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3475",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "phamlong2205",
+            "created_at": "2025-10-02T13:52:50Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3474",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "amanueltsfy",
+            "created_at": "2025-10-02T13:27:02Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3473",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "mia-nguyen0411",
+            "created_at": "2025-10-02T12:44:39Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -12951,9 +12987,9 @@
             "issue_id": "Focus-Bear/mobile-app#3393",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine Completion Status Not Syncing Correctly Between Windows and Android",
-            "status": "QA Failed",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3394",
@@ -13007,9 +13043,9 @@
             "issue_id": "Focus-Bear/mobile-app#3298",
             "repo": "Focus-Bear/mobile-app",
             "title": "[RESEARCH] Habit completion didn't save (iOS)",
-            "status": "Architecture review/clarification",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-30T12:03:09.813808+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3313",
@@ -13119,9 +13155,9 @@
             "issue_id": "Focus-Bear/mobile-app#3293",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Android only] Habits don\u2019t automatically block apps at the start of a new day unless Focus Bear is opened",
-            "status": "Dev Work In Progress",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3387",
@@ -13135,9 +13171,9 @@
             "issue_id": "Focus-Bear/mobile-app#3397",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UI] Launcher button overlaps Help icon on Habits screen",
-            "status": "September tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3358",
@@ -19391,9 +19427,9 @@
             "issue_id": "Focus-Bear/windows-app-v2#728",
             "repo": "Focus-Bear/windows-app-v2",
             "title": "Show message if it's more than 4hrs after morning routine start time",
-            "status": "September tasks",
+            "status": "Q4 2025",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3177",
@@ -20783,17 +20819,17 @@
             "issue_id": "Focus-Bear/mobile-app#3466",
             "repo": "Focus-Bear/mobile-app",
             "title": "To-Do List Opens Blank White Screen \u2013 App Unusable",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-10-01T12:03:13.371877+00:00",
-            "updated_at": "2025-10-01T12:03:13.371877+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3467",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine timeline is misaligned when selecting \u201cNo thanks\u201d in Timing step during onboarding",
-            "status": "September tasks",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-02T12:02:53.506417+00:00",
-            "updated_at": "2025-10-02T12:02:53.506417+00:00"
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#827",
@@ -20826,6 +20862,30 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-02T12:02:53.506417+00:00",
             "updated_at": "2025-10-02T12:02:53.506417+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3476",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Choosing distracting apps not working on iOS?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-03T12:03:01.783361+00:00",
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3477",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "\u201cRecord audio\u201d shows \u201caudio process completed\u201d but no task created",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-03T12:03:01.783361+00:00",
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3478",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Due date mismatch between list view and detail view (only when created by audio/photo)",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-03T12:03:01.783361+00:00",
+            "updated_at": "2025-10-03T12:03:01.783361+00:00"
         }
     ]
 }
