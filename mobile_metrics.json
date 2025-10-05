@@ -20903,6 +20903,30 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-04T12:02:45.058142+00:00",
             "updated_at": "2025-10-04T12:02:45.058142+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3481",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Onboarding carousel broken on tablets?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-05T12:02:50.877984+00:00",
+            "updated_at": "2025-10-05T12:02:50.877984+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3482",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Onboarding tweaks",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-05T12:02:50.877984+00:00",
+            "updated_at": "2025-10-05T12:02:50.877984+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3484",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Notifications appear even when no focus session is active",
+            "status": "September tasks",
+            "created_at": "2025-10-05T12:02:50.877984+00:00",
+            "updated_at": "2025-10-05T12:02:50.877984+00:00"
         }
     ]
 }
