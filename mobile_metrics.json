@@ -19164,9 +19164,9 @@
             "issue_id": "Focus-Bear/mobile-app#3101",
             "repo": "Focus-Bear/mobile-app",
             "title": "Suggestion: Limit character count for Quick Break titles to prevent layout issues",
-            "status": "UX quick wins",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-06T12:03:10.192248+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3102",
@@ -20927,6 +20927,38 @@
             "status": "September tasks",
             "created_at": "2025-10-05T12:02:50.877984+00:00",
             "updated_at": "2025-10-05T12:02:50.877984+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3483",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habit completion notification only appears after opening app, and completion status updates only after double refresh",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-06T12:03:10.192248+00:00",
+            "updated_at": "2025-10-06T12:03:10.192248+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3485",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add posthog event for soft blocking",
+            "status": "September tasks",
+            "created_at": "2025-10-06T12:03:10.192248+00:00",
+            "updated_at": "2025-10-06T12:03:10.192248+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3486",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature Request / UX Improvement: Better communication before trial expiration",
+            "status": "September tasks",
+            "created_at": "2025-10-06T12:03:10.192248+00:00",
+            "updated_at": "2025-10-06T12:03:10.192248+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3487",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App very laggy.",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-06T12:03:10.192248+00:00",
+            "updated_at": "2025-10-06T12:03:10.192248+00:00"
         }
     ]
 }
