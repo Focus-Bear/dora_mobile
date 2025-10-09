@@ -18508,9 +18508,9 @@
             "issue_id": "Focus-Bear/mobile-app#2831",
             "repo": "Focus-Bear/mobile-app",
             "title": "Can we have decimal numbers?",
-            "status": "October tasks",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2834",
@@ -19908,9 +19908,9 @@
             "issue_id": "Focus-Bear/mobile-app#3261",
             "repo": "Focus-Bear/mobile-app",
             "title": "UI cut-off after returning from Edit Habits (Settings tab)",
-            "status": "Q4 2025",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3262",
@@ -20060,9 +20060,9 @@
             "issue_id": "Focus-Bear/mobile-app#3291",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change the success message after saving a new habit",
-            "status": "QA Failed",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3292",
@@ -20220,9 +20220,9 @@
             "issue_id": "Focus-Bear/mobile-app#3341",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Improve To-Do List and Habit Page Layout with Visual Separation and Color Tagging",
-            "status": "Q2 2026",
+            "status": "Q4 2025",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3342",
@@ -20644,9 +20644,9 @@
             "issue_id": "Focus-Bear/mobile-app#3423",
             "repo": "Focus-Bear/mobile-app",
             "title": "App freezes when exiting from Edit Habit screen to main screen",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3424",
@@ -21012,9 +21012,9 @@
             "issue_id": "Focus-Bear/mobile-app#3486",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request / UX Improvement: Better communication before trial expiration",
-            "status": "October tasks",
+            "status": "Ready for QA",
             "created_at": "2025-10-06T12:03:10.192248+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-09T12:03:07.135589+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3487",
