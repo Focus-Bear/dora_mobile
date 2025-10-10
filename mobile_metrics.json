@@ -12997,6 +12997,15 @@
             "merged_at": "2025-10-07T15:44:51Z",
             "time_to_merge": 0.29944444444444446,
             "release_id": null
+        },
+        {
+            "pr_id": "3502",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-10-10T06:07:00Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13868,9 +13877,9 @@
             "issue_id": "Focus-Bear/mobile-app#3075",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking Doesn\u2019t Activate on Schedule Without Opening Focus Bear App (iOS)",
-            "status": "October tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#943",
@@ -18620,9 +18629,9 @@
             "issue_id": "Focus-Bear/mobile-app#2997",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding feedback for v1.7.1",
-            "status": "October tasks",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2868",
@@ -19828,9 +19837,9 @@
             "issue_id": "Focus-Bear/mobile-app#3236",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log quantity modal shouldn't be dismissed by tapping outside the modal.",
-            "status": "October tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3240",
@@ -19940,9 +19949,9 @@
             "issue_id": "Focus-Bear/mobile-app#3267",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit progress lost after completing final habit on Windows; iOS app prompts to redo it after crash",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3277",
@@ -20188,9 +20197,9 @@
             "issue_id": "Focus-Bear/mobile-app#3327",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Accessibility Permission Screen] Text alignment/formatting issue",
-            "status": "UX quick wins",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3331",
@@ -20412,9 +20421,9 @@
             "issue_id": "Focus-Bear/mobile-app#3385",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add \u201cNeed Help\u201d Button in Settings",
-            "status": "October tasks",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3386",
@@ -20820,9 +20829,9 @@
             "issue_id": "Focus-Bear/mobile-app#3452",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add action bar when habit gets tapped",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3453",
@@ -21063,6 +21072,30 @@
             "status": "October tasks",
             "created_at": "2025-10-08T12:03:10.363462+00:00",
             "updated_at": "2025-10-08T12:03:10.363462+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3492",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Enable OTA Mini\u2011Apps: Container + Remote Bundles (CodePush/CDN/Hybrid)",
+            "status": "Q4 2025",
+            "created_at": "2025-10-10T12:03:01.803587+00:00",
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3500",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Support 16kb page sizes",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-10T12:03:01.803587+00:00",
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3501",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Error 401 \u2192 400 leads to forced logout and failed re-login on Android",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-10T12:03:01.803587+00:00",
+            "updated_at": "2025-10-10T12:03:01.803587+00:00"
         }
     ]
 }
