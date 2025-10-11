@@ -13006,6 +13006,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3506",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "dualeodev",
+            "created_at": "2025-10-11T09:13:17Z",
+            "merged_at": "2025-10-11T09:19:53Z",
+            "time_to_merge": 0.11,
+            "release_id": null
+        },
+        {
+            "pr_id": "3504",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-10T18:04:47Z",
+            "merged_at": "2025-10-10T18:04:53Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
+        },
+        {
+            "pr_id": "3503",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "dualeodev",
+            "created_at": "2025-10-10T16:35:06Z",
+            "merged_at": "2025-10-11T02:24:13Z",
+            "time_to_merge": 9.81861111111111,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20989,9 +21016,9 @@
             "issue_id": "Focus-Bear/mobile-app#3482",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding tweaks",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-10-05T12:02:50.877984+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-11T12:02:48.343053+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3484",
@@ -21096,6 +21123,22 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-10T12:03:01.803587+00:00",
             "updated_at": "2025-10-10T12:03:01.803587+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3505",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[suggestion] Replace \u201cedit\u201d text with pencil icon in Bearsona section",
+            "status": "Q1 2026 tasks",
+            "created_at": "2025-10-11T12:02:48.343053+00:00",
+            "updated_at": "2025-10-11T12:02:48.343053+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2582",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Task not saved when added from Overview (\u201cTop Task Today\u201d)",
+            "status": "October tasks",
+            "created_at": "2025-10-11T12:02:48.343053+00:00",
+            "updated_at": "2025-10-11T12:02:48.343053+00:00"
         }
     ]
 }
