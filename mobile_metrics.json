@@ -21139,6 +21139,30 @@
             "status": "October tasks",
             "created_at": "2025-10-11T12:02:48.343053+00:00",
             "updated_at": "2025-10-11T12:02:48.343053+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3508",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Task not saved when added from Overview (\u201cTop Task Today\u201d)",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-12T12:02:50.562201+00:00",
+            "updated_at": "2025-10-12T12:02:50.562201+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3507",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "No habits suggested during onboarding even after selecting main goals",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-12T12:02:50.562201+00:00",
+            "updated_at": "2025-10-12T12:02:50.562201+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3510",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Unable to search tasks in To-Do List",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-12T12:02:50.562201+00:00",
+            "updated_at": "2025-10-12T12:02:50.562201+00:00"
         }
     ]
 }
