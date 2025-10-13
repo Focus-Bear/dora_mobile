@@ -21163,6 +21163,46 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-12T12:02:50.562201+00:00",
             "updated_at": "2025-10-12T12:02:50.562201+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3511",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Home screen shows habits even after choosing \u201cSet up later\u201d",
+            "status": "Q2 2026",
+            "created_at": "2025-10-13T12:03:09.321378+00:00",
+            "updated_at": "2025-10-13T12:03:09.321378+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3512",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add toast confirmation after sending a feature request",
+            "status": "October tasks",
+            "created_at": "2025-10-13T12:03:09.321378+00:00",
+            "updated_at": "2025-10-13T12:03:09.321378+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3513",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Egg hatching animation displays too soon (not essential for this build)",
+            "status": "October tasks",
+            "created_at": "2025-10-13T12:03:09.321378+00:00",
+            "updated_at": "2025-10-13T12:03:09.321378+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3514",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Websites blocked during super strict mode?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-13T12:03:09.321378+00:00",
+            "updated_at": "2025-10-13T12:03:09.321378+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3509",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Android Crash: clearAllState() method causes app crash in react-native-pusher-push-notifications",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-13T12:03:09.321378+00:00",
+            "updated_at": "2025-10-13T12:03:09.321378+00:00"
         }
     ]
 }
