@@ -13042,6 +13042,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3526",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-10-15T04:47:51Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3525",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "marley195",
+            "created_at": "2025-10-15T00:44:59Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3524",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-10-14T20:55:55Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13073,9 +13100,9 @@
             "issue_id": "Focus-Bear/mobile-app#2799",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Suggestion] There should be a \u201cGo Back\u201d button to continue the Habit when the user selects \u201cSkip\u201d.",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#347",
@@ -20785,17 +20812,17 @@
             "issue_id": "Focus-Bear/mobile-app#3441",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove autocorrect for add URL field",
-            "status": "Q2 2026 tasks",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3442",
             "repo": "Focus-Bear/mobile-app",
             "title": "Editing todo screen should have a save button",
-            "status": "October tasks",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-08T12:03:10.363462+00:00"
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3443",
@@ -21260,6 +21287,30 @@
             "status": "Q4 2025",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
             "updated_at": "2025-10-14T12:03:18.059403+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3522",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashes when tapping on \u201cSet up habits\u201d button",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-15T12:03:25.157084+00:00",
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3523",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Tasks TOP sliders not easy to use",
+            "status": "Q4 2025",
+            "created_at": "2025-10-15T12:03:25.157084+00:00",
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3527",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Delay in displaying newly added habits on Home screen",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-15T12:03:25.157084+00:00",
+            "updated_at": "2025-10-15T12:03:25.157084+00:00"
         }
     ]
 }
