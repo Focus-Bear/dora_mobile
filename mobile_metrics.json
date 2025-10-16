@@ -13069,6 +13069,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3528",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "dualeodev",
+            "created_at": "2025-10-15T16:45:06Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -18580,9 +18589,9 @@
             "issue_id": "Focus-Bear/mobile-app#2831",
             "repo": "Focus-Bear/mobile-app",
             "title": "Can we have decimal numbers?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-09T12:03:07.135589+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2834",
@@ -20780,9 +20789,9 @@
             "issue_id": "Focus-Bear/mobile-app#3438",
             "repo": "Focus-Bear/mobile-app",
             "title": "Wrong message displayed when morning habits not done but evening habits completed",
-            "status": "Architecture review/clarification",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2493",
@@ -21012,9 +21021,9 @@
             "issue_id": "Focus-Bear/mobile-app#3476",
             "repo": "Focus-Bear/mobile-app",
             "title": "Choosing distracting apps not working on iOS?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-03T12:03:01.783361+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3477",
@@ -21084,9 +21093,9 @@
             "issue_id": "Focus-Bear/mobile-app#3486",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request / UX Improvement: Better communication before trial expiration",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-06T12:03:10.192248+00:00",
-            "updated_at": "2025-10-09T12:03:07.135589+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3487",
@@ -21188,9 +21197,9 @@
             "issue_id": "Focus-Bear/mobile-app#3507",
             "repo": "Focus-Bear/mobile-app",
             "title": "No habits suggested during onboarding even after selecting main goals",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-12T12:02:50.562201+00:00",
-            "updated_at": "2025-10-12T12:02:50.562201+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3510",
@@ -21268,9 +21277,9 @@
             "issue_id": "Focus-Bear/mobile-app#3520",
             "repo": "Focus-Bear/mobile-app",
             "title": "No \u201cSave successfully\u201d message shown in Blocklist",
-            "status": "Q4 2025",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2590",
@@ -21292,9 +21301,9 @@
             "issue_id": "Focus-Bear/mobile-app#3522",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashes when tapping on \u201cSet up habits\u201d button",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-15T12:03:25.157084+00:00",
-            "updated_at": "2025-10-15T12:03:25.157084+00:00"
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3523",
@@ -21311,6 +21320,22 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-15T12:03:25.157084+00:00",
             "updated_at": "2025-10-15T12:03:25.157084+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3529",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Unable to save habits?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-16T12:03:06.943527+00:00",
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3530",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Activated permission screentime event fired on first load of app?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-16T12:03:06.943527+00:00",
+            "updated_at": "2025-10-16T12:03:06.943527+00:00"
         }
     ]
 }
