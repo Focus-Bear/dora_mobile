@@ -13087,6 +13087,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3538",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-10-18T07:51:35Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3537",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-17T18:22:27Z",
+            "merged_at": "2025-10-17T18:22:33Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
         }
     ],
     "issues": [
@@ -18598,9 +18616,9 @@
             "issue_id": "Focus-Bear/mobile-app#2831",
             "repo": "Focus-Bear/mobile-app",
             "title": "Can we have decimal numbers?",
-            "status": "QA Passed/Done",
+            "status": "QA Failed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-16T12:03:06.943527+00:00"
+            "updated_at": "2025-10-18T12:02:50.873898+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2834",
@@ -20358,9 +20376,9 @@
             "issue_id": "Focus-Bear/mobile-app#3351",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UI] Inconsistent font weight for text in parentheses in goal selection list",
-            "status": "Q3 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-18T12:02:50.873898+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3353",
@@ -20630,9 +20648,9 @@
             "issue_id": "Focus-Bear/mobile-app#3406",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding UI Optimization: Fonts, Spacing, and Duplicate Widgets",
-            "status": "UX quick wins",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-18T12:02:50.873898+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3408",
@@ -21262,9 +21280,9 @@
             "issue_id": "Focus-Bear/mobile-app#3518",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve Tasks Test",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-18T12:02:50.873898+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3516",
@@ -21377,6 +21395,14 @@
             "status": "Q4 2025",
             "created_at": "2025-10-17T12:03:08.395617+00:00",
             "updated_at": "2025-10-17T12:03:08.395617+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3539",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Routine doesn\u2019t automatically reset at the start of a new day",
+            "status": "November",
+            "created_at": "2025-10-18T12:02:50.873898+00:00",
+            "updated_at": "2025-10-18T12:02:50.873898+00:00"
         }
     ]
 }
