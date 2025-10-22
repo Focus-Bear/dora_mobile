@@ -13177,6 +13177,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3557",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "phamlong2205",
+            "created_at": "2025-10-22T04:59:15Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20008,17 +20017,17 @@
             "issue_id": "Focus-Bear/mobile-app#3236",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log quantity modal shouldn't be dismissed by tapping outside the modal.",
-            "status": "Dev Work In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-10T12:03:01.803587+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3240",
             "repo": "Focus-Bear/mobile-app",
             "title": "First habit didn't tick initially. (Report happiness level) Perhaps a backend error?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1002",
@@ -20240,9 +20249,9 @@
             "issue_id": "Focus-Bear/mobile-app#3291",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change the success message after saving a new habit",
-            "status": "QA Failed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-21T12:03:33.347193+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3292",
@@ -20720,9 +20729,9 @@
             "issue_id": "Focus-Bear/mobile-app#3406",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding UI Optimization: Fonts, Spacing, and Duplicate Widgets",
-            "status": "Dev Work In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-18T12:02:50.873898+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3408",
@@ -21368,9 +21377,9 @@
             "issue_id": "Focus-Bear/mobile-app#3517",
             "repo": "Focus-Bear/mobile-app",
             "title": "Re-do the screenshot for habits in the carousel",
-            "status": "October tasks",
+            "status": "Ready for QA",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3520",
@@ -21480,9 +21489,9 @@
             "issue_id": "Focus-Bear/mobile-app#3540",
             "repo": "Focus-Bear/mobile-app",
             "title": "Spanish Localization Issues - UI Misalignment and Untranslated Progress Steps",
-            "status": "October tasks",
+            "status": "For Dev QA",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-10-22T12:03:20.752129+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3543",
