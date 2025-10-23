@@ -21556,6 +21556,22 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
             "updated_at": "2025-10-21T12:03:33.347193+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3558",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashes when logging out in guest mode if notification permission is not granted",
+            "status": "October tasks",
+            "created_at": "2025-10-23T12:03:19.591790+00:00",
+            "updated_at": "2025-10-23T12:03:19.591790+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2622",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Text color in emoji search field is too faint in dark mode (almost invisible)",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-23T12:03:19.591790+00:00",
+            "updated_at": "2025-10-23T12:03:19.591790+00:00"
         }
     ]
 }
