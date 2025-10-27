@@ -20523,9 +20523,9 @@
             "issue_id": "Focus-Bear/mobile-app#3361",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Habit] Edited habit name not updated immediately in Morning Ritual list",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3365",
@@ -21027,9 +21027,9 @@
             "issue_id": "Focus-Bear/mobile-app#3452",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add action bar when habit gets tapped",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-10T12:03:01.803587+00:00"
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3453",
@@ -21595,9 +21595,9 @@
             "issue_id": "Focus-Bear/mobile-app#3561",
             "repo": "Focus-Bear/mobile-app",
             "title": "Super urgent onboarding issues",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-10-24T12:03:28.182812+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3560",
@@ -21627,9 +21627,49 @@
             "issue_id": "Focus-Bear/mobile-app#3565",
             "repo": "Focus-Bear/mobile-app",
             "title": "Existing user forced through onboarding again after login",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-10-26T12:03:10.774736+00:00",
-            "updated_at": "2025-10-26T12:03:10.774736+00:00"
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3566",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Routine marked as completed even though some habits are not done",
+            "status": "November 2025",
+            "created_at": "2025-10-27T12:03:13.150981+00:00",
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3567",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[Suggestion] Edit and close buttons are too close together",
+            "status": "November 2025",
+            "created_at": "2025-10-27T12:03:13.150981+00:00",
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3568",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Fix localising dates",
+            "status": "December tasks",
+            "created_at": "2025-10-27T12:03:13.150981+00:00",
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3569",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Cannot continue onboarding \u2013 \u201cSomething went wrong (400)\u201d error on Routine and Timing screens",
+            "status": "QA Passed/Done",
+            "created_at": "2025-10-27T12:03:13.150981+00:00",
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3570",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Popup \u201cSomething went wrong\u201d repeatedly appears after finishing onboarding with a new account",
+            "status": "November 2025",
+            "created_at": "2025-10-27T12:03:13.150981+00:00",
+            "updated_at": "2025-10-27T12:03:13.150981+00:00"
         }
     ]
 }
