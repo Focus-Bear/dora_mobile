@@ -13213,6 +13213,15 @@
             "merged_at": "2025-10-27T17:51:25Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3582",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-29T08:07:15Z",
+            "merged_at": "2025-10-29T08:07:21Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20332,9 +20341,9 @@
             "issue_id": "Focus-Bear/mobile-app#3306",
             "repo": "Focus-Bear/mobile-app",
             "title": "\"Network error\" for the last habit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3314",
@@ -21428,9 +21437,9 @@
             "issue_id": "Focus-Bear/mobile-app#3521",
             "repo": "Focus-Bear/mobile-app",
             "title": "The last line \u201cDo it later\u201d is partially hidden on the \u201cSet up blocking\u201d screen",
-            "status": "Q3 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3522",
@@ -21644,17 +21653,17 @@
             "issue_id": "Focus-Bear/mobile-app#3566",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine marked as completed even though some habits are not done",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3567",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Suggestion] Edit and close buttons are too close together",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3568",
@@ -21692,9 +21701,9 @@
             "issue_id": "Focus-Bear/mobile-app#3575",
             "repo": "Focus-Bear/mobile-app",
             "title": "App freezes after selecting \u201cUpload audio\u201d in To-do list",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3573",
@@ -21703,6 +21712,54 @@
             "status": "Merged but not released to QA yet",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
             "updated_at": "2025-10-28T12:03:03.756994+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3580",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App briefly opens then turns black and closes immediately",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3576",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Manually completed habits do not show a checkmark \u2014 only display \u201c00:00\u201d, while skipped habits show a checkmark",
+            "status": "November 2025",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3578",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Time picker scroll lags and stutters during selection",
+            "status": "December tasks",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3579",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Text overlap issue in \u201cStart a focus session\u201d header",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3577",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "\u201cSomething went wrong (400)\u201d error appears when adding habits using \u201cAdjust with AI\u201d during onboarding \u2014 cannot proceed after pressing Continue",
+            "status": "Dev Work In Progress",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3581",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus sessions not blocking selected apps",
+            "status": "Architecture review/clarification",
+            "created_at": "2025-10-29T12:03:09.452969+00:00",
+            "updated_at": "2025-10-29T12:03:09.452969+00:00"
         }
     ]
 }
