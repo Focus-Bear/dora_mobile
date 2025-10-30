@@ -13222,6 +13222,33 @@
             "merged_at": "2025-10-29T08:07:21Z",
             "time_to_merge": 0.0016666666666666668,
             "release_id": null
+        },
+        {
+            "pr_id": "3587",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-30T10:04:36Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3586",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-10-30T07:40:24Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3583",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-10-29T13:48:28Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21541,9 +21568,9 @@
             "issue_id": "Focus-Bear/mobile-app#3544",
             "repo": "Focus-Bear/mobile-app",
             "title": "Confirmation banner shows placeholder texts",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-30T12:03:04.806709+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3545",
@@ -21557,9 +21584,9 @@
             "issue_id": "Focus-Bear/mobile-app#3546",
             "repo": "Focus-Bear/mobile-app",
             "title": "App glitching prevents skipping to next habit or hides full habits list",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-30T12:03:04.806709+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3547",
@@ -21760,6 +21787,30 @@
             "status": "Architecture review/clarification",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
             "updated_at": "2025-10-29T12:03:09.452969+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3584",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Building app takes 1hr?",
+            "status": "November 2025",
+            "created_at": "2025-10-30T12:03:04.806709+00:00",
+            "updated_at": "2025-10-30T12:03:04.806709+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3585",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "iOS soft blocking via custom shield screen",
+            "status": "November 2025",
+            "created_at": "2025-10-30T12:03:04.806709+00:00",
+            "updated_at": "2025-10-30T12:03:04.806709+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3588",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "TOP score for all tasks is zero",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-30T12:03:04.806709+00:00",
+            "updated_at": "2025-10-30T12:03:04.806709+00:00"
         }
     ]
 }
