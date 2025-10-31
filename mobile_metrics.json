@@ -809,6 +809,16 @@
             "published_at": "2025-10-07T15:38:16Z",
             "time_since_last_release": 87.0,
             "pr_count": 62
+        },
+        {
+            "release_id": "258710025",
+            "version": "1.12.1",
+            "name": "1.12.1",
+            "author": "BaoHG1508",
+            "body": "## What's Changed\r\n* Feat/new home screen by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3491\r\n* chore: fix crash by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3493\r\n* chore: new egg hatching animation by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3494\r\n* chore: fix 3476 by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3495\r\n* chore: add testIDs for Home tabs and for adding tasks in Todo tab by @ksvyee in https://github.com/Focus-Bear/mobile-app/pull/3499\r\n* Limit quick break name input by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3496\r\n* Update goBack modal function by @mia-nguyen0411 in https://github.com/Focus-Bear/mobile-app/pull/2944\r\n* Chore/fix new home screne by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3504\r\n* chore: improve accessibility permission text formatting by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3502\r\n* feat: add PostHog events for mobile edit-habits webview by @amanueltsfy in https://github.com/Focus-Bear/mobile-app/pull/3474\r\n* Issue #3291 - Update success message for adding new habit by @phamlong2205 in https://github.com/Focus-Bear/mobile-app/pull/3475\r\n* onboarding tweaks by @dualeodev in https://github.com/Focus-Bear/mobile-app/pull/3503\r\n* fix conflict by @dualeodev in https://github.com/Focus-Bear/mobile-app/pull/3506\r\n* fix crash when tapping set up habits by @dualeodev in https://github.com/Focus-Bear/mobile-app/pull/3528\r\n* add actionRequired prop to LogQuantityModal by @marley195 in https://github.com/Focus-Bear/mobile-app/pull/3525\r\n* chore: add test IDs to Tasks tab by @ksvyee in https://github.com/Focus-Bear/mobile-app/pull/3519\r\n* fix no habits suggested by @dualeodev in https://github.com/Focus-Bear/mobile-app/pull/3531\r\n* Chore/fix bug 1.2.0 by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3537\r\n* Fix/appblocklist success message by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3538\r\n* fix: disable autocorrect on URL input field by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3526\r\n* Chore: Home tabs/overview/habits code cleanup by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3524\r\n* chore: fix double import by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3541\r\n* Chore: Update app icon by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3548\r\n* Chore: Update app splash screen by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3550\r\n* Fix: Manual refresh needed after adding/editing/deleting habits by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3564\r\n* Feat: Habit action bar by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3551\r\n* Fix/Onboarding UI Consistency by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3556\r\n* Fix/1.11.1/urgent onboarding fixes by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3571\r\n* Chore/fix 1.12.1 bug by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3582\r\n\r\n## New Contributors\r\n* @alxurb1 made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3496\r\n* @dualeodev made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3503\r\n* @marley195 made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3525\r\n\r\n**Full Changelog**: https://github.com/Focus-Bear/mobile-app/compare/1.11.1...1.12.1",
+            "published_at": "2025-10-31T07:15:32Z",
+            "time_since_last_release": 23.0,
+            "pr_count": 76
         }
     ],
     "pull_requests": [
@@ -13249,6 +13259,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3590",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "mia-nguyen0411",
+            "created_at": "2025-10-31T01:39:19Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -14120,9 +14139,9 @@
             "issue_id": "Focus-Bear/mobile-app#3075",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking Doesn\u2019t Activate on Schedule Without Opening Focus Bear App (iOS)",
-            "status": "External devs in progress",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#943",
@@ -20096,9 +20115,9 @@
             "issue_id": "Focus-Bear/Mac-App#1002",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac Laptop and Andriod phone don\u2019t sync sometimes it works and other times it does not",
-            "status": "Architecture review/clarification",
+            "status": "External devs in progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3241",
@@ -21032,9 +21051,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2267",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Feature Request: custom blocking schedule",
-            "status": "External devs in progress",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3195",
@@ -21416,9 +21435,9 @@
             "issue_id": "Focus-Bear/mobile-app#3509",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android Crash: clearAllState() method causes app crash in react-native-pusher-push-notifications",
-            "status": "November 2025",
+            "status": "Emergency fix needed",
             "created_at": "2025-10-13T12:03:09.321378+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3518",
@@ -21504,9 +21523,9 @@
             "issue_id": "Focus-Bear/mobile-app#3530",
             "repo": "Focus-Bear/mobile-app",
             "title": "Activated permission screentime event fired on first load of app?",
-            "status": "November 2025",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-16T12:03:06.943527+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3535",
@@ -21592,9 +21611,9 @@
             "issue_id": "Focus-Bear/mobile-app#3547",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improvements to posthog events for onboarding",
-            "status": "November 2025",
+            "status": "External devs in progress",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3552",
@@ -21608,9 +21627,9 @@
             "issue_id": "Focus-Bear/mobile-app#3553",
             "repo": "Focus-Bear/mobile-app",
             "title": "Test new events endpoint",
-            "status": "December tasks",
+            "status": "Emergency fix needed",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3554",
@@ -21720,9 +21739,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "November 2025",
+            "status": "Emergency fix needed",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -21811,6 +21830,62 @@
             "status": "Emergency fix needed",
             "created_at": "2025-10-30T12:03:04.806709+00:00",
             "updated_at": "2025-10-30T12:03:04.806709+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3589",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature request: Differentiate visual icons for \u201ccompleted\u201d vs \u201cskipped\u201d habits in habit view",
+            "status": "3",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3591",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "iOS blocking schedule part 1: no API integration",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3592",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Android blocking schedule (no exact alarms)",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3593",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App logs user out and shows incomplete onboarding screens upon restart",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3594",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Completing habits is not saved; habits remain marked as incomplete",
+            "status": "Emergency fix needed",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2666",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Habit settings not saving; edited times revert to previous values",
+            "status": "November 2025",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3595",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Routine timer pauses when screen is locked or switched apps (iOS)",
+            "status": "November 2025",
+            "created_at": "2025-10-31T12:03:13.389985+00:00",
+            "updated_at": "2025-10-31T12:03:13.389985+00:00"
         }
     ]
 }
