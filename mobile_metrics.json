@@ -20211,9 +20211,9 @@
             "issue_id": "Focus-Bear/mobile-app#3267",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit progress lost after completing final habit on Windows; iOS app prompts to redo it after crash",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-10T12:03:01.803587+00:00"
+            "updated_at": "2025-11-01T12:02:39.946513+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3277",
@@ -21755,9 +21755,9 @@
             "issue_id": "Focus-Bear/mobile-app#3573",
             "repo": "Focus-Bear/mobile-app",
             "title": "Logging back in resets habits  to default",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-01T12:02:39.946513+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3580",
@@ -21875,9 +21875,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2666",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Habit settings not saving; edited times revert to previous values",
-            "status": "November 2025",
+            "status": "Emergency fix needed",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-01T12:02:39.946513+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3595",
