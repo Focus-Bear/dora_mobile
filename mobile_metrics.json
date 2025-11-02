@@ -13315,9 +13315,9 @@
             "issue_id": "Focus-Bear/mobile-app#3447",
             "repo": "Focus-Bear/mobile-app",
             "title": "Disable the El Salvador geolock",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3437",
@@ -18947,9 +18947,9 @@
             "issue_id": "Focus-Bear/mobile-app#2883",
             "repo": "Focus-Bear/mobile-app",
             "title": "Pop-up Overlay Size (Android v1.6.1)",
-            "status": "Q4 2026 tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2007",
@@ -20563,9 +20563,9 @@
             "issue_id": "Focus-Bear/mobile-app#3355",
             "repo": "Focus-Bear/mobile-app",
             "title": "Bug Report: Evening routine marked as completed prematurely, tasks disappear",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3356",
@@ -20963,9 +20963,9 @@
             "issue_id": "Focus-Bear/mobile-app#3430",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit marked as completed still being prompted again",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3431",
@@ -21163,9 +21163,9 @@
             "issue_id": "Focus-Bear/mobile-app#3466",
             "repo": "Focus-Bear/mobile-app",
             "title": "To-Do List Opens Blank White Screen \u2013 App Unusable",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-01T12:03:13.371877+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3467",
@@ -21203,9 +21203,9 @@
             "issue_id": "Focus-Bear/mobile-app#3472",
             "repo": "Focus-Bear/mobile-app",
             "title": "Try new animation for egg hatching",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-02T12:02:53.506417+00:00",
-            "updated_at": "2025-10-14T12:03:18.059403+00:00"
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3476",
@@ -21886,6 +21886,14 @@
             "status": "November 2025",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
             "updated_at": "2025-10-31T12:03:13.389985+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3596",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[suggestion] Habit automatically skips when accidentally tapping the checkbox",
+            "status": "November 2025",
+            "created_at": "2025-11-02T12:02:44.359505+00:00",
+            "updated_at": "2025-11-02T12:02:44.359505+00:00"
         }
     ]
 }
