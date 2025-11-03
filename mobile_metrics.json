@@ -13268,6 +13268,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3599",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-03T04:32:22Z",
+            "merged_at": "2025-11-03T04:32:36Z",
+            "time_to_merge": 0.0038888888888888888,
+            "release_id": null
+        },
+        {
+            "pr_id": "3598",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "jeznag",
+            "created_at": "2025-11-03T03:54:01Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21859,9 +21877,9 @@
             "issue_id": "Focus-Bear/mobile-app#3593",
             "repo": "Focus-Bear/mobile-app",
             "title": "App logs user out and shows incomplete onboarding screens upon restart",
-            "status": "Emergency fix needed",
+            "status": "Unable to replicate",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-03T12:03:01.232594+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3594",
@@ -21894,6 +21912,14 @@
             "status": "November 2025",
             "created_at": "2025-11-02T12:02:44.359505+00:00",
             "updated_at": "2025-11-02T12:02:44.359505+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3597",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Every button in onboarding needs a posthog event",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-03T12:03:01.232594+00:00",
+            "updated_at": "2025-11-03T12:03:01.232594+00:00"
         }
     ]
 }
