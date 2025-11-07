@@ -13383,9 +13383,9 @@
             "issue_id": "Focus-Bear/mobile-app#3246",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] Registration windows continue to appear every time the user opens the app",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3136",
@@ -13399,9 +13399,9 @@
             "issue_id": "Focus-Bear/mobile-app#3311",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] Multiple login issues",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3270",
@@ -13447,9 +13447,9 @@
             "issue_id": "Focus-Bear/mobile-app#3340",
             "repo": "Focus-Bear/mobile-app",
             "title": "UNICAES student unable to use iOS app",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2400",
@@ -13687,9 +13687,9 @@
             "issue_id": "Focus-Bear/mobile-app#3230",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] ZTE user can't continue after permissions screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3045",
@@ -14175,9 +14175,9 @@
             "issue_id": "Focus-Bear/mobile-app#3075",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking Doesn\u2019t Activate on Schedule Without Opening Focus Bear App (iOS)",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#943",
@@ -15063,9 +15063,9 @@
             "issue_id": "Focus-Bear/mobile-app#2750",
             "repo": "Focus-Bear/mobile-app",
             "title": "Fix Missing Navigation Context in Logs - `HabitSettingScreen` & `EditHabits`",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2850",
@@ -15175,9 +15175,9 @@
             "issue_id": "Focus-Bear/mobile-app#1920",
             "repo": "Focus-Bear/mobile-app",
             "title": "Trigger posthog event when subscription expired screen shows",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#785",
@@ -19415,9 +19415,9 @@
             "issue_id": "Focus-Bear/mobile-app#3039",
             "repo": "Focus-Bear/mobile-app",
             "title": "[AWS testing] add aws dashboard on webviews",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3044",
@@ -19799,9 +19799,9 @@
             "issue_id": "Focus-Bear/mobile-app#3173",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] Permission Needed window keeps showing even it's granted",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#728",
@@ -20087,9 +20087,9 @@
             "issue_id": "Focus-Bear/mobile-app#3222",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES] Study participants are not getting premium features",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3223",
@@ -20119,9 +20119,9 @@
             "issue_id": "Focus-Bear/mobile-app#3228",
             "repo": "Focus-Bear/mobile-app",
             "title": "[UNICAES study] Habits error",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3231",
@@ -20631,9 +20631,9 @@
             "issue_id": "Focus-Bear/mobile-app#3365",
             "repo": "Focus-Bear/mobile-app",
             "title": "UNICAES \u2013 App won\u2019t accept screenshot",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3366",
@@ -20663,9 +20663,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "Code Review",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -20855,9 +20855,9 @@
             "issue_id": "Focus-Bear/mobile-app#3408",
             "repo": "Focus-Bear/mobile-app",
             "title": "Play Store Listing Outdated and Incomplete",
-            "status": "Architecture review/clarification",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3409",
@@ -20895,9 +20895,9 @@
             "issue_id": "Focus-Bear/mobile-app#3415",
             "repo": "Focus-Bear/mobile-app",
             "title": "Error during signup",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3416",
@@ -21087,9 +21087,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2267",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Feature Request: custom blocking schedule",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3195",
@@ -21543,9 +21543,9 @@
             "issue_id": "Focus-Bear/mobile-app#3527",
             "repo": "Focus-Bear/mobile-app",
             "title": "Delay in displaying newly added habits on Home screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-15T12:03:25.157084+00:00",
-            "updated_at": "2025-11-04T12:03:15.166236+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3529",
@@ -21775,9 +21775,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-11-06T12:03:06.043602+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -21879,9 +21879,9 @@
             "issue_id": "Focus-Bear/mobile-app#3591",
             "repo": "Focus-Bear/mobile-app",
             "title": "iOS blocking schedule part 1: no API integration",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-11-06T12:03:06.043602+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3592",
@@ -21951,9 +21951,9 @@
             "issue_id": "Focus-Bear/mobile-app#3602",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add tests for activity items per habit",
-            "status": "Code Review",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-11-05T12:03:09.227235+00:00",
-            "updated_at": "2025-11-05T12:03:09.227235+00:00"
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3605",
@@ -21970,6 +21970,30 @@
             "status": "December tasks",
             "created_at": "2025-11-06T12:03:06.043602+00:00",
             "updated_at": "2025-11-06T12:03:06.043602+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3607",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature Improvement \u2013 Add Accessibility Features for Visually and Hearing Impaired Users",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-07T12:02:55.571649+00:00",
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3609",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature Request \u2013 Integrate Timer into Tasks",
+            "status": "2026",
+            "created_at": "2025-11-07T12:02:55.571649+00:00",
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3608",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature Improvement \u2013 Enhance Focus Data Analytics for Efficiency and Lifestyle Insights",
+            "status": "Q1 2026",
+            "created_at": "2025-11-07T12:02:55.571649+00:00",
+            "updated_at": "2025-11-07T12:02:55.571649+00:00"
         }
     ]
 }
