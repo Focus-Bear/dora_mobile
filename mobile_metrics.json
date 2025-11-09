@@ -20367,9 +20367,9 @@
             "issue_id": "Focus-Bear/mobile-app#3291",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change the success message after saving a new habit",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-22T12:03:20.752129+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3292",
@@ -20623,9 +20623,9 @@
             "issue_id": "Focus-Bear/mobile-app#3361",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Habit] Edited habit name not updated immediately in Morning Ritual list",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3365",
@@ -20663,9 +20663,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -20895,9 +20895,9 @@
             "issue_id": "Focus-Bear/mobile-app#3415",
             "repo": "Focus-Bear/mobile-app",
             "title": "Error during signup",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3416",
@@ -21071,9 +21071,9 @@
             "issue_id": "Focus-Bear/mobile-app#3444",
             "repo": "Focus-Bear/mobile-app",
             "title": "Deleting habit not working correctly",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-04T12:03:15.166236+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3330",
@@ -21127,9 +21127,9 @@
             "issue_id": "Focus-Bear/mobile-app#3452",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add action bar when habit gets tapped",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-27T12:03:13.150981+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3453",
@@ -21231,9 +21231,9 @@
             "issue_id": "Focus-Bear/mobile-app#3470",
             "repo": "Focus-Bear/mobile-app",
             "title": "Unable to dismiss keyboard after entering text in Focus Goal field",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-02T12:02:53.506417+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3472",
@@ -21263,9 +21263,9 @@
             "issue_id": "Focus-Bear/mobile-app#3478",
             "repo": "Focus-Bear/mobile-app",
             "title": "Due date mismatch between list view and detail view (only when created by audio/photo)",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-03T12:03:01.783361+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2553",
@@ -21279,9 +21279,9 @@
             "issue_id": "Focus-Bear/mobile-app#3481",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding carousel broken on tablets?",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-10-05T12:02:50.877984+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3482",
@@ -21415,17 +21415,17 @@
             "issue_id": "Focus-Bear/mobile-app#3508",
             "repo": "Focus-Bear/mobile-app",
             "title": "Task not saved when added from Overview (\u201cTop Task Today\u201d)",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-12T12:02:50.562201+00:00",
-            "updated_at": "2025-10-20T12:03:15.910425+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3507",
             "repo": "Focus-Bear/mobile-app",
             "title": "No habits suggested during onboarding even after selecting main goals",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-12T12:02:50.562201+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3510",
@@ -21439,9 +21439,9 @@
             "issue_id": "Focus-Bear/mobile-app#3511",
             "repo": "Focus-Bear/mobile-app",
             "title": "Home screen shows habits even after choosing \u201cSet up later\u201d",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-13T12:03:09.321378+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3512",
@@ -21559,25 +21559,25 @@
             "issue_id": "Focus-Bear/mobile-app#3530",
             "repo": "Focus-Bear/mobile-app",
             "title": "Activated permission screentime event fired on first load of app?",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-10-16T12:03:06.943527+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3535",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change to pause blocking: don't block app functionality",
-            "status": "December tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-17T12:03:08.395617+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3532",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add login link in top right hand corner at start of onboarding",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-17T12:03:08.395617+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3533",
@@ -21623,17 +21623,17 @@
             "issue_id": "Focus-Bear/mobile-app#3544",
             "repo": "Focus-Bear/mobile-app",
             "title": "Confirmation banner shows placeholder texts",
-            "status": "QA Failed",
+            "status": "November 2025",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-30T12:03:04.806709+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3545",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit repeatedly prompts to restart after completion instead of marking as done",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3546",
@@ -21655,9 +21655,9 @@
             "issue_id": "Focus-Bear/mobile-app#3552",
             "repo": "Focus-Bear/mobile-app",
             "title": "Sentry errors",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3553",
@@ -21671,9 +21671,9 @@
             "issue_id": "Focus-Bear/mobile-app#3554",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crash when selecting \u201cTake Pictures\u201d, and \u201cRecord\u201d shows a black screen",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3558",
@@ -21695,9 +21695,9 @@
             "issue_id": "Focus-Bear/mobile-app#3561",
             "repo": "Focus-Bear/mobile-app",
             "title": "Super urgent onboarding issues",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-24T12:03:28.182812+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3560",
@@ -21727,9 +21727,9 @@
             "issue_id": "Focus-Bear/mobile-app#3565",
             "repo": "Focus-Bear/mobile-app",
             "title": "Existing user forced through onboarding again after login",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-26T12:03:10.774736+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3566",
@@ -21767,9 +21767,9 @@
             "issue_id": "Focus-Bear/mobile-app#3570",
             "repo": "Focus-Bear/mobile-app",
             "title": "Popup \u201cSomething went wrong\u201d repeatedly appears after finishing onboarding with a new account",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3574",
@@ -21799,9 +21799,9 @@
             "issue_id": "Focus-Bear/mobile-app#3580",
             "repo": "Focus-Bear/mobile-app",
             "title": "App briefly opens then turns black and closes immediately",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-11-06T12:03:06.043602+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3576",
@@ -21831,9 +21831,9 @@
             "issue_id": "Focus-Bear/mobile-app#3577",
             "repo": "Focus-Bear/mobile-app",
             "title": "\u201cSomething went wrong (400)\u201d error appears when adding habits using \u201cAdjust with AI\u201d during onboarding \u2014 cannot proceed after pressing Continue",
-            "status": "Dev Work In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3581",
@@ -21887,9 +21887,9 @@
             "issue_id": "Focus-Bear/mobile-app#3592",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android blocking schedule (no exact alarms)",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3593",
@@ -21951,9 +21951,9 @@
             "issue_id": "Focus-Bear/mobile-app#3602",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add tests for activity items per habit",
-            "status": "Merged but not released to QA yet",
+            "status": "For Dev QA",
             "created_at": "2025-11-05T12:03:09.227235+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3605",
@@ -21967,17 +21967,17 @@
             "issue_id": "Focus-Bear/mobile-app#3611",
             "repo": "Focus-Bear/mobile-app",
             "title": "People get logged out automatically",
-            "status": "December tasks",
+            "status": "Emergency fix needed",
             "created_at": "2025-11-06T12:03:06.043602+00:00",
-            "updated_at": "2025-11-06T12:03:06.043602+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3607",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Improvement \u2013 Add Accessibility Features for Visually and Hearing Impaired Users",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-11-07T12:02:55.571649+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3609",
@@ -22007,9 +22007,41 @@
             "issue_id": "Focus-Bear/mobile-app#3613",
             "repo": "Focus-Bear/mobile-app",
             "title": "To do list: swipe right to reschedule",
-            "status": "Q1 2026",
+            "status": "December tasks",
             "created_at": "2025-11-08T12:02:45.820282+00:00",
-            "updated_at": "2025-11-08T12:02:45.820282+00:00"
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3604",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature Improvement \u2013 Difficulty Adjustment / Adaptive Focus Modes",
+            "status": "Development paused - waiting for upstream dependencies",
+            "created_at": "2025-11-09T12:02:50.664495+00:00",
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3616",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Deleting habit doesn't work.",
+            "status": "Q1 2027",
+            "created_at": "2025-11-09T12:02:50.664495+00:00",
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3614",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Can't grant overlay permissions.",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-09T12:02:50.664495+00:00",
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3615",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Log quantity is broken.",
+            "status": "Architecture review/clarification",
+            "created_at": "2025-11-09T12:02:50.664495+00:00",
+            "updated_at": "2025-11-09T12:02:50.664495+00:00"
         }
     ]
 }
