@@ -13304,6 +13304,42 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3620",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-09T18:38:37Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3619",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-09T18:27:58Z",
+            "merged_at": "2025-11-09T18:28:07Z",
+            "time_to_merge": 0.0025,
+            "release_id": null
+        },
+        {
+            "pr_id": "3618",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-09T18:27:16Z",
+            "merged_at": "2025-11-09T18:27:22Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
+        },
+        {
+            "pr_id": "3617",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-09T18:26:15Z",
+            "merged_at": "2025-11-09T18:27:30Z",
+            "time_to_merge": 0.020833333333333332,
+            "release_id": null
         }
     ],
     "issues": [
@@ -14175,9 +14211,9 @@
             "issue_id": "Focus-Bear/mobile-app#3075",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking Doesn\u2019t Activate on Schedule Without Opening Focus Bear App (iOS)",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#943",
@@ -21087,9 +21123,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2267",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Feature Request: custom blocking schedule",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3195",
@@ -21591,9 +21627,9 @@
             "issue_id": "Focus-Bear/mobile-app#3536",
             "repo": "Focus-Bear/mobile-app",
             "title": "TOP score calculations need unit tests and need to fix the time pressure calculations",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-10-17T12:03:08.395617+00:00",
-            "updated_at": "2025-11-04T12:03:15.166236+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3539",
@@ -21663,9 +21699,9 @@
             "issue_id": "Focus-Bear/mobile-app#3553",
             "repo": "Focus-Bear/mobile-app",
             "title": "Test new events endpoint",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3554",
@@ -21775,9 +21811,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -21879,17 +21915,17 @@
             "issue_id": "Focus-Bear/mobile-app#3591",
             "repo": "Focus-Bear/mobile-app",
             "title": "iOS blocking schedule part 1: no API integration",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-11-07T12:02:55.571649+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3592",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android blocking schedule (no exact alarms)",
-            "status": "November 2025",
+            "status": "External devs in progress",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3593",
@@ -21935,25 +21971,25 @@
             "issue_id": "Focus-Bear/mobile-app#3597",
             "repo": "Focus-Bear/mobile-app",
             "title": "Every button in onboarding needs a posthog event",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-11-03T12:03:01.232594+00:00",
-            "updated_at": "2025-11-03T12:03:01.232594+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3600",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove goal selection step if they choose focus only",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2025-11-04T12:03:15.166236+00:00",
-            "updated_at": "2025-11-04T12:03:15.166236+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3602",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add tests for activity items per habit",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-05T12:03:09.227235+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3605",
@@ -22039,9 +22075,57 @@
             "issue_id": "Focus-Bear/mobile-app#3615",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log quantity is broken.",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-11-09T12:02:50.664495+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3621",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature request: Add visual timer or animation during non-video habits to prevent blank screen",
+            "status": "Q2 2026",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3622",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Onboarding: Let people open the carousel if they're interested",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3623",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App freezes when selecting \u201cOther\u201d in Focus Bear\u2019s Block App section",
+            "status": "November 2025",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3624",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[suggestion] Title: Add a streak animation when a new day begins",
+            "status": "Q1 2026",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3625",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "\u201cStrict block\u201d mode not saved correctly after creating a new schedule",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3626",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashes on logout, showing \u201cSomething went wrong\u201d popup",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-10T12:03:08.960614+00:00",
+            "updated_at": "2025-11-10T12:03:08.960614+00:00"
         }
     ]
 }
