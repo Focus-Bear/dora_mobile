@@ -13367,6 +13367,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3640",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-11-13T07:43:26Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3639",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-11-13T07:19:30Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22182,9 +22200,9 @@
             "issue_id": "Focus-Bear/mobile-app#3572",
             "repo": "Focus-Bear/mobile-app",
             "title": "Settings can't be accessed - displays blank screen",
-            "status": "Emergency fix needed",
+            "status": "Unable to replicate",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-11T12:03:02.983638+00:00"
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3631",
@@ -22209,6 +22227,46 @@
             "status": "December tasks",
             "created_at": "2025-11-12T12:03:41.028938+00:00",
             "updated_at": "2025-11-12T12:03:41.028938+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3636",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[Blocking schedule] Bug reports",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-13T12:03:03.883032+00:00",
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3637",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[Blocking schedule] Red notification dot on Blocking Schedules persists even when there is no new update or alert",
+            "status": "Q1 2026",
+            "created_at": "2025-11-13T12:03:03.883032+00:00",
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3638",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Small floating dot artifact appears across multiple screens",
+            "status": "UX quick wins",
+            "created_at": "2025-11-13T12:03:03.883032+00:00",
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3641",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashed",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-13T12:03:03.883032+00:00",
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3642",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Auto play habit after 5 seconds",
+            "status": "December tasks",
+            "created_at": "2025-11-13T12:03:03.883032+00:00",
+            "updated_at": "2025-11-13T12:03:03.883032+00:00"
         }
     ]
 }
