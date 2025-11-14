@@ -13385,6 +13385,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3643",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "marley195",
+            "created_at": "2025-11-14T06:28:09Z",
+            "merged_at": "2025-11-14T10:35:13Z",
+            "time_to_merge": 4.1177777777777775,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13616,9 +13625,9 @@
             "issue_id": "Focus-Bear/mobile-app#3293",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Android only] Habits don\u2019t automatically block apps at the start of a new day unless Focus Bear is opened",
-            "status": "External devs in progress",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3387",
@@ -15064,9 +15073,9 @@
             "issue_id": "Focus-Bear/mobile-app#1847",
             "repo": "Focus-Bear/mobile-app",
             "title": "Watch app isn't working. It's showing the wrong habit",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-11T12:03:02.983638+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2239",
@@ -21048,9 +21057,9 @@
             "issue_id": "Focus-Bear/mobile-app#3425",
             "repo": "Focus-Bear/mobile-app",
             "title": "Option to Minimize Timer During Routines",
-            "status": "November 2025",
+            "status": "Code Review",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3427",
@@ -21728,9 +21737,9 @@
             "issue_id": "Focus-Bear/mobile-app#3547",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improvements to posthog events for onboarding",
-            "status": "External devs in progress",
+            "status": "Code Review",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-10-31T12:03:13.389985+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3552",
@@ -21888,9 +21897,9 @@
             "issue_id": "Focus-Bear/mobile-app#3576",
             "repo": "Focus-Bear/mobile-app",
             "title": "Manually completed habits do not show a checkmark \u2014 only display \u201c00:00\u201d, while skipped habits show a checkmark",
-            "status": "November 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3578",
@@ -21928,9 +21937,9 @@
             "issue_id": "Focus-Bear/mobile-app#3584",
             "repo": "Focus-Bear/mobile-app",
             "title": "Building app takes 1hr?",
-            "status": "November 2025",
+            "status": "December tasks",
             "created_at": "2025-10-30T12:03:04.806709+00:00",
-            "updated_at": "2025-10-30T12:03:04.806709+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3585",
@@ -21968,9 +21977,9 @@
             "issue_id": "Focus-Bear/mobile-app#3592",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android blocking schedule (no exact alarms)",
-            "status": "External devs in progress",
+            "status": "Dev Work In Progress",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3593",
@@ -22168,9 +22177,9 @@
             "issue_id": "Focus-Bear/mobile-app#3626",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashes on logout, showing \u201cSomething went wrong\u201d popup",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3628",
@@ -22192,9 +22201,9 @@
             "issue_id": "Focus-Bear/mobile-app#3630",
             "repo": "Focus-Bear/mobile-app",
             "title": "Multiple critical errors (404 and 409) causing data loss, failed actions, and overview page desync",
-            "status": "Emergency fix needed",
+            "status": "Architecture review/clarification",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-11T12:03:02.983638+00:00"
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3572",
@@ -22267,6 +22276,30 @@
             "status": "December tasks",
             "created_at": "2025-11-13T12:03:03.883032+00:00",
             "updated_at": "2025-11-13T12:03:03.883032+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3644",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow adding habits on routine suggestions screen",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-14T12:03:07.621261+00:00",
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3645",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Support vimeo videos",
+            "status": "November 2025",
+            "created_at": "2025-11-14T12:03:07.621261+00:00",
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3646",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "No habit suggestions after selecting goals + sometimes shows \u201cOops something went wrong\u201d",
+            "status": "November 2025",
+            "created_at": "2025-11-14T12:03:07.621261+00:00",
+            "updated_at": "2025-11-14T12:03:07.621261+00:00"
         }
     ]
 }
