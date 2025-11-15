@@ -13394,6 +13394,15 @@
             "merged_at": "2025-11-14T10:35:13Z",
             "time_to_merge": 4.1177777777777775,
             "release_id": null
+        },
+        {
+            "pr_id": "3647",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-11-14T12:22:08Z",
+            "merged_at": "2025-11-15T11:33:14Z",
+            "time_to_merge": 23.185,
+            "release_id": null
         }
     ],
     "issues": [
@@ -17929,9 +17938,9 @@
             "issue_id": "Focus-Bear/mobile-app#2369",
             "repo": "Focus-Bear/mobile-app",
             "title": "Bug Report: Freemium Issues & Subscription Status Not Updating",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2312",
@@ -21129,9 +21138,9 @@
             "issue_id": "Focus-Bear/mobile-app#3440",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit times don't update immediately",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-04T12:03:15.166236+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3441",
@@ -21529,9 +21538,9 @@
             "issue_id": "Focus-Bear/mobile-app#3511",
             "repo": "Focus-Bear/mobile-app",
             "title": "Home screen shows habits even after choosing \u201cSet up later\u201d",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T12:03:09.321378+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3512",
@@ -21585,9 +21594,9 @@
             "issue_id": "Focus-Bear/mobile-app#3517",
             "repo": "Focus-Bear/mobile-app",
             "title": "Re-do the screenshot for habits in the carousel",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2025-10-22T12:03:20.752129+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3520",
@@ -21721,9 +21730,9 @@
             "issue_id": "Focus-Bear/mobile-app#3545",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit repeatedly prompts to restart after completion instead of marking as done",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-20T12:03:15.910425+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3546",
@@ -21761,9 +21770,9 @@
             "issue_id": "Focus-Bear/mobile-app#3554",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crash when selecting \u201cTake Pictures\u201d, and \u201cRecord\u201d shows a black screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3558",
@@ -21817,9 +21826,9 @@
             "issue_id": "Focus-Bear/mobile-app#3565",
             "repo": "Focus-Bear/mobile-app",
             "title": "Existing user forced through onboarding again after login",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-26T12:03:10.774736+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3566",
@@ -21857,9 +21866,9 @@
             "issue_id": "Focus-Bear/mobile-app#3570",
             "repo": "Focus-Bear/mobile-app",
             "title": "Popup \u201cSomething went wrong\u201d repeatedly appears after finishing onboarding with a new account",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3574",
@@ -21921,9 +21930,9 @@
             "issue_id": "Focus-Bear/mobile-app#3577",
             "repo": "Focus-Bear/mobile-app",
             "title": "\u201cSomething went wrong (400)\u201d error appears when adding habits using \u201cAdjust with AI\u201d during onboarding \u2014 cannot proceed after pressing Continue",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3581",
@@ -22217,17 +22226,17 @@
             "issue_id": "Focus-Bear/mobile-app#3631",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add tests on Overview Tab cards",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-11T12:03:02.983638+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3632",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add test on adding habit in Habit Tab",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-11T12:03:02.983638+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3635",
@@ -22297,9 +22306,9 @@
             "issue_id": "Focus-Bear/mobile-app#3646",
             "repo": "Focus-Bear/mobile-app",
             "title": "No habit suggestions after selecting goals + sometimes shows \u201cOops something went wrong\u201d",
-            "status": "November 2025",
+            "status": "Emergency fix needed",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-11-14T12:03:07.621261+00:00"
+            "updated_at": "2025-11-15T12:02:44.937116+00:00"
         }
     ]
 }
