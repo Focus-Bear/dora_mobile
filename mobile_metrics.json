@@ -22309,6 +22309,22 @@
             "status": "Emergency fix needed",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
             "updated_at": "2025-11-15T12:02:44.937116+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3648",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashes after tapping Start Focus Session",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-16T12:02:45.449047+00:00",
+            "updated_at": "2025-11-16T12:02:45.449047+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3649",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking Schedule- Android",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-16T12:02:45.449047+00:00",
+            "updated_at": "2025-11-16T12:02:45.449047+00:00"
         }
     ]
 }
