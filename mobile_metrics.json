@@ -13403,6 +13403,15 @@
             "merged_at": "2025-11-15T11:33:14Z",
             "time_to_merge": 23.185,
             "release_id": null
+        },
+        {
+            "pr_id": "3652",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-11-16T22:24:38Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -14818,9 +14827,9 @@
             "issue_id": "Focus-Bear/Mac-App#1202",
             "repo": "Focus-Bear/Mac-App",
             "title": "[Bao - after UNICAES] Support extra routines",
-            "status": "December tasks",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-11-17T12:03:08.812921+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3276",
@@ -21666,9 +21675,9 @@
             "issue_id": "Focus-Bear/mobile-app#3535",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change to pause blocking: don't block app functionality",
-            "status": "Dev Work In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-10-17T12:03:08.395617+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-17T12:03:08.812921+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3532",
@@ -22325,6 +22334,22 @@
             "status": "Emergency fix needed",
             "created_at": "2025-11-16T12:02:45.449047+00:00",
             "updated_at": "2025-11-16T12:02:45.449047+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3650",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Crash when reaching the \u201cTech curfew\u201d screen during onboarding",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-17T12:03:08.812921+00:00",
+            "updated_at": "2025-11-17T12:03:08.812921+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3651",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[onboarding] Input in \u201cWhat are you hoping Focus Bear can do?\u201d is not saved",
+            "status": "December tasks",
+            "created_at": "2025-11-17T12:03:08.812921+00:00",
+            "updated_at": "2025-11-17T12:03:08.812921+00:00"
         }
     ]
 }
