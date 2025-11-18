@@ -22075,9 +22075,9 @@
             "issue_id": "Focus-Bear/mobile-app#3611",
             "repo": "Focus-Bear/mobile-app",
             "title": "People get logged out automatically",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-11-06T12:03:06.043602+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3607",
@@ -22163,9 +22163,9 @@
             "issue_id": "Focus-Bear/mobile-app#3622",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding: Let people open the carousel if they're interested",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3623",
@@ -22283,9 +22283,9 @@
             "issue_id": "Focus-Bear/mobile-app#3641",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashed",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-11-13T12:03:03.883032+00:00",
-            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3642",
@@ -22299,9 +22299,9 @@
             "issue_id": "Focus-Bear/mobile-app#3644",
             "repo": "Focus-Bear/mobile-app",
             "title": "Allow adding habits on routine suggestions screen",
-            "status": "Emergency fix needed",
+            "status": "November 2025",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-11-14T12:03:07.621261+00:00"
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3645",
@@ -22315,9 +22315,9 @@
             "issue_id": "Focus-Bear/mobile-app#3646",
             "repo": "Focus-Bear/mobile-app",
             "title": "No habit suggestions after selecting goals + sometimes shows \u201cOops something went wrong\u201d",
-            "status": "Emergency fix needed",
+            "status": "External devs in progress",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-11-15T12:02:44.937116+00:00"
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3648",
@@ -22350,6 +22350,14 @@
             "status": "December tasks",
             "created_at": "2025-11-17T12:03:08.812921+00:00",
             "updated_at": "2025-11-17T12:03:08.812921+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3653",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Don't use track-event endpoint when user isn't logged in",
+            "status": "November 2025",
+            "created_at": "2025-11-18T12:02:58.674974+00:00",
+            "updated_at": "2025-11-18T12:02:58.674974+00:00"
         }
     ]
 }
