@@ -22465,6 +22465,46 @@
             "status": "Emergency fix needed",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
             "updated_at": "2025-11-21T12:03:08.022790+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3667",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "add focus music to the habit player screen too",
+            "status": "December tasks",
+            "created_at": "2025-11-22T12:02:36.928025+00:00",
+            "updated_at": "2025-11-22T12:02:36.928025+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3668",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Show the correct message when a distraction is blocked",
+            "status": "December tasks",
+            "created_at": "2025-11-22T12:02:36.928025+00:00",
+            "updated_at": "2025-11-22T12:02:36.928025+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3669",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Tooltip shows the wrong message when blocking schedule active",
+            "status": "November 2025",
+            "created_at": "2025-11-22T12:02:36.928025+00:00",
+            "updated_at": "2025-11-22T12:02:36.928025+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3670",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Strict blocking enhancement",
+            "status": "December tasks",
+            "created_at": "2025-11-22T12:02:36.928025+00:00",
+            "updated_at": "2025-11-22T12:02:36.928025+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3671",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Launcher doesn't show loading indicator while it's loading apps.",
+            "status": "Q1 2026",
+            "created_at": "2025-11-22T12:02:36.928025+00:00",
+            "updated_at": "2025-11-22T12:02:36.928025+00:00"
         }
     ]
 }
