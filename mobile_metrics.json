@@ -13439,6 +13439,42 @@
             "merged_at": "2025-11-20T13:55:57Z",
             "time_to_merge": 0.2791666666666667,
             "release_id": null
+        },
+        {
+            "pr_id": "3683",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "ksvyee",
+            "created_at": "2025-11-24T08:55:35Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3677",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-23T20:07:33Z",
+            "merged_at": "2025-11-23T20:07:41Z",
+            "time_to_merge": 0.0022222222222222222,
+            "release_id": null
+        },
+        {
+            "pr_id": "3676",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-11-23T18:18:59Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3675",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2025-11-23T15:58:17Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22526,9 +22562,49 @@
             "issue_id": "Focus-Bear/mobile-app#3674",
             "repo": "Focus-Bear/mobile-app",
             "title": "Apps remain blocked even when UI shows \u201cBlocking disabled\u201d",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-11-23T12:02:36.402540+00:00",
-            "updated_at": "2025-11-23T12:02:36.402540+00:00"
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3682",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Improve ToDo Basic Test",
+            "status": "Code Review",
+            "created_at": "2025-11-24T12:02:53.980504+00:00",
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3678",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Clarify a password reset link in authentication",
+            "status": "Dev Work In Progress",
+            "created_at": "2025-11-24T12:02:53.980504+00:00",
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3679",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Layout Breaks When Rotating Device (Orientation & Reflow Issue)",
+            "status": "Dev Work In Progress",
+            "created_at": "2025-11-24T12:02:53.980504+00:00",
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3680",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habit pop-up keeps appearing",
+            "status": "December tasks",
+            "created_at": "2025-11-24T12:02:53.980504+00:00",
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3681",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Change \"launcher\" to \"home screen\" and remove experimental",
+            "status": "December tasks",
+            "created_at": "2025-11-24T12:02:53.980504+00:00",
+            "updated_at": "2025-11-24T12:02:53.980504+00:00"
         }
     ]
 }
