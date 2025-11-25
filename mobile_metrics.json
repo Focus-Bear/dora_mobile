@@ -13475,6 +13475,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3685",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "amanueltsfy",
+            "created_at": "2025-11-25T09:33:06Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -13706,9 +13715,9 @@
             "issue_id": "Focus-Bear/mobile-app#3293",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Android only] Habits don\u2019t automatically block apps at the start of a new day unless Focus Bear is opened",
-            "status": "QA Failed",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-23T12:02:36.402540+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3387",
@@ -14890,9 +14899,9 @@
             "issue_id": "Focus-Bear/Mac-App#1202",
             "repo": "Focus-Bear/Mac-App",
             "title": "[Bao - after UNICAES] Support extra routines",
-            "status": "Dev Work In Progress",
+            "status": "December tasks",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-17T12:03:08.812921+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3276",
@@ -20834,9 +20843,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "QA Failed",
+            "status": "December tasks",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-23T12:02:36.402540+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -21002,9 +21011,9 @@
             "issue_id": "Focus-Bear/mobile-app#3404",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Extend Import Feature to Habits and Routines (via Screenshot or List)",
-            "status": "Dev Work In Progress",
+            "status": "External devs in progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-17T12:03:08.395617+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3405",
@@ -22010,9 +22019,9 @@
             "issue_id": "Focus-Bear/mobile-app#3581",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus sessions not blocking selected apps",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3584",
@@ -22114,9 +22123,9 @@
             "issue_id": "Focus-Bear/mobile-app#3600",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove goal selection step if they choose focus only",
-            "status": "QA Failed",
+            "status": "Emergency fix needed",
             "created_at": "2025-11-04T12:03:15.166236+00:00",
-            "updated_at": "2025-11-23T12:02:36.402540+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3602",
@@ -22250,9 +22259,9 @@
             "issue_id": "Focus-Bear/mobile-app#3625",
             "repo": "Focus-Bear/mobile-app",
             "title": "\u201cStrict block\u201d mode not saved correctly after creating a new schedule",
-            "status": "QA Failed",
+            "status": "Emergency fix needed",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2025-11-21T12:03:08.022790+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3626",
@@ -22282,17 +22291,17 @@
             "issue_id": "Focus-Bear/mobile-app#3630",
             "repo": "Focus-Bear/mobile-app",
             "title": "Multiple critical errors (404 and 409) causing data loss, failed actions, and overview page desync",
-            "status": "Architecture review/clarification",
+            "status": "Ready for QA",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-14T12:03:07.621261+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3572",
             "repo": "Focus-Bear/mobile-app",
             "title": "Settings can't be accessed - displays blank screen",
-            "status": "Unable to replicate",
+            "status": "Ready for QA",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-13T12:03:03.883032+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3631",
@@ -22578,9 +22587,9 @@
             "issue_id": "Focus-Bear/mobile-app#3678",
             "repo": "Focus-Bear/mobile-app",
             "title": "Clarify a password reset link in authentication",
-            "status": "Dev Work In Progress",
+            "status": "External devs in progress",
             "created_at": "2025-11-24T12:02:53.980504+00:00",
-            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3679",
@@ -22605,6 +22614,14 @@
             "status": "December tasks",
             "created_at": "2025-11-24T12:02:53.980504+00:00",
             "updated_at": "2025-11-24T12:02:53.980504+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3684",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus Mode timer shows on Home but disappears in the Focus tab",
+            "status": "November 2025",
+            "created_at": "2025-11-25T12:03:08.028572+00:00",
+            "updated_at": "2025-11-25T12:03:08.028572+00:00"
         }
     ]
 }
