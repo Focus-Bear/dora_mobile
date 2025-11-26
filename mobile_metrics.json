@@ -13484,6 +13484,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3686",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-11-25T18:44:28Z",
+            "merged_at": "2025-11-25T18:47:48Z",
+            "time_to_merge": 0.05555555555555555,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22259,9 +22268,9 @@
             "issue_id": "Focus-Bear/mobile-app#3625",
             "repo": "Focus-Bear/mobile-app",
             "title": "\u201cStrict block\u201d mode not saved correctly after creating a new schedule",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2025-11-25T12:03:08.028572+00:00"
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3626",
@@ -22507,9 +22516,9 @@
             "issue_id": "Focus-Bear/mobile-app#3665",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking schedule adds notification with unclear text",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-11-21T12:03:08.022790+00:00"
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3667",
@@ -22579,9 +22588,9 @@
             "issue_id": "Focus-Bear/mobile-app#3682",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve ToDo Basic Test",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-24T12:02:53.980504+00:00",
-            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3678",
@@ -22622,6 +22631,46 @@
             "status": "November 2025",
             "created_at": "2025-11-25T12:03:08.028572+00:00",
             "updated_at": "2025-11-25T12:03:08.028572+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3687",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Duration placeholder shows in pirate language",
+            "status": "Q1 2026",
+            "created_at": "2025-11-26T12:03:07.360400+00:00",
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3688",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Gentle blocking should be soft blocking",
+            "status": "December tasks",
+            "created_at": "2025-11-26T12:03:07.360400+00:00",
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3689",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Android blocking schedule: allow blocking websites",
+            "status": "December tasks",
+            "created_at": "2025-11-26T12:03:07.360400+00:00",
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3690",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Android blocking schedule: delete button is hard to see",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-26T12:03:07.360400+00:00",
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3691",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking schedules were not saved after logging out and back in",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-26T12:03:07.360400+00:00",
+            "updated_at": "2025-11-26T12:03:07.360400+00:00"
         }
     ]
 }
