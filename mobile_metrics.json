@@ -13502,6 +13502,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3701",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2025-11-29T21:21:10Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20565,9 +20574,9 @@
             "issue_id": "Focus-Bear/mobile-app#3291",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change the success message after saving a new habit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-09T12:02:50.664495+00:00"
+            "updated_at": "2025-11-30T12:02:45.880108+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3292",
@@ -22037,9 +22046,9 @@
             "issue_id": "Focus-Bear/mobile-app#3581",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus sessions not blocking selected apps",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-11-25T12:03:08.028572+00:00"
+            "updated_at": "2025-11-30T12:02:45.880108+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3584",
@@ -22589,9 +22598,9 @@
             "issue_id": "Focus-Bear/mobile-app#3674",
             "repo": "Focus-Bear/mobile-app",
             "title": "Apps remain blocked even when UI shows \u201cBlocking disabled\u201d",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-23T12:02:36.402540+00:00",
-            "updated_at": "2025-11-24T12:02:53.980504+00:00"
+            "updated_at": "2025-11-30T12:02:45.880108+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3682",
@@ -22728,6 +22737,14 @@
             "status": "Emergency fix needed",
             "created_at": "2025-11-29T12:02:45.056693+00:00",
             "updated_at": "2025-11-29T12:02:45.056693+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3702",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[Onboarding] Cannot access Routine Generated screen \u2013 always shows \u201cSomething went wrong (400)\u201d",
+            "status": "Emergency fix needed",
+            "created_at": "2025-11-30T12:02:45.880108+00:00",
+            "updated_at": "2025-11-30T12:02:45.880108+00:00"
         }
     ]
 }
