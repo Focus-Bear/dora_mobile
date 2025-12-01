@@ -819,6 +819,16 @@
             "published_at": "2025-10-31T07:15:32Z",
             "time_since_last_release": 23.0,
             "pr_count": 76
+        },
+        {
+            "release_id": "266344627",
+            "version": "1.13.0",
+            "name": "1.13.0",
+            "author": "BaoHG1508",
+            "body": "## What's Changed\r\n* chore: fix ios release by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3599\r\n* Issue#3415 error during signup by @PhamQuocTrung2910 in https://github.com/Focus-Bear/mobile-app/pull/3555\r\n* ScreenTime - Block After Pause time end. Unblock after focus time ends. by @fawadaliii in https://github.com/Focus-Bear/mobile-app/pull/3549\r\n* Feat/blocking schedule by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3586\r\n* [FIX] Choosing to stay focus or organize tasks with AI only will skip onboarding by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3618\r\n* chore: add more post hog event in onboarding by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3617\r\n* [FEAT] new event endpoint by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3619\r\n* chore: add test IDs to activity item options by @ksvyee in https://github.com/Focus-Bear/mobile-app/pull/3603\r\n* Issue #3544: Confirmation banner shows placeholder  by @phamlong2205 in https://github.com/Focus-Bear/mobile-app/pull/3563\r\n* chore: fix overlay permission grant by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3634\r\n* Fix/video looping by @marley195 in https://github.com/Focus-Bear/mobile-app/pull/3643\r\n* Chore: Simplify language definitions, fix moment.locale by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3640\r\n* chore: add test IDs to overview tab cards and quick add habit button by @ksvyee in https://github.com/Focus-Bear/mobile-app/pull/3633\r\n* Feat: Focus music by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3647\r\n* Chore: Update yarn.lock and Podfile.lock by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3655\r\n* Feat/android block schedule by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3657\r\n* Chore: UI tweaks by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3639\r\n* chore: add unit test for TOP score and match the logic with backend by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3620\r\n* Chore/fix 1.3.0 bug by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3666\r\n* chore: update blocking schedule status when edit by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3677\r\n* Chore: Permissions UI improvements by @Toby56 in https://github.com/Focus-Bear/mobile-app/pull/3676\r\n* Fix/ Overlay Popup and Distraction Blocking Screen Issues by @alxurb1 in https://github.com/Focus-Bear/mobile-app/pull/3601\r\n* Improvements to posthog events for onboarding #3547 by @jeznag in https://github.com/Focus-Bear/mobile-app/pull/3598\r\n* Feat/refactor blocking schedules by @BaoHG1508 in https://github.com/Focus-Bear/mobile-app/pull/3686\r\n\r\n## New Contributors\r\n* @PhamQuocTrung2910 made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3555\r\n* @fawadaliii made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3549\r\n* @abrahambelaygelaw made their first contribution in https://github.com/Focus-Bear/mobile-app/pull/3675\r\n\r\n**Full Changelog**: https://github.com/Focus-Bear/mobile-app/compare/1.12.1...1.13.0",
+            "published_at": "2025-12-01T10:37:59Z",
+            "time_since_last_release": 31.0,
+            "pr_count": 87
         }
     ],
     "pull_requests": [
@@ -21310,9 +21320,9 @@
             "issue_id": "Focus-Bear/mobile-app#3449",
             "repo": "Focus-Bear/mobile-app",
             "title": "Record video documenting release process for iOS and Android",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3450",
@@ -22030,9 +22040,9 @@
             "issue_id": "Focus-Bear/mobile-app#3579",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text overlap issue in \u201cStart a focus session\u201d header",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-10-29T12:03:09.452969+00:00",
-            "updated_at": "2025-10-29T12:03:09.452969+00:00"
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3577",
@@ -22406,9 +22416,9 @@
             "issue_id": "Focus-Bear/mobile-app#3645",
             "repo": "Focus-Bear/mobile-app",
             "title": "Support vimeo videos",
-            "status": "Dec 2025",
+            "status": "Dev Work In Progress",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3646",
@@ -22694,9 +22704,9 @@
             "issue_id": "Focus-Bear/mobile-app#3693",
             "repo": "Focus-Bear/mobile-app",
             "title": "Integrate with new RAG routine suggestions endpoint",
-            "status": "Dec 2025",
+            "status": "Dev Work In Progress",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3692",
@@ -22745,6 +22755,30 @@
             "status": "Emergency fix needed",
             "created_at": "2025-11-30T12:02:45.880108+00:00",
             "updated_at": "2025-11-30T12:02:45.880108+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3700",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus session added time doesn't persist after app restart",
+            "status": "Jan 2026",
+            "created_at": "2025-12-01T12:03:03.254742+00:00",
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3703",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "new blocking schedule didn't  start",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-01T12:03:03.254742+00:00",
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3704",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add scrollbar on task list?",
+            "status": "Q1 2026",
+            "created_at": "2025-12-01T12:03:03.254742+00:00",
+            "updated_at": "2025-12-01T12:03:03.254742+00:00"
         }
     ]
 }
