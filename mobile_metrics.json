@@ -13521,6 +13521,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3709",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "ksvyee",
+            "created_at": "2025-12-02T03:31:15Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3705",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2025-12-01T17:24:57Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -15808,9 +15826,9 @@
             "issue_id": "Focus-Bear/mobile-app#741",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add Focus Music on mobile app",
-            "status": "2026",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#102",
@@ -21080,9 +21098,9 @@
             "issue_id": "Focus-Bear/mobile-app#3409",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request: Add Focus Music Feature to Android",
-            "status": "2026",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3412",
@@ -21968,9 +21986,9 @@
             "issue_id": "Focus-Bear/mobile-app#3568",
             "repo": "Focus-Bear/mobile-app",
             "title": "Fix localising dates",
-            "status": "Jan 2026",
+            "status": "Ready for QA",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3569",
@@ -22779,6 +22797,30 @@
             "status": "Q1 2026",
             "created_at": "2025-12-01T12:03:03.254742+00:00",
             "updated_at": "2025-12-01T12:03:03.254742+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3706",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow typing in duration for focus session",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-02T12:02:59.102085+00:00",
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3707",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Update ESLint to check missing testIDs",
+            "status": "Code Review",
+            "created_at": "2025-12-02T12:02:59.102085+00:00",
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3708",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add script to collect all testIDs",
+            "status": "Code Review",
+            "created_at": "2025-12-02T12:02:59.102085+00:00",
+            "updated_at": "2025-12-02T12:02:59.102085+00:00"
         }
     ]
 }
