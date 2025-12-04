@@ -13566,6 +13566,15 @@
             "merged_at": "2025-12-02T13:29:09Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3714",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "amanueltsfy",
+            "created_at": "2025-12-03T12:18:45Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -15629,9 +15638,9 @@
             "issue_id": "Focus-Bear/mobile-app#63",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log quantity textbox should receive focus",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#341",
@@ -16821,9 +16830,9 @@
             "issue_id": "Focus-Bear/mobile-app#1359",
             "repo": "Focus-Bear/mobile-app",
             "title": "app-version header not being set correctly?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1370",
@@ -17741,9 +17750,9 @@
             "issue_id": "Focus-Bear/mobile-app#1997",
             "repo": "Focus-Bear/mobile-app",
             "title": "Difficulty Disabling App",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1998",
@@ -20621,9 +20630,9 @@
             "issue_id": "Focus-Bear/mobile-app#3290",
             "repo": "Focus-Bear/mobile-app",
             "title": "Shorten the feature carousel",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3291",
@@ -21125,9 +21134,9 @@
             "issue_id": "Focus-Bear/mobile-app#3409",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request: Add Focus Music Feature to Android",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-02T12:02:59.102085+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3412",
@@ -21965,9 +21974,9 @@
             "issue_id": "Focus-Bear/mobile-app#3560",
             "repo": "Focus-Bear/mobile-app",
             "title": "Report problem confirmation modal message is wrong",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-24T12:03:28.182812+00:00",
-            "updated_at": "2025-10-25T12:02:51.663701+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3559",
@@ -22373,9 +22382,9 @@
             "issue_id": "Focus-Bear/mobile-app#3630",
             "repo": "Focus-Bear/mobile-app",
             "title": "Multiple critical errors (404 and 409) causing data loss, failed actions, and overview page desync",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2025-11-25T12:03:08.028572+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3572",
@@ -22573,9 +22582,9 @@
             "issue_id": "Focus-Bear/mobile-app#3663",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crash from NetInfo?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-11-21T12:03:08.022790+00:00"
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3664",
@@ -22856,6 +22865,30 @@
             "status": "Dec 2025",
             "created_at": "2025-12-03T12:03:02.696851+00:00",
             "updated_at": "2025-12-03T12:03:02.696851+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/web_dashboard#2724",
+            "repo": "Focus-Bear/web_dashboard",
+            "title": "Unable to Access Edit Habit \u2013 Infinite Loading Screen",
+            "status": "Dev Work In Progress",
+            "created_at": "2025-12-04T12:03:03.939139+00:00",
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3715",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Completed tasks shouldn't have TOP scores",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-04T12:03:03.939139+00:00",
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3716",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add another status to to do list: \"Waiting on others\"",
+            "status": "Q1 2026",
+            "created_at": "2025-12-04T12:03:03.939139+00:00",
+            "updated_at": "2025-12-04T12:03:03.939139+00:00"
         }
     ]
 }
