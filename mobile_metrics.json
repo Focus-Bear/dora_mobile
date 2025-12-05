@@ -13575,6 +13575,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3724",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2025-12-05T04:29:14Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3723",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-12-05T02:51:58Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22878,9 +22896,9 @@
             "issue_id": "Focus-Bear/mobile-app#3715",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completed tasks shouldn't have TOP scores",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-04T12:03:03.939139+00:00",
-            "updated_at": "2025-12-04T12:03:03.939139+00:00"
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3716",
@@ -22889,6 +22907,70 @@
             "status": "Q1 2026",
             "created_at": "2025-12-04T12:03:03.939139+00:00",
             "updated_at": "2025-12-04T12:03:03.939139+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3717",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "iOS: Auth0 sign-in popup and session expiration loop prevents app usage until forced restart",
+            "status": "Dec 2025",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3718",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "iOS: Blocking does not resume after timed break unless the app is reopened",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3719",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus session doesn't activate on android if I start it on android",
+            "status": "Q1 2026",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3720",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Bad empty state for stats",
+            "status": "Dec 2025",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3721",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "signin-error - why is this happening?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3722",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "User selected set up habits later but it forced them to set up habits anyway?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3725",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App Blocking not working despite showing as active",
+            "status": "Q3 2026",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3726",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Gentle blocking on Android should ask for a time limit",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-05T12:03:01.029991+00:00",
+            "updated_at": "2025-12-05T12:03:01.029991+00:00"
         }
     ]
 }
