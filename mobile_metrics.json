@@ -20016,9 +20016,9 @@
             "issue_id": "Focus-Bear/mobile-app#3154",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request: One-Tap or Swipe Action to Mark Habits as Completed",
-            "status": "Q3 2026",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-12-07T12:02:42.964743+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3158",
@@ -22216,9 +22216,9 @@
             "issue_id": "Focus-Bear/mobile-app#3596",
             "repo": "Focus-Bear/mobile-app",
             "title": "[suggestion] Habit automatically skips when accidentally tapping the checkbox",
-            "status": "Dec 2025",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-11-02T12:02:44.359505+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-07T12:02:42.964743+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3597",
@@ -22472,9 +22472,9 @@
             "issue_id": "Focus-Bear/mobile-app#3642",
             "repo": "Focus-Bear/mobile-app",
             "title": "Auto play habit after 5 seconds",
-            "status": "Jan 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-11-13T12:03:03.883032+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-07T12:02:42.964743+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3644",
