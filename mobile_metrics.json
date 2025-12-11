@@ -22852,9 +22852,9 @@
             "issue_id": "Focus-Bear/mobile-app#3699",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus session time on Home screen does not match timer on Focus screen",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-29T12:02:45.056693+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-11T12:03:03.249758+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3702",
@@ -22868,9 +22868,9 @@
             "issue_id": "Focus-Bear/mobile-app#3700",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus session added time doesn't persist after app restart",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-01T12:03:03.254742+00:00",
-            "updated_at": "2025-12-10T12:03:12.662824+00:00"
+            "updated_at": "2025-12-11T12:03:03.249758+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3703",
@@ -23087,6 +23087,30 @@
             "status": "Dec 2025",
             "created_at": "2025-12-10T12:03:12.662824+00:00",
             "updated_at": "2025-12-10T12:03:12.662824+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3740",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App not compatible with A30s?",
+            "status": "Dec 2025",
+            "created_at": "2025-12-11T12:03:03.249758+00:00",
+            "updated_at": "2025-12-11T12:03:03.249758+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3741",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow downloading focus music",
+            "status": "Q1 2026",
+            "created_at": "2025-12-11T12:03:03.249758+00:00",
+            "updated_at": "2025-12-11T12:03:03.249758+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3742",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow shortening focus sessions",
+            "status": "Q2 2026",
+            "created_at": "2025-12-11T12:03:03.249758+00:00",
+            "updated_at": "2025-12-11T12:03:03.249758+00:00"
         }
     ]
 }
