@@ -13629,6 +13629,33 @@
             "merged_at": "2025-12-10T05:10:52Z",
             "time_to_merge": 0.0016666666666666668,
             "release_id": null
+        },
+        {
+            "pr_id": "3746",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "imtia33",
+            "created_at": "2025-12-11T17:36:13Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3744",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-12-11T14:16:08Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3743",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2025-12-11T13:42:16Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22932,9 +22959,9 @@
             "issue_id": "Focus-Bear/mobile-app#3715",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completed tasks shouldn't have TOP scores",
-            "status": "Dev Work In Progress",
+            "status": "For Dev QA",
             "created_at": "2025-12-04T12:03:03.939139+00:00",
-            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+            "updated_at": "2025-12-12T12:03:03.015680+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3716",
@@ -23084,9 +23111,9 @@
             "issue_id": "Focus-Bear/mobile-app#3737",
             "repo": "Focus-Bear/mobile-app",
             "title": "Able to complete more than 3 habits on free tier",
-            "status": "Dec 2025",
+            "status": "Code Review",
             "created_at": "2025-12-10T12:03:12.662824+00:00",
-            "updated_at": "2025-12-10T12:03:12.662824+00:00"
+            "updated_at": "2025-12-12T12:03:03.015680+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3740",
@@ -23111,6 +23138,22 @@
             "status": "Q2 2026",
             "created_at": "2025-12-11T12:03:03.249758+00:00",
             "updated_at": "2025-12-11T12:03:03.249758+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3745",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "`habitLimitMessage` displaying too early + message not suitable in dark mode",
+            "status": "Dec 2025",
+            "created_at": "2025-12-12T12:03:03.015680+00:00",
+            "updated_at": "2025-12-12T12:03:03.015680+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3747",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Ask user to report logs if they get a 4xx error",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-12T12:03:03.015680+00:00",
+            "updated_at": "2025-12-12T12:03:03.015680+00:00"
         }
     ]
 }
