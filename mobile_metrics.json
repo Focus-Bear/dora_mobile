@@ -19319,9 +19319,9 @@
             "issue_id": "Focus-Bear/mobile-app#2880",
             "repo": "Focus-Bear/mobile-app",
             "title": "Pause Blocking Button Still Visible in Super Strict Mode",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2882",
@@ -20079,9 +20079,9 @@
             "issue_id": "Focus-Bear/mobile-app#3154",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature Request: One-Tap or Swipe Action to Mark Habits as Completed",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-07T12:02:42.964743+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3158",
@@ -20855,9 +20855,9 @@
             "issue_id": "Focus-Bear/mobile-app#3331",
             "repo": "Focus-Bear/mobile-app",
             "title": "\u201ctimeout of 15000ms exceeded\u201d popup appears when reopening app after long inactivity",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3336",
@@ -21167,9 +21167,9 @@
             "issue_id": "Focus-Bear/mobile-app#3402",
             "repo": "Focus-Bear/mobile-app",
             "title": "Block URLs \u2013 \u201c+\u201d button broken",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3403",
@@ -21439,9 +21439,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2267",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Feature Request: custom blocking schedule",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3195",
@@ -21655,9 +21655,9 @@
             "issue_id": "Focus-Bear/mobile-app#3483",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit completion notification only appears after opening app, and completion status updates only after double refresh",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-06T12:03:10.192248+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3485",
@@ -22255,9 +22255,9 @@
             "issue_id": "Focus-Bear/mobile-app#3594",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completing habits is not saved; habits remain marked as incomplete",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2666",
@@ -22559,9 +22559,9 @@
             "issue_id": "Focus-Bear/mobile-app#3646",
             "repo": "Focus-Bear/mobile-app",
             "title": "No habit suggestions after selecting goals + sometimes shows \u201cOops something went wrong\u201d",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3648",
@@ -22623,17 +22623,17 @@
             "issue_id": "Focus-Bear/mobile-app#3658",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding issues 21st nov",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3659",
             "repo": "Focus-Bear/mobile-app",
             "title": "Not obvious that blocking is not active",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3660",
@@ -22687,9 +22687,9 @@
             "issue_id": "Focus-Bear/mobile-app#3667",
             "repo": "Focus-Bear/mobile-app",
             "title": "add focus music to the habit player screen too",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-22T12:02:36.928025+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3668",
@@ -22703,9 +22703,9 @@
             "issue_id": "Focus-Bear/mobile-app#3669",
             "repo": "Focus-Bear/mobile-app",
             "title": "Tooltip shows the wrong message when blocking schedule active",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-22T12:02:36.928025+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3670",
@@ -22887,9 +22887,9 @@
             "issue_id": "Focus-Bear/mobile-app#3702",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Onboarding] Cannot access Routine Generated screen \u2013 always shows \u201cSomething went wrong (400)\u201d",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-30T12:02:45.880108+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3700",
@@ -22951,9 +22951,9 @@
             "issue_id": "Focus-Bear/web_dashboard#2724",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Unable to Access Edit Habit \u2013 Infinite Loading Screen",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-04T12:03:03.939139+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3715",
@@ -23039,9 +23039,9 @@
             "issue_id": "Focus-Bear/mobile-app#3727",
             "repo": "Focus-Bear/mobile-app",
             "title": "Stats heading cut off on Android",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-08T12:03:01.681061+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3728",
@@ -23063,9 +23063,9 @@
             "issue_id": "Focus-Bear/mobile-app#3730",
             "repo": "Focus-Bear/mobile-app",
             "title": "Unable to change blocking schedule; time resets to default",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-12-08T12:03:01.681061+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-13T12:02:50.361349+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3731",
