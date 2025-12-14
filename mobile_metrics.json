@@ -13656,6 +13656,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3753",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-12-14T00:06:02Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -17703,9 +17712,9 @@
             "issue_id": "Focus-Bear/mobile-app#1953",
             "repo": "Focus-Bear/mobile-app",
             "title": "Support pomodoro mode on mobile",
-            "status": "2026",
+            "status": "Q1 2026",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1923",
@@ -20887,9 +20896,9 @@
             "issue_id": "Focus-Bear/mobile-app#3342",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add Tooltip / \"Read More\" Explanation About Spoon Theory in To-Do List Page",
-            "status": "Q3 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3343",
@@ -22207,9 +22216,9 @@
             "issue_id": "Focus-Bear/mobile-app#3585",
             "repo": "Focus-Bear/mobile-app",
             "title": "iOS soft blocking via custom shield screen",
-            "status": "Dec 2025",
+            "status": "Jan 2026",
             "created_at": "2025-10-30T12:03:04.806709+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3588",
@@ -23154,6 +23163,86 @@
             "status": "Emergency fix needed",
             "created_at": "2025-12-12T12:03:03.015680+00:00",
             "updated_at": "2025-12-12T12:03:03.015680+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3748",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking schedule settings do not save",
+            "status": "Dec 2025",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3749",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Forgot Password shows \u201cEmail not found\u201d for an existing account",
+            "status": "Jan 2026",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3750",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Bottom content overlaps system navigation bar",
+            "status": "Q1 2026",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3751",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Countdown does not run and action button is not activated after 60 seconds",
+            "status": "Jan 2026",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3752",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking schedule still active even though the time is over",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3754",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Remove simple home screen - create tasks instead",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3755",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add posthog events for blank routine suggestions",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3756",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus music turns off when screen turns off on iOS?",
+            "status": "Dec 2025",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3757",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Reassure users about accessibility permissions",
+            "status": "Dec 2025",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3758",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Change Pushups to \"Stretch\"",
+            "status": "Dec 2025",
+            "created_at": "2025-12-14T12:02:48.459550+00:00",
+            "updated_at": "2025-12-14T12:02:48.459550+00:00"
         }
     ]
 }
