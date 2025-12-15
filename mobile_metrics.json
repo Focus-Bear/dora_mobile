@@ -15296,9 +15296,9 @@
             "issue_id": "Focus-Bear/mobile-app#1774",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Blocked by backend] Add brain dump to the mobile app",
-            "status": "Q1 2027",
+            "status": "Q1 2026",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2025-12-15T12:03:14.488681+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2945",
@@ -23232,9 +23232,9 @@
             "issue_id": "Focus-Bear/mobile-app#3757",
             "repo": "Focus-Bear/mobile-app",
             "title": "Reassure users about accessibility permissions",
-            "status": "Dec 2025",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-15T12:03:14.488681+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3758",
@@ -23243,6 +23243,22 @@
             "status": "Dec 2025",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
             "updated_at": "2025-12-14T12:02:48.459550+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3760",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Hide quick breaks until they complete a focus session",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-15T12:03:14.488681+00:00",
+            "updated_at": "2025-12-15T12:03:14.488681+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3759",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habit status not updating?",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-15T12:03:14.488681+00:00",
+            "updated_at": "2025-12-15T12:03:14.488681+00:00"
         }
     ]
 }
