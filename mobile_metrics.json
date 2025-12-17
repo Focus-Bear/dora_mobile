@@ -13674,6 +13674,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3767",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-12-17T04:39:21Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3766",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2025-12-16T21:11:03Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23129,9 +23147,9 @@
             "issue_id": "Focus-Bear/mobile-app#3737",
             "repo": "Focus-Bear/mobile-app",
             "title": "Able to complete more than 3 habits on free tier",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-10T12:03:12.662824+00:00",
-            "updated_at": "2025-12-12T12:03:03.015680+00:00"
+            "updated_at": "2025-12-17T12:03:00.359933+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3740",
@@ -23161,9 +23179,9 @@
             "issue_id": "Focus-Bear/mobile-app#3745",
             "repo": "Focus-Bear/mobile-app",
             "title": "`habitLimitMessage` displaying too early + message not suitable in dark mode",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-12T12:03:03.015680+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-17T12:03:00.359933+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3747",
@@ -23225,9 +23243,9 @@
             "issue_id": "Focus-Bear/mobile-app#3755",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events for blank routine suggestions",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-17T12:03:00.359933+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3756",
@@ -23292,6 +23310,14 @@
             "status": "Dec 2025",
             "created_at": "2025-12-16T12:02:59.803470+00:00",
             "updated_at": "2025-12-16T12:02:59.803470+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3768",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashed",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-17T12:03:00.359933+00:00",
+            "updated_at": "2025-12-17T12:03:00.359933+00:00"
         }
     ]
 }
