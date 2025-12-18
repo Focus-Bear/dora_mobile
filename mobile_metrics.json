@@ -13692,6 +13692,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3769",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2025-12-17T15:44:44Z",
+            "merged_at": "2025-12-18T04:53:29Z",
+            "time_to_merge": 13.145833333333334,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23059,17 +23068,17 @@
             "issue_id": "Focus-Bear/mobile-app#3725",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking not working despite showing as active",
-            "status": "Q3 2026",
+            "status": "Emergency fix needed",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+            "updated_at": "2025-12-18T12:03:14.314410+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3726",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle blocking on Android should ask for a time limit",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+            "updated_at": "2025-12-18T12:03:14.314410+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3727",
@@ -23267,9 +23276,9 @@
             "issue_id": "Focus-Bear/mobile-app#3758",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change Pushups to \"Stretch\"",
-            "status": "Dec 2025",
+            "status": "Code Review",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-18T12:03:14.314410+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3760",
