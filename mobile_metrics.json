@@ -21228,9 +21228,9 @@
             "issue_id": "Focus-Bear/mobile-app#3404",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Extend Import Feature to Habits and Routines (via Screenshot or List)",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3405",
@@ -22692,9 +22692,9 @@
             "issue_id": "Focus-Bear/mobile-app#3661",
             "repo": "Focus-Bear/mobile-app",
             "title": "User unable to save settings",
-            "status": "For Dev QA",
+            "status": "Emergency fix needed",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3662",
@@ -23252,9 +23252,9 @@
             "issue_id": "Focus-Bear/mobile-app#3755",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events for blank routine suggestions",
-            "status": "Merged but not released to QA yet",
+            "status": "Emergency fix needed",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-17T12:03:00.359933+00:00"
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3756",
@@ -23276,9 +23276,9 @@
             "issue_id": "Focus-Bear/mobile-app#3758",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change Pushups to \"Stretch\"",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-18T12:03:14.314410+00:00"
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3760",
@@ -23327,6 +23327,30 @@
             "status": "Emergency fix needed",
             "created_at": "2025-12-17T12:03:00.359933+00:00",
             "updated_at": "2025-12-17T12:03:00.359933+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3771",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "When pausing blocking, it has outdated distraction stats",
+            "status": "Q1 2026",
+            "created_at": "2025-12-19T12:02:53.612406+00:00",
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3772",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Let user customise the blocked page",
+            "status": "Q2 2026",
+            "created_at": "2025-12-19T12:02:53.612406+00:00",
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3770",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Allow user to start breathing and exercise instead of starting it on screen load.",
+            "status": "Q1 2026",
+            "created_at": "2025-12-19T12:02:53.612406+00:00",
+            "updated_at": "2025-12-19T12:02:53.612406+00:00"
         }
     ]
 }
