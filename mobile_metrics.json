@@ -15580,17 +15580,17 @@
             "issue_id": "Focus-Bear/Mac-App#785",
             "repo": "Focus-Bear/Mac-App",
             "title": "Handle 500 errors from backend - offline sync",
-            "status": "Ready for QA",
+            "status": "For Dev QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1899",
             "repo": "Focus-Bear/mobile-app",
             "title": "user_id not being set? Sentry error",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1726",
@@ -16220,9 +16220,9 @@
             "issue_id": "Focus-Bear/mobile-app#1892",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android: enable do not disturb when blocking enabled",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2932",
@@ -18724,9 +18724,9 @@
             "issue_id": "Focus-Bear/mobile-app#2640",
             "repo": "Focus-Bear/mobile-app",
             "title": "API request doesn't have a timeout",
-            "status": "Ready for QA",
+            "status": "For Dev QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2646",
@@ -21244,9 +21244,9 @@
             "issue_id": "Focus-Bear/mobile-app#3406",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding UI Optimization: Fonts, Spacing, and Duplicate Widgets",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3408",
@@ -21380,9 +21380,9 @@
             "issue_id": "Focus-Bear/mobile-app#3428",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add Habit\u201d button overlaps with \u201cAdjust with AI\u201d container",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3429",
@@ -21444,9 +21444,9 @@
             "issue_id": "Focus-Bear/mobile-app#3441",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove autocorrect for add URL field",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3442",
@@ -22060,9 +22060,9 @@
             "issue_id": "Focus-Bear/mobile-app#3553",
             "repo": "Focus-Bear/mobile-app",
             "title": "Test new events endpoint",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-21T12:03:33.347193+00:00",
-            "updated_at": "2025-11-21T12:03:08.022790+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3554",
@@ -22596,9 +22596,9 @@
             "issue_id": "Focus-Bear/mobile-app#3645",
             "repo": "Focus-Bear/mobile-app",
             "title": "Support vimeo videos",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-14T12:03:07.621261+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3646",
@@ -22644,9 +22644,9 @@
             "issue_id": "Focus-Bear/mobile-app#3653",
             "repo": "Focus-Bear/mobile-app",
             "title": "Don't use track-event endpoint when user isn't logged in",
-            "status": "Ready for QA",
+            "status": "For Dev QA",
             "created_at": "2025-11-18T12:02:58.674974+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3654",
@@ -22868,9 +22868,9 @@
             "issue_id": "Focus-Bear/mobile-app#3690",
             "repo": "Focus-Bear/mobile-app",
             "title": "Android blocking schedule: delete button is hard to see",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-26T12:03:07.360400+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3691",
@@ -23351,6 +23351,38 @@
             "status": "Q1 2026",
             "created_at": "2025-12-19T12:02:53.612406+00:00",
             "updated_at": "2025-12-19T12:02:53.612406+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3773",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Editing habits results in blank screen and requires force quit",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-20T12:02:46.951196+00:00",
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3774",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Remove the 3.55am/4am hardcoded routine times",
+            "status": "Jan 2026",
+            "created_at": "2025-12-20T12:02:46.951196+00:00",
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3775",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Reinstate Data safety statement in onboarding",
+            "status": "Jan 2026",
+            "created_at": "2025-12-20T12:02:46.951196+00:00",
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3776",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "To do list: use project tags from API",
+            "status": "Q2 2026",
+            "created_at": "2025-12-20T12:02:46.951196+00:00",
+            "updated_at": "2025-12-20T12:02:46.951196+00:00"
         }
     ]
 }
