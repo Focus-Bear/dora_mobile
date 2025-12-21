@@ -13701,6 +13701,15 @@
             "merged_at": "2025-12-18T04:53:29Z",
             "time_to_merge": 13.145833333333334,
             "release_id": null
+        },
+        {
+            "pr_id": "3778",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-12-21T10:16:34Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -17540,9 +17549,9 @@
             "issue_id": "Focus-Bear/mobile-app#1831",
             "repo": "Focus-Bear/mobile-app",
             "title": "Full page intent permissions rejected",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1844",
@@ -18908,9 +18917,9 @@
             "issue_id": "Focus-Bear/mobile-app#2719",
             "repo": "Focus-Bear/mobile-app",
             "title": "URL blocking didn't work",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2721",
@@ -20548,9 +20557,9 @@
             "issue_id": "Focus-Bear/Mac-App#1002",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac Laptop and Andriod phone don\u2019t sync sometimes it works and other times it does not",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3241",
@@ -22172,9 +22181,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -22836,9 +22845,9 @@
             "issue_id": "Focus-Bear/mobile-app#3684",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus Mode timer shows on Home but disappears in the Focus tab",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-25T12:03:08.028572+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3687",
@@ -23383,6 +23392,14 @@
             "status": "Q2 2026",
             "created_at": "2025-12-20T12:02:46.951196+00:00",
             "updated_at": "2025-12-20T12:02:46.951196+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3777",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Improve timing error messages when routine times are invalid",
+            "status": "Q3 2026",
+            "created_at": "2025-12-21T12:02:47.489478+00:00",
+            "updated_at": "2025-12-21T12:02:47.489478+00:00"
         }
     ]
 }
