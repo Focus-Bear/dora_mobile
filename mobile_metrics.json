@@ -13774,6 +13774,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3800",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2025-12-23T22:38:50Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3796",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2025-12-23T16:48:18Z",
+            "merged_at": "2025-12-24T00:20:25Z",
+            "time_to_merge": 7.535277777777778,
+            "release_id": null
         }
     ],
     "issues": [
@@ -16285,9 +16303,9 @@
             "issue_id": "Focus-Bear/mobile-app#1462",
             "repo": "Focus-Bear/mobile-app",
             "title": "Can't Switch on Notification permission in iOS",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#1892",
@@ -20621,9 +20639,9 @@
             "issue_id": "Focus-Bear/Mac-App#1002",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac Laptop and Andriod phone don\u2019t sync sometimes it works and other times it does not",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-22T12:03:19.845418+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3241",
@@ -21573,9 +21591,9 @@
             "issue_id": "Focus-Bear/mobile-app#3449",
             "repo": "Focus-Bear/mobile-app",
             "title": "Record video documenting release process for iOS and Android",
-            "status": "Dec 2025",
+            "status": "Code Review",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3450",
@@ -22389,9 +22407,9 @@
             "issue_id": "Focus-Bear/mobile-app#3595",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine timer pauses when screen is locked or switched apps (iOS)",
-            "status": "Dec 2025",
+            "status": "Unable to replicate",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2025-11-28T12:03:03.167203+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3596",
@@ -22405,9 +22423,9 @@
             "issue_id": "Focus-Bear/mobile-app#3597",
             "repo": "Focus-Bear/mobile-app",
             "title": "Every button in onboarding needs a posthog event",
-            "status": "Dec 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-03T12:03:01.232594+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3600",
@@ -23333,9 +23351,9 @@
             "issue_id": "Focus-Bear/mobile-app#3756",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus music turns off when screen turns off on iOS?",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-23T12:02:55.457185+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3757",
@@ -23485,17 +23503,17 @@
             "issue_id": "Focus-Bear/mobile-app#3783",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add music to non timer based habits",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-22T12:03:19.845418+00:00",
-            "updated_at": "2025-12-23T12:02:55.457185+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3785",
             "repo": "Focus-Bear/mobile-app",
             "title": "The blocking schedule is active on incorrect days",
-            "status": "Dec 2025",
+            "status": "Emergency fix needed",
             "created_at": "2025-12-23T12:02:55.457185+00:00",
-            "updated_at": "2025-12-23T12:02:55.457185+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3786",
@@ -23525,9 +23543,65 @@
             "issue_id": "Focus-Bear/mobile-app#3789",
             "repo": "Focus-Bear/mobile-app",
             "title": "Make TOP score clearer",
-            "status": "Dec 2025",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-23T12:02:55.457185+00:00",
-            "updated_at": "2025-12-23T12:02:55.457185+00:00"
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3793",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App is incorrectly unblocked after Block Schedule ends while Morning Routine is still active",
+            "status": "Q1 2026",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3794",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Time temporarily shifts +1 hour when opening details, then returns to correct time",
+            "status": "Q3 2026",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3795",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App remains blocked after schedule ends",
+            "status": "Q1 2026",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3797",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Username and Nickname should be the same",
+            "status": "Q1 2026",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3798",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[Suggestion] Blocked Apps for Focus Sessions",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3799",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking disabled issue (iOS)",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3801",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Security Issues: The forgot password feedback displays different messages depending on if the email exists or not",
+            "status": "Dec 2025",
+            "created_at": "2025-12-24T12:03:06.580922+00:00",
+            "updated_at": "2025-12-24T12:03:06.580922+00:00"
         }
     ]
 }
