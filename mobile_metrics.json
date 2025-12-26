@@ -22975,9 +22975,9 @@
             "issue_id": "Focus-Bear/mobile-app#3693",
             "repo": "Focus-Bear/mobile-app",
             "title": "Integrate with new RAG routine suggestions endpoint",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2025-12-26T12:02:56.865692+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3692",
@@ -23319,9 +23319,9 @@
             "issue_id": "Focus-Bear/mobile-app#3751",
             "repo": "Focus-Bear/mobile-app",
             "title": "Countdown does not run and action button is not activated after 60 seconds",
-            "status": "Jan 2026",
+            "status": "Dec 2025",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-26T12:02:56.865692+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3752",
