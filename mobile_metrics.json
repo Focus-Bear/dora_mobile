@@ -20639,9 +20639,9 @@
             "issue_id": "Focus-Bear/Mac-App#1002",
             "repo": "Focus-Bear/Mac-App",
             "title": "Mac Laptop and Andriod phone don\u2019t sync sometimes it works and other times it does not",
-            "status": "QA Failed",
+            "status": "Q1 2026",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+            "updated_at": "2025-12-28T12:02:50.824825+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3241",
@@ -22263,9 +22263,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-12-22T12:03:19.845418+00:00"
+            "updated_at": "2025-12-28T12:02:50.824825+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -22975,9 +22975,9 @@
             "issue_id": "Focus-Bear/mobile-app#3693",
             "repo": "Focus-Bear/mobile-app",
             "title": "Integrate with new RAG routine suggestions endpoint",
-            "status": "QA Passed/Done",
+            "status": "Ready for QA",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2025-12-26T12:02:56.865692+00:00"
+            "updated_at": "2025-12-28T12:02:50.824825+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3692",
@@ -23602,6 +23602,22 @@
             "status": "Dec 2025",
             "created_at": "2025-12-24T12:03:06.580922+00:00",
             "updated_at": "2025-12-24T12:03:06.580922+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3802",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Change email for anonymous users to internaltest+{random}@focusbear.io in dev mode",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-28T12:02:50.824825+00:00",
+            "updated_at": "2025-12-28T12:02:50.824825+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/backend#1556",
+            "repo": "Focus-Bear/backend",
+            "title": "Set up dependabot in backend repo",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-28T12:02:50.824825+00:00",
+            "updated_at": "2025-12-28T12:02:50.824825+00:00"
         }
     ]
 }
