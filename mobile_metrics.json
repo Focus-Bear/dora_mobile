@@ -13792,6 +13792,24 @@
             "merged_at": "2025-12-24T00:20:25Z",
             "time_to_merge": 7.535277777777778,
             "release_id": null
+        },
+        {
+            "pr_id": "3806",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "imtia33",
+            "created_at": "2025-12-29T05:11:23Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3804",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2025-12-28T20:18:27Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21591,9 +21609,9 @@
             "issue_id": "Focus-Bear/mobile-app#3449",
             "repo": "Focus-Bear/mobile-app",
             "title": "Record video documenting release process for iOS and Android",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3450",
@@ -22783,9 +22801,9 @@
             "issue_id": "Focus-Bear/mobile-app#3661",
             "repo": "Focus-Bear/mobile-app",
             "title": "User unable to save settings",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-12-19T12:02:53.612406+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3662",
@@ -22975,9 +22993,9 @@
             "issue_id": "Focus-Bear/mobile-app#3693",
             "repo": "Focus-Bear/mobile-app",
             "title": "Integrate with new RAG routine suggestions endpoint",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2025-12-28T12:02:50.824825+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3692",
@@ -23039,9 +23057,9 @@
             "issue_id": "Focus-Bear/mobile-app#3703",
             "repo": "Focus-Bear/mobile-app",
             "title": "new blocking schedule didn't  start",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-01T12:03:03.254742+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3704",
@@ -23063,17 +23081,17 @@
             "issue_id": "Focus-Bear/mobile-app#3707",
             "repo": "Focus-Bear/mobile-app",
             "title": "Update ESLint to check missing testIDs",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-02T12:02:59.102085+00:00",
-            "updated_at": "2025-12-02T12:02:59.102085+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3708",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add script to collect all testIDs",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-02T12:02:59.102085+00:00",
-            "updated_at": "2025-12-02T12:02:59.102085+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3713",
@@ -23135,9 +23153,9 @@
             "issue_id": "Focus-Bear/mobile-app#3720",
             "repo": "Focus-Bear/mobile-app",
             "title": "Bad empty state for stats",
-            "status": "Dec 2025",
+            "status": "Code Review",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2025-12-05T12:03:01.029991+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3721",
@@ -23215,9 +23233,9 @@
             "issue_id": "Focus-Bear/mobile-app#3732",
             "repo": "Focus-Bear/mobile-app",
             "title": "Quiz game: High score fails to save and only shows generic error message",
-            "status": "Dec 2025",
+            "status": "Jan 2026",
             "created_at": "2025-12-08T12:03:01.681061+00:00",
-            "updated_at": "2025-12-08T12:03:01.681061+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3733",
@@ -23295,9 +23313,9 @@
             "issue_id": "Focus-Bear/mobile-app#3748",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking schedule settings do not save",
-            "status": "Dec 2025",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3749",
@@ -23327,17 +23345,17 @@
             "issue_id": "Focus-Bear/mobile-app#3752",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking schedule still active even though the time is over",
-            "status": "Emergency fix needed",
+            "status": "QA Failed",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3754",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove simple home screen - create tasks instead",
-            "status": "Emergency fix needed",
+            "status": "Jan 2026",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-14T12:02:48.459550+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3755",
@@ -23455,9 +23473,9 @@
             "issue_id": "Focus-Bear/mobile-app#3774",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove the 3.55am/4am hardcoded routine times",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-20T12:02:46.951196+00:00",
-            "updated_at": "2025-12-23T12:02:55.457185+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3775",
@@ -23495,9 +23513,9 @@
             "issue_id": "Focus-Bear/mobile-app#3780",
             "repo": "Focus-Bear/mobile-app",
             "title": "Shield screen shows wrong message",
-            "status": "Emergency fix needed",
+            "status": "QA in Progress Android",
             "created_at": "2025-12-22T12:03:19.845418+00:00",
-            "updated_at": "2025-12-22T12:03:19.845418+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3783",
@@ -23511,9 +23529,9 @@
             "issue_id": "Focus-Bear/mobile-app#3785",
             "repo": "Focus-Bear/mobile-app",
             "title": "The blocking schedule is active on incorrect days",
-            "status": "Emergency fix needed",
+            "status": "Architecture review/clarification",
             "created_at": "2025-12-23T12:02:55.457185+00:00",
-            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3786",
@@ -23583,17 +23601,17 @@
             "issue_id": "Focus-Bear/mobile-app#3798",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Suggestion] Blocked Apps for Focus Sessions",
-            "status": "Emergency fix needed",
+            "status": "Architecture review/clarification",
             "created_at": "2025-12-24T12:03:06.580922+00:00",
-            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3799",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking disabled issue (iOS)",
-            "status": "Emergency fix needed",
+            "status": "Ready for QA",
             "created_at": "2025-12-24T12:03:06.580922+00:00",
-            "updated_at": "2025-12-24T12:03:06.580922+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3801",
@@ -23607,9 +23625,9 @@
             "issue_id": "Focus-Bear/mobile-app#3802",
             "repo": "Focus-Bear/mobile-app",
             "title": "Change email for anonymous users to internaltest+{random}@focusbear.io in dev mode",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-28T12:02:50.824825+00:00",
-            "updated_at": "2025-12-28T12:02:50.824825+00:00"
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1556",
@@ -23618,6 +23636,70 @@
             "status": "Emergency fix needed",
             "created_at": "2025-12-28T12:02:50.824825+00:00",
             "updated_at": "2025-12-28T12:02:50.824825+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3805",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add webview stats to the stats section in Android and IOS",
+            "status": "Jan 2026",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3803",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Habits do not sync correctly across platforms; Android shows missing evening routine habits",
+            "status": "Jan 2026",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3807",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Show friction level on the postpone screen so they know they can make blocking more intense",
+            "status": "Q1 2026",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3808",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Failed to generate any habits from my voice note",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3809",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking reason is wrong",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3810",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashed",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3811",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Wrong label for low quality screentime",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3812",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Tapping the blocking banner should take user to blocking schedule screen",
+            "status": "Emergency fix needed",
+            "created_at": "2025-12-29T12:03:02.388814+00:00",
+            "updated_at": "2025-12-29T12:03:02.388814+00:00"
         }
     ]
 }
