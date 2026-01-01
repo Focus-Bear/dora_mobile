@@ -13846,6 +13846,33 @@
             "merged_at": "2025-12-30T15:56:31Z",
             "time_to_merge": 0.0016666666666666668,
             "release_id": null
+        },
+        {
+            "pr_id": "3826",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-01T04:58:55Z",
+            "merged_at": "2026-01-01T07:57:55Z",
+            "time_to_merge": 2.9833333333333334,
+            "release_id": null
+        },
+        {
+            "pr_id": "3825",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2025-12-31T16:09:21Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3824",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2025-12-31T12:27:09Z",
+            "merged_at": "2025-12-31T12:27:16Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21373,9 +21400,9 @@
             "issue_id": "Focus-Bear/mobile-app#3404",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Extend Import Feature to Habits and Routines (via Screenshot or List)",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3405",
@@ -22317,9 +22344,9 @@
             "issue_id": "Focus-Bear/mobile-app#3574",
             "repo": "Focus-Bear/mobile-app",
             "title": "Build UI for blocking schedule",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-28T12:03:03.756994+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3575",
@@ -22725,9 +22752,9 @@
             "issue_id": "Focus-Bear/mobile-app#3642",
             "repo": "Focus-Bear/mobile-app",
             "title": "Auto play habit after 5 seconds",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-13T12:03:03.883032+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3644",
@@ -23021,9 +23048,9 @@
             "issue_id": "Focus-Bear/mobile-app#3691",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking schedules were not saved after logging out and back in",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-26T12:03:07.360400+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3693",
@@ -23213,9 +23240,9 @@
             "issue_id": "Focus-Bear/mobile-app#3725",
             "repo": "Focus-Bear/mobile-app",
             "title": "App Blocking not working despite showing as active",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3726",
@@ -23253,9 +23280,9 @@
             "issue_id": "Focus-Bear/mobile-app#3730",
             "repo": "Focus-Bear/mobile-app",
             "title": "Unable to change blocking schedule; time resets to default",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-08T12:03:01.681061+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3731",
@@ -23349,9 +23376,9 @@
             "issue_id": "Focus-Bear/mobile-app#3748",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking schedule settings do not save",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3749",
@@ -23429,9 +23456,9 @@
             "issue_id": "Focus-Bear/mobile-app#3760",
             "repo": "Focus-Bear/mobile-app",
             "title": "Hide quick breaks until they complete a focus session",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-15T12:03:14.488681+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-01T12:03:04.129355+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3759",
