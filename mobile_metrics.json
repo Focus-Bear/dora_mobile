@@ -13873,6 +13873,15 @@
             "merged_at": "2025-12-31T12:27:16Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3858",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2026-01-03T08:16:07Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23816,9 +23825,9 @@
             "issue_id": "Focus-Bear/mobile-app#3823",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit auto-start edge cases",
-            "status": "Emergency fix needed",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-03T12:02:49.985823+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3827",
@@ -23832,9 +23841,9 @@
             "issue_id": "Focus-Bear/mobile-app#3828",
             "repo": "Focus-Bear/mobile-app",
             "title": "Settings can't be accessed, app shows white screen",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-02T12:02:59.174496+00:00"
+            "updated_at": "2026-01-03T12:02:49.985823+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3829",
@@ -23899,6 +23908,14 @@
             "status": "Jan 2026",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
             "updated_at": "2026-01-02T12:02:59.174496+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3857",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Suggestion: simplify adding websites to block on mobile",
+            "status": "2027",
+            "created_at": "2026-01-03T12:02:49.985823+00:00",
+            "updated_at": "2026-01-03T12:02:49.985823+00:00"
         }
     ]
 }
