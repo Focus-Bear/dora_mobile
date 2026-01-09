@@ -13990,6 +13990,33 @@
             "merged_at": "2026-01-08T04:56:19Z",
             "time_to_merge": 0.002777777777777778,
             "release_id": null
+        },
+        {
+            "pr_id": "3887",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2026-01-09T07:58:30Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3886",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-09T07:43:04Z",
+            "merged_at": "2026-01-09T07:43:10Z",
+            "time_to_merge": 0.0016666666666666668,
+            "release_id": null
+        },
+        {
+            "pr_id": "3885",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-09T07:42:22Z",
+            "merged_at": "2026-01-09T07:42:36Z",
+            "time_to_merge": 0.0038888888888888888,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21517,9 +21544,9 @@
             "issue_id": "Focus-Bear/mobile-app#3404",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Extend Import Feature to Habits and Routines (via Screenshot or List)",
-            "status": "Merged but not released to QA yet",
+            "status": "QA in Progress Android",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3405",
@@ -21973,9 +22000,9 @@
             "issue_id": "Focus-Bear/mobile-app#3482",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding tweaks",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-10-05T12:02:50.877984+00:00",
-            "updated_at": "2025-10-17T12:03:08.395617+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3484",
@@ -23437,9 +23464,9 @@
             "issue_id": "Focus-Bear/mobile-app#3736",
             "repo": "Focus-Bear/mobile-app",
             "title": "Apps are not blocked before morning routine or during evening time",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-10T12:03:12.662824+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3737",
@@ -23861,9 +23888,9 @@
             "issue_id": "Focus-Bear/mobile-app#3810",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashed",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3811",
@@ -23877,9 +23904,9 @@
             "issue_id": "Focus-Bear/mobile-app#3812",
             "repo": "Focus-Bear/mobile-app",
             "title": "Tapping the blocking banner should take user to blocking schedule screen",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3814",
@@ -23909,9 +23936,9 @@
             "issue_id": "Focus-Bear/mobile-app#3817",
             "repo": "Focus-Bear/mobile-app",
             "title": "Creating a second AI habit deletes the first AI-created habit",
-            "status": "Jan 2026",
+            "status": "Unable to replicate",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3818",
@@ -23981,9 +24008,9 @@
             "issue_id": "Focus-Bear/mobile-app#3851",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve posthog events for signups",
-            "status": "Dev Work In Progress",
+            "status": "Code Review",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3852",
@@ -24037,9 +24064,9 @@
             "issue_id": "Focus-Bear/mobile-app#3862",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking shown as disabled but still active during sleep time after evening routine",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-05T12:03:37.435758+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3865",
@@ -24061,9 +24088,9 @@
             "issue_id": "Focus-Bear/mobile-app#3856",
             "repo": "Focus-Bear/mobile-app",
             "title": "Delayed app blocking occurs even after pausing the block schedule (Android v1.14.2)",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-05T12:03:37.435758+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3871",
@@ -24077,17 +24104,17 @@
             "issue_id": "Focus-Bear/mobile-app#3872",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle and Strict blocking modes behave inconsistently and appear to be swapped",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Failed",
             "created_at": "2026-01-06T12:03:00.142866+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3874",
             "repo": "Focus-Bear/mobile-app",
             "title": "To do list UI is completely broken in v1.15.0",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2026-01-07T12:03:02.299817+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3875",
@@ -24112,6 +24139,30 @@
             "status": "Jan 2026",
             "created_at": "2026-01-07T12:03:02.299817+00:00",
             "updated_at": "2026-01-07T12:03:02.299817+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3882",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Alarm does not ring during habits when Do Not Disturb is enabled, even though alarm app is allowed",
+            "status": "Q3 2026",
+            "created_at": "2026-01-09T12:03:12.418071+00:00",
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3883",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashed when I used it as default launcher",
+            "status": "Jan 2026",
+            "created_at": "2026-01-09T12:03:12.418071+00:00",
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3884",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Gentle blocking should ask for intention and show the intention in a persistent notification",
+            "status": "Q1 2026",
+            "created_at": "2026-01-09T12:03:12.418071+00:00",
+            "updated_at": "2026-01-09T12:03:12.418071+00:00"
         }
     ]
 }
