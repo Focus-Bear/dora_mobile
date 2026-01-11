@@ -14089,9 +14089,9 @@
             "issue_id": "Focus-Bear/mobile-app#3393",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine Completion Status Not Syncing Correctly Between Windows and Android",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-06T12:02:43.595075+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3394",
@@ -18697,9 +18697,9 @@
             "issue_id": "Focus-Bear/web_dashboard#1757",
             "repo": "Focus-Bear/web_dashboard",
             "title": "Infinite Request Retry Loop on API Requests",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-09-29T05:07:35.593903+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2410",
@@ -23329,9 +23329,9 @@
             "issue_id": "Focus-Bear/mobile-app#3715",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completed tasks shouldn't have TOP scores",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-04T12:03:03.939139+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3716",
@@ -23401,9 +23401,9 @@
             "issue_id": "Focus-Bear/mobile-app#3726",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle blocking on Android should ask for a time limit",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3727",
@@ -23889,9 +23889,9 @@
             "issue_id": "Focus-Bear/mobile-app#3809",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking reason is wrong",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3810",
@@ -23905,9 +23905,9 @@
             "issue_id": "Focus-Bear/mobile-app#3811",
             "repo": "Focus-Bear/mobile-app",
             "title": "Wrong label for low quality screentime",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3812",
@@ -23993,9 +23993,9 @@
             "issue_id": "Focus-Bear/mobile-app#3829",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle blocking looks completely broken",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3830",
@@ -24057,9 +24057,9 @@
             "issue_id": "Focus-Bear/mobile-app#3857",
             "repo": "Focus-Bear/mobile-app",
             "title": "Suggestion: simplify adding websites to block on mobile",
-            "status": "Code Review",
+            "status": "Merged but not released to QA yet",
             "created_at": "2026-01-03T12:02:49.985823+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3859",
@@ -24121,9 +24121,9 @@
             "issue_id": "Focus-Bear/mobile-app#3874",
             "repo": "Focus-Bear/mobile-app",
             "title": "To do list UI is completely broken in v1.15.0",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-07T12:03:02.299817+00:00",
-            "updated_at": "2026-01-09T12:03:12.418071+00:00"
+            "updated_at": "2026-01-11T12:02:58.023065+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3875",
