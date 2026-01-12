@@ -14026,6 +14026,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3892",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "ksvyee",
+            "created_at": "2026-01-12T08:57:14Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3890",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2026-01-11T20:12:10Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -15793,9 +15811,9 @@
             "issue_id": "Focus-Bear/mobile-app#2850",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events before signup",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2535",
@@ -18297,9 +18315,9 @@
             "issue_id": "Focus-Bear/Mac-App#1200",
             "repo": "Focus-Bear/Mac-App",
             "title": "Add more person properties to Posthog",
-            "status": "For Dev QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2063",
@@ -19249,9 +19267,9 @@
             "issue_id": "Focus-Bear/mobile-app#3271",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log posthog event for backend errors and timeouts",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2726",
@@ -19289,9 +19307,9 @@
             "issue_id": "Focus-Bear/mobile-app#2958",
             "repo": "Focus-Bear/mobile-app",
             "title": "Posthog is showing isPaidUser true for all users",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-12-16T12:02:59.803470+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2741",
@@ -19977,9 +19995,9 @@
             "issue_id": "Focus-Bear/mobile-app#2999",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crashes/exceptions",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-02T12:02:59.174496+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3001",
@@ -22281,9 +22299,9 @@
             "issue_id": "Focus-Bear/mobile-app#3530",
             "repo": "Focus-Bear/mobile-app",
             "title": "Activated permission screentime event fired on first load of app?",
-            "status": "For Dev QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-10-16T12:03:06.943527+00:00",
-            "updated_at": "2025-12-09T12:03:18.583244+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3535",
@@ -22729,9 +22747,9 @@
             "issue_id": "Focus-Bear/mobile-app#3613",
             "repo": "Focus-Bear/mobile-app",
             "title": "To do list: swipe right to reschedule",
-            "status": "Feb 2026",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-08T12:02:45.820282+00:00",
-            "updated_at": "2026-01-05T12:03:37.435758+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3604",
@@ -23017,9 +23035,9 @@
             "issue_id": "Focus-Bear/mobile-app#3661",
             "repo": "Focus-Bear/mobile-app",
             "title": "User unable to save settings",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2025-12-31T12:03:04.451697+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3662",
@@ -23209,9 +23227,9 @@
             "issue_id": "Focus-Bear/mobile-app#3693",
             "repo": "Focus-Bear/mobile-app",
             "title": "Integrate with new RAG routine suggestions endpoint",
-            "status": "For Dev QA",
+            "status": "QA Failed",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3692",
@@ -23577,9 +23595,9 @@
             "issue_id": "Focus-Bear/mobile-app#3755",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events for blank routine suggestions",
-            "status": "For Dev QA",
+            "status": "QA Failed",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-05T12:03:37.435758+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3756",
@@ -23889,9 +23907,9 @@
             "issue_id": "Focus-Bear/mobile-app#3809",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blocking reason is wrong",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-11T12:02:58.023065+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3810",
@@ -23969,9 +23987,9 @@
             "issue_id": "Focus-Bear/mobile-app#3823",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit auto-start edge cases",
-            "status": "For Dev QA",
+            "status": "Ready for QA",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3827",
@@ -24025,9 +24043,9 @@
             "issue_id": "Focus-Bear/mobile-app#3852",
             "repo": "Focus-Bear/mobile-app",
             "title": "400 error after finishing Focus session early",
-            "status": "For Dev QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3853",
@@ -24180,6 +24198,14 @@
             "status": "Jan 2026",
             "created_at": "2026-01-10T12:02:41.351289+00:00",
             "updated_at": "2026-01-10T12:02:41.351289+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3891",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Soft blocking shows an error and breathing animation overlaps the Focus Bear logo",
+            "status": "Emergency fix needed",
+            "created_at": "2026-01-12T12:03:18.854585+00:00",
+            "updated_at": "2026-01-12T12:03:18.854585+00:00"
         }
     ]
 }
