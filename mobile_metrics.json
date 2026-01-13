@@ -14275,9 +14275,9 @@
             "issue_id": "Focus-Bear/mobile-app#3293",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Android only] Habits don\u2019t automatically block apps at the start of a new day unless Focus Bear is opened",
-            "status": "Jan 2026",
+            "status": "Emergency fix needed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3387",
@@ -21571,9 +21571,9 @@
             "issue_id": "Focus-Bear/mobile-app#3404",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Extend Import Feature to Habits and Routines (via Screenshot or List)",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-10T12:02:41.351289+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3405",
@@ -22187,9 +22187,9 @@
             "issue_id": "Focus-Bear/mobile-app#3512",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add toast confirmation after sending a feature request",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-13T12:03:09.321378+00:00",
-            "updated_at": "2026-01-10T12:02:41.351289+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3513",
@@ -23043,9 +23043,9 @@
             "issue_id": "Focus-Bear/mobile-app#3662",
             "repo": "Focus-Bear/mobile-app",
             "title": "Posthog session recordings not working on iOS",
-            "status": "Jan 2026",
+            "status": "Feb 2026",
             "created_at": "2025-11-21T12:03:08.022790+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3663",
@@ -23235,9 +23235,9 @@
             "issue_id": "Focus-Bear/mobile-app#3692",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text Overlaps and Cuts Off When System Text Size Increased (Resize Text / Reflow)",
-            "status": "Jan 2026",
+            "status": "QA Failed",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3695",
@@ -23363,9 +23363,9 @@
             "issue_id": "Focus-Bear/mobile-app#3717",
             "repo": "Focus-Bear/mobile-app",
             "title": "iOS: Auth0 sign-in popup and session expiration loop prevents app usage until forced restart",
-            "status": "Jan 2026",
+            "status": "Ready for QA",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3718",
@@ -23403,9 +23403,9 @@
             "issue_id": "Focus-Bear/mobile-app#3722",
             "repo": "Focus-Bear/mobile-app",
             "title": "User selected set up habits later but it forced them to set up habits anyway?",
-            "status": "Jan 2026",
+            "status": "QA in Progress Android",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3725",
@@ -23539,9 +23539,9 @@
             "issue_id": "Focus-Bear/mobile-app#3747",
             "repo": "Focus-Bear/mobile-app",
             "title": "Ask user to report logs if they get a 4xx error",
-            "status": "Jan 2026",
+            "status": "Feb 2026",
             "created_at": "2025-12-12T12:03:03.015680+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3748",
@@ -23611,9 +23611,9 @@
             "issue_id": "Focus-Bear/mobile-app#3757",
             "repo": "Focus-Bear/mobile-app",
             "title": "Reassure users about accessibility permissions",
-            "status": "Merged but not released to QA yet",
+            "status": "Ready for QA",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-08T12:03:07.551807+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3758",
@@ -23899,9 +23899,9 @@
             "issue_id": "Focus-Bear/mobile-app#3808",
             "repo": "Focus-Bear/mobile-app",
             "title": "Failed to generate any habits from my voice note",
-            "status": "QA Failed",
+            "status": "External devs in progress",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3809",
@@ -24107,9 +24107,9 @@
             "issue_id": "Focus-Bear/mobile-app#3866",
             "repo": "Focus-Bear/mobile-app",
             "title": "Create sub issues for handled exceptions",
-            "status": "Jan 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-01-05T12:03:37.435758+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3856",
@@ -24123,9 +24123,9 @@
             "issue_id": "Focus-Bear/mobile-app#3871",
             "repo": "Focus-Bear/mobile-app",
             "title": "Pause blocking screen time stats are wrong",
-            "status": "Jan 2026",
+            "status": "Code Review",
             "created_at": "2026-01-06T12:03:00.142866+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3872",
@@ -24203,9 +24203,49 @@
             "issue_id": "Focus-Bear/mobile-app#3891",
             "repo": "Focus-Bear/mobile-app",
             "title": "Soft blocking shows an error and breathing animation overlaps the Focus Bear logo",
-            "status": "Emergency fix needed",
+            "status": "Jan 2026",
             "created_at": "2026-01-12T12:03:18.854585+00:00",
-            "updated_at": "2026-01-12T12:03:18.854585+00:00"
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3893",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Add eslint rule for no untranslated strings",
+            "status": "Feb 2026",
+            "created_at": "2026-01-13T12:03:05.863642+00:00",
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/backend#1583",
+            "repo": "Focus-Bear/backend",
+            "title": "Error when deleting a Blocking Schedule that was deleted from the Windows app",
+            "status": "Jan 2026",
+            "created_at": "2026-01-13T12:03:05.863642+00:00",
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3894",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Show a really big warning if the mobile app is installed on Mac",
+            "status": "Jan 2026",
+            "created_at": "2026-01-13T12:03:05.863642+00:00",
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3895",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Soft blocking does not appear when Focus Bear launcher is open",
+            "status": "Jan 2026",
+            "created_at": "2026-01-13T12:03:05.863642+00:00",
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3896",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Delete error when deleting a Blocking Schedule that was deleted from Windows app",
+            "status": "Jan 2026",
+            "created_at": "2026-01-13T12:03:05.863642+00:00",
+            "updated_at": "2026-01-13T12:03:05.863642+00:00"
         }
     ]
 }
