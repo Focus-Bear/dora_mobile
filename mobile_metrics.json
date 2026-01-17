@@ -14243,6 +14243,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3921",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-17T09:35:46Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -20194,9 +20203,9 @@
             "issue_id": "Focus-Bear/mobile-app#2999",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crashes/exceptions",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-12T12:03:18.854585+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3001",
@@ -20986,9 +20995,9 @@
             "issue_id": "Focus-Bear/mobile-app#3202",
             "repo": "Focus-Bear/mobile-app",
             "title": "Google meet shouldn't be in low quality screen time",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3215",
@@ -21626,9 +21635,9 @@
             "issue_id": "Focus-Bear/mobile-app#3381",
             "repo": "Focus-Bear/mobile-app",
             "title": "Error popup appears after completing focus session",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3382",
@@ -21810,9 +21819,9 @@
             "issue_id": "Focus-Bear/mobile-app#3412",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Bug] Video doesn\u2019t loop even though timer hasn\u2019t finished",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3413",
@@ -22002,9 +22011,9 @@
             "issue_id": "Focus-Bear/mobile-app#3443",
             "repo": "Focus-Bear/mobile-app",
             "title": "Usage stats screen shouldn't show N/A if permissions aren't granted",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3444",
@@ -23042,9 +23051,9 @@
             "issue_id": "Focus-Bear/mobile-app#3629",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Blocking schedule] Selected apps not shown as checked when reopening \u201cChoose apps to block\u201d",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3630",
@@ -23098,9 +23107,9 @@
             "issue_id": "Focus-Bear/mobile-app#3637",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Blocking schedule] Red notification dot on Blocking Schedules persists even when there is no new update or alert",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-13T12:03:03.883032+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3638",
@@ -23810,9 +23819,9 @@
             "issue_id": "Focus-Bear/mobile-app#3757",
             "repo": "Focus-Bear/mobile-app",
             "title": "Reassure users about accessibility permissions",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3758",
@@ -24186,9 +24195,9 @@
             "issue_id": "Focus-Bear/mobile-app#3823",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit auto-start edge cases",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2026-01-12T12:03:18.854585+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3827",
@@ -24274,9 +24283,9 @@
             "issue_id": "Focus-Bear/mobile-app#3857",
             "repo": "Focus-Bear/mobile-app",
             "title": "Suggestion: simplify adding websites to block on mobile",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-03T12:02:49.985823+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3859",
@@ -24394,9 +24403,9 @@
             "issue_id": "Focus-Bear/mobile-app#3889",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit completion does not update status, duration resets to 00:00",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-10T12:02:41.351289+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3891",
@@ -24477,6 +24486,14 @@
             "status": "Dev Work In Progress",
             "created_at": "2026-01-16T12:02:57.217143+00:00",
             "updated_at": "2026-01-16T12:02:57.217143+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3920",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Focus music stops when phone sleeps or app is backgrounded",
+            "status": "Q4 2026 tasks",
+            "created_at": "2026-01-17T12:02:41.481512+00:00",
+            "updated_at": "2026-01-17T12:02:41.481512+00:00"
         }
     ]
 }
