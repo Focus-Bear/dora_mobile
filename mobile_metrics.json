@@ -22123,9 +22123,9 @@
             "issue_id": "Focus-Bear/mobile-app#3461",
             "repo": "Focus-Bear/mobile-app",
             "title": "App fails to open from home screen but launches from Play Store (Android)",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-18T12:03:15.722338+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3462",
@@ -23019,9 +23019,9 @@
             "issue_id": "Focus-Bear/mobile-app#3624",
             "repo": "Focus-Bear/mobile-app",
             "title": "[suggestion] Title: Add a streak animation when a new day begins",
-            "status": "Q1 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2025-11-10T12:03:08.960614+00:00"
+            "updated_at": "2026-01-18T12:03:15.722338+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3625",
@@ -23315,9 +23315,9 @@
             "issue_id": "Focus-Bear/mobile-app#3671",
             "repo": "Focus-Bear/mobile-app",
             "title": "Launcher doesn't show loading indicator while it's loading apps.",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-11-22T12:02:36.928025+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-18T12:03:15.722338+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3672",
@@ -23843,9 +23843,9 @@
             "issue_id": "Focus-Bear/mobile-app#3759",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit status not updating?",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-12-15T12:03:14.488681+00:00",
-            "updated_at": "2025-12-22T12:03:19.845418+00:00"
+            "updated_at": "2026-01-18T12:03:15.722338+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3762",
@@ -24494,6 +24494,14 @@
             "status": "Q4 2026 tasks",
             "created_at": "2026-01-17T12:02:41.481512+00:00",
             "updated_at": "2026-01-17T12:02:41.481512+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3922",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "A focus session showing different status on focus screen and home screen",
+            "status": "Architecture review/clarification",
+            "created_at": "2026-01-18T12:03:15.722338+00:00",
+            "updated_at": "2026-01-18T12:03:15.722338+00:00"
         }
     ]
 }
