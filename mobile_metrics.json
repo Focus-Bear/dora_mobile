@@ -14252,6 +14252,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3925",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2026-01-19T15:53:47Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21611,9 +21620,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "Ready for QA",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -21715,9 +21724,9 @@
             "issue_id": "Focus-Bear/mobile-app#3392",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine Auto-Completes When App is Left Mid-Habit",
-            "status": "Jan 2026",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3395",
@@ -22011,9 +22020,9 @@
             "issue_id": "Focus-Bear/mobile-app#3443",
             "repo": "Focus-Bear/mobile-app",
             "title": "Usage stats screen shouldn't show N/A if permissions aren't granted",
-            "status": "QA in Progress Android",
+            "status": "QA Failed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-17T12:02:41.481512+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3444",
@@ -22259,9 +22268,9 @@
             "issue_id": "Focus-Bear/mobile-app#3485",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog event for soft blocking",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-06T12:03:10.192248+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3486",
@@ -22507,9 +22516,9 @@
             "issue_id": "Focus-Bear/mobile-app#3530",
             "repo": "Focus-Bear/mobile-app",
             "title": "Activated permission screentime event fired on first load of app?",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-16T12:03:06.943527+00:00",
-            "updated_at": "2026-01-12T12:03:18.854585+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3535",
@@ -22683,9 +22692,9 @@
             "issue_id": "Focus-Bear/mobile-app#3566",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine marked as completed even though some habits are not done",
-            "status": "Jan 2026",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3567",
@@ -22867,9 +22876,9 @@
             "issue_id": "Focus-Bear/mobile-app#3595",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine timer pauses when screen is locked or switched apps (iOS)",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-31T12:03:13.389985+00:00",
-            "updated_at": "2026-01-19T12:03:13.288808+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3596",
@@ -23051,9 +23060,9 @@
             "issue_id": "Focus-Bear/mobile-app#3629",
             "repo": "Focus-Bear/mobile-app",
             "title": "[Blocking schedule] Selected apps not shown as checked when reopening \u201cChoose apps to block\u201d",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-11T12:03:02.983638+00:00",
-            "updated_at": "2026-01-17T12:02:41.481512+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3630",
@@ -23539,9 +23548,9 @@
             "issue_id": "Focus-Bear/mobile-app#3713",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove free time habit",
-            "status": "Jan 2026",
+            "status": "Code Review",
             "created_at": "2025-12-03T12:03:02.696851+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2724",
@@ -23571,9 +23580,9 @@
             "issue_id": "Focus-Bear/mobile-app#3717",
             "repo": "Focus-Bear/mobile-app",
             "title": "iOS: Auth0 sign-in popup and session expiration loop prevents app usage until forced restart",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3718",
@@ -24510,6 +24519,14 @@
             "status": "Emergency fix needed",
             "created_at": "2026-01-19T12:03:13.288808+00:00",
             "updated_at": "2026-01-19T12:03:13.288808+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3926",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Incorrect blocking notification: Instagram shown as blocked but not in blocked apps list",
+            "status": "Emergency fix needed",
+            "created_at": "2026-01-20T12:03:37.320000+00:00",
+            "updated_at": "2026-01-20T12:03:37.320000+00:00"
         }
     ]
 }
