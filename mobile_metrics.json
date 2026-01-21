@@ -14261,6 +14261,51 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "3937",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-21T06:19:47Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3936",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-21T06:10:45Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3935",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-21T06:02:46Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3933",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2026-01-21T05:40:56Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3930",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-20T22:27:36Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23772,9 +23817,9 @@
             "issue_id": "Focus-Bear/mobile-app#3749",
             "repo": "Focus-Bear/mobile-app",
             "title": "Forgot Password shows \u201cEmail not found\u201d for an existing account",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-19T12:03:13.288808+00:00"
+            "updated_at": "2026-01-21T12:03:08.413932+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3750",
@@ -24180,9 +24225,9 @@
             "issue_id": "Focus-Bear/mobile-app#3817",
             "repo": "Focus-Bear/mobile-app",
             "title": "Creating a second AI habit deletes the first AI-created habit",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2026-01-19T12:03:13.288808+00:00"
+            "updated_at": "2026-01-21T12:03:08.413932+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3818",
@@ -24324,9 +24369,9 @@
             "issue_id": "Focus-Bear/mobile-app#3866",
             "repo": "Focus-Bear/mobile-app",
             "title": "Create sub issues for handled exceptions",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-05T12:03:37.435758+00:00",
-            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+            "updated_at": "2026-01-21T12:03:08.413932+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3856",
@@ -24500,9 +24545,9 @@
             "issue_id": "Focus-Bear/mobile-app#3920",
             "repo": "Focus-Bear/mobile-app",
             "title": "Focus music stops when phone sleeps or app is backgrounded",
-            "status": "Q4 2026 tasks",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-17T12:02:41.481512+00:00",
-            "updated_at": "2026-01-17T12:02:41.481512+00:00"
+            "updated_at": "2026-01-21T12:03:08.413932+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3922",
@@ -24527,6 +24572,14 @@
             "status": "Emergency fix needed",
             "created_at": "2026-01-20T12:03:37.320000+00:00",
             "updated_at": "2026-01-20T12:03:37.320000+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3934",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "During onboarding on Android use our new categorisation to suggest apps to block",
+            "status": "Jan 2026",
+            "created_at": "2026-01-21T12:03:08.413932+00:00",
+            "updated_at": "2026-01-21T12:03:08.413932+00:00"
         }
     ]
 }
