@@ -14369,6 +14369,87 @@
             "merged_at": "2026-01-21T16:31:51Z",
             "time_to_merge": 0.0022222222222222222,
             "release_id": null
+        },
+        {
+            "pr_id": "3966",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-23T11:28:03Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3965",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-23T07:51:44Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3962",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-23T06:25:05Z",
+            "merged_at": "2026-01-23T06:40:52Z",
+            "time_to_merge": 0.26305555555555554,
+            "release_id": null
+        },
+        {
+            "pr_id": "3961",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-23T05:15:36Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3960",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-23T05:07:15Z",
+            "merged_at": "2026-01-23T05:07:42Z",
+            "time_to_merge": 0.0075,
+            "release_id": null
+        },
+        {
+            "pr_id": "3959",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T02:11:32Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3958",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-23T01:32:54Z",
+            "merged_at": "2026-01-23T06:40:05Z",
+            "time_to_merge": 5.119722222222222,
+            "release_id": null
+        },
+        {
+            "pr_id": "3957",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-22T21:31:45Z",
+            "merged_at": "2026-01-23T04:56:10Z",
+            "time_to_merge": 7.406944444444444,
+            "release_id": null
+        },
+        {
+            "pr_id": "3956",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-22T16:31:17Z",
+            "merged_at": "2026-01-22T16:31:42Z",
+            "time_to_merge": 0.006944444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -22000,9 +22081,9 @@
             "issue_id": "Focus-Bear/mobile-app#3421",
             "repo": "Focus-Bear/mobile-app",
             "title": "Top score sliders are hard to use",
-            "status": "Jan 2026",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3422",
@@ -22344,9 +22425,9 @@
             "issue_id": "Focus-Bear/mobile-app#3481",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding carousel broken on tablets?",
-            "status": "Jan 2026",
+            "status": "Q1 2026",
             "created_at": "2025-10-05T12:02:50.877984+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3482",
@@ -24336,9 +24417,9 @@
             "issue_id": "Focus-Bear/mobile-app#3829",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle blocking looks completely broken",
-            "status": "QA Passed/Done",
+            "status": "Jan 2026",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-11T12:02:58.023065+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3830",
@@ -24624,9 +24705,9 @@
             "issue_id": "Focus-Bear/mobile-app#3924",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashed when I tapped choose date in to do list",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2026-01-19T12:03:13.288808+00:00",
-            "updated_at": "2026-01-19T12:03:13.288808+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3926",
@@ -24664,9 +24745,9 @@
             "issue_id": "Focus-Bear/mobile-app#3940",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine skipped a habit",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-22T12:03:22.587994+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3941",
@@ -24680,9 +24761,9 @@
             "issue_id": "Focus-Bear/mobile-app#3944",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashed after switching to German language",
-            "status": "Emergency fix needed",
+            "status": "Merged but not released to QA yet",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-22T12:03:22.587994+00:00"
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3945",
@@ -24739,6 +24820,38 @@
             "status": "Jan 2026",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
             "updated_at": "2026-01-22T12:03:22.587994+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3931",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Upload debug symbol to Sentry for iOS",
+            "status": "Jan 2026",
+            "created_at": "2026-01-23T12:03:22.973981+00:00",
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3932",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "[SIGALRT] Find of what changes in the first version that this bug occurred",
+            "status": "Jan 2026",
+            "created_at": "2026-01-23T12:03:22.973981+00:00",
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3963",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Make it easy for anonymous users to convert to a real account",
+            "status": "Feb 2026",
+            "created_at": "2026-01-23T12:03:22.973981+00:00",
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3964",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Custom due dates not working correctly for tasks",
+            "status": "Jan 2026",
+            "created_at": "2026-01-23T12:03:22.973981+00:00",
+            "updated_at": "2026-01-23T12:03:22.973981+00:00"
         }
     ]
 }
