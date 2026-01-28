@@ -14486,6 +14486,24 @@
             "merged_at": "2026-01-26T12:11:02Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3981",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-27T19:49:43Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "3980",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-27T17:21:45Z",
+            "merged_at": "2026-01-27T17:21:52Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -15405,9 +15423,9 @@
             "issue_id": "Focus-Bear/mobile-app#2983",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine Completion Not Synced Across Devices Until App Restart",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#2886",
@@ -21093,9 +21111,9 @@
             "issue_id": "Focus-Bear/mobile-app#3189",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve loading states for initial app loading and for usage screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3142",
@@ -21573,9 +21591,9 @@
             "issue_id": "Focus-Bear/mobile-app#3295",
             "repo": "Focus-Bear/mobile-app",
             "title": "Evening Routine shows as completed on Android even when no habits were done",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3299",
@@ -21773,9 +21791,9 @@
             "issue_id": "Focus-Bear/mobile-app#3354",
             "repo": "Focus-Bear/mobile-app",
             "title": "The finished routine will reset and restart after editing in the Habit tab.",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3355",
@@ -22125,9 +22143,9 @@
             "issue_id": "Focus-Bear/mobile-app#3422",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine marked as Completed even though not all habits are finished",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3423",
@@ -22197,9 +22215,9 @@
             "issue_id": "Focus-Bear/mobile-app#3438",
             "repo": "Focus-Bear/mobile-app",
             "title": "Wrong message displayed when morning habits not done but evening habits completed",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2493",
@@ -22781,9 +22799,9 @@
             "issue_id": "Focus-Bear/mobile-app#3539",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine doesn\u2019t automatically reset at the start of a new day",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2025-10-18T12:02:50.873898+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3540",
@@ -22917,9 +22935,9 @@
             "issue_id": "Focus-Bear/mobile-app#3566",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine marked as completed even though some habits are not done",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-27T12:03:13.150981+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3567",
@@ -23677,9 +23695,9 @@
             "issue_id": "Focus-Bear/mobile-app#3692",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text Overlaps and Cuts Off When System Text Size Increased (Resize Text / Reflow)",
-            "status": "Feb 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-11-28T12:03:03.167203+00:00",
-            "updated_at": "2026-01-19T12:03:13.288808+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3695",
@@ -23829,9 +23847,9 @@
             "issue_id": "Focus-Bear/mobile-app#3720",
             "repo": "Focus-Bear/mobile-app",
             "title": "Bad empty state for stats",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3721",
@@ -24117,9 +24135,9 @@
             "issue_id": "Focus-Bear/mobile-app#3771",
             "repo": "Focus-Bear/mobile-app",
             "title": "When pausing blocking, it has outdated distraction stats",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-19T12:02:53.612406+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3772",
@@ -24317,9 +24335,9 @@
             "issue_id": "Focus-Bear/mobile-app#3805",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add webview stats to the stats section in Android and IOS",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-07T12:03:02.299817+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3803",
@@ -24373,9 +24391,9 @@
             "issue_id": "Focus-Bear/mobile-app#3812",
             "repo": "Focus-Bear/mobile-app",
             "title": "Tapping the blocking banner should take user to blocking schedule screen",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3814",
@@ -24437,9 +24455,9 @@
             "issue_id": "Focus-Bear/mobile-app#3827",
             "repo": "Focus-Bear/mobile-app",
             "title": "End of evening routine incorrectly suggests starting a focus session",
-            "status": "Jan 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-06T12:03:00.142866+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3828",
@@ -24501,17 +24519,17 @@
             "issue_id": "Focus-Bear/mobile-app#3854",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completing one evening habit marks all remaining habits as completed",
-            "status": "Ready for QA",
+            "status": "QA in Progress Android",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3855",
             "repo": "Focus-Bear/mobile-app",
             "title": "Evening routine always starts at 4:00 AM regardless of configured start time",
-            "status": "Ready for QA",
+            "status": "QA In Progress iOS",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3857",
@@ -24573,9 +24591,9 @@
             "issue_id": "Focus-Bear/mobile-app#3872",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle and Strict blocking modes behave inconsistently and appear to be swapped",
-            "status": "QA in Progress Android",
+            "status": "QA Failed",
             "created_at": "2026-01-06T12:03:00.142866+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3874",
@@ -24597,9 +24615,9 @@
             "issue_id": "Focus-Bear/mobile-app#3876",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habits do not sync across devices; completed routine on desktop still appears incomplete on mobile",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2026-01-07T12:03:02.299817+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3877",
@@ -24749,9 +24767,9 @@
             "issue_id": "Focus-Bear/mobile-app#3926",
             "repo": "Focus-Bear/mobile-app",
             "title": "Incorrect blocking notification: Instagram shown as blocked but not in blocked apps list",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-20T12:03:37.320000+00:00",
-            "updated_at": "2026-01-20T12:03:37.320000+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3934",
@@ -24805,9 +24823,9 @@
             "issue_id": "Focus-Bear/mobile-app#3945",
             "repo": "Focus-Bear/mobile-app",
             "title": "Pirate theme is not consistent throughout onboarding.",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-22T12:03:22.587994+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#965",
@@ -24829,9 +24847,9 @@
             "issue_id": "Focus-Bear/mobile-app#3947",
             "repo": "Focus-Bear/mobile-app",
             "title": "Quick breaks shouldn't be visible on home screen until they complete a habit",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-22T12:03:22.587994+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3949",
@@ -24941,9 +24959,17 @@
             "issue_id": "Focus-Bear/mobile-app#3978",
             "repo": "Focus-Bear/mobile-app",
             "title": "Website blocking is not working",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-27T12:03:50.776653+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3982",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Day Of week not being respected for habits",
+            "status": "Jan 2026",
+            "created_at": "2026-01-28T12:03:24.112729+00:00",
+            "updated_at": "2026-01-28T12:03:24.112729+00:00"
         }
     ]
 }
