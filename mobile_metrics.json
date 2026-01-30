@@ -14504,6 +14504,15 @@
             "merged_at": "2026-01-27T17:21:52Z",
             "time_to_merge": 0.0019444444444444444,
             "release_id": null
+        },
+        {
+            "pr_id": "3987",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-01-30T02:37:08Z",
+            "merged_at": "2026-01-30T02:43:09Z",
+            "time_to_merge": 0.10027777777777777,
+            "release_id": null
         }
     ],
     "issues": [
@@ -21671,9 +21680,9 @@
             "issue_id": "Focus-Bear/mobile-app#3321",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Expand Website Blocking Support to Additional Mobile Browsers",
-            "status": "Q4 2026 tasks",
+            "status": "Q1 2026",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3323",
@@ -21863,9 +21872,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -22143,9 +22152,9 @@
             "issue_id": "Focus-Bear/mobile-app#3422",
             "repo": "Focus-Bear/mobile-app",
             "title": "Routine marked as Completed even though not all habits are finished",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3423",
@@ -23791,9 +23800,9 @@
             "issue_id": "Focus-Bear/mobile-app#3713",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove free time habit",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-03T12:03:02.696851+00:00",
-            "updated_at": "2026-01-20T12:03:37.320000+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#2724",
@@ -23863,9 +23872,9 @@
             "issue_id": "Focus-Bear/mobile-app#3722",
             "repo": "Focus-Bear/mobile-app",
             "title": "User selected set up habits later but it forced them to set up habits anyway?",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-05T12:03:01.029991+00:00",
-            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3725",
@@ -24095,9 +24104,9 @@
             "issue_id": "Focus-Bear/mobile-app#3759",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habit status not updating?",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-15T12:03:14.488681+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3762",
@@ -24471,9 +24480,9 @@
             "issue_id": "Focus-Bear/mobile-app#3829",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle blocking looks completely broken",
-            "status": "QA in Progress Android",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3830",
@@ -24495,9 +24504,9 @@
             "issue_id": "Focus-Bear/mobile-app#3851",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve posthog events for signups",
-            "status": "Ready for QA",
+            "status": "QA Failed",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3852",
@@ -24519,9 +24528,9 @@
             "issue_id": "Focus-Bear/mobile-app#3854",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completing one evening habit marks all remaining habits as completed",
-            "status": "QA in Progress Android",
+            "status": "QA In Progress iOS",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3855",
@@ -24991,9 +25000,9 @@
             "issue_id": "Focus-Bear/mobile-app#3985",
             "repo": "Focus-Bear/mobile-app",
             "title": "Apps remain blocked after completing all habits and finishing routine",
-            "status": "Q2 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-01-29T12:05:52.511354+00:00",
-            "updated_at": "2026-01-29T12:05:52.511354+00:00"
+            "updated_at": "2026-01-30T12:04:53.905435+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3986",
