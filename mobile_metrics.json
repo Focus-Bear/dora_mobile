@@ -14513,6 +14513,24 @@
             "merged_at": "2026-01-30T02:43:09Z",
             "time_to_merge": 0.10027777777777777,
             "release_id": null
+        },
+        {
+            "pr_id": "3989",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-01-30T21:32:28Z",
+            "merged_at": "2026-01-30T21:36:08Z",
+            "time_to_merge": 0.06111111111111111,
+            "release_id": null
+        },
+        {
+            "pr_id": "3988",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-01-30T13:31:00Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -24952,9 +24970,9 @@
             "issue_id": "Focus-Bear/mobile-app#3974",
             "repo": "Focus-Bear/mobile-app",
             "title": "Morning routine shown as completed even though it hasn\u2019t been started (no refresh option to correct state)",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-01-26T12:03:27.973621+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3977",
@@ -25011,6 +25029,46 @@
             "status": "Q4 2026 tasks",
             "created_at": "2026-01-29T12:05:52.511354+00:00",
             "updated_at": "2026-01-29T12:05:52.511354+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3990",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Evening routine changes to morning habits and schedule timing inconsistency after editing.",
+            "status": "Jan 2026",
+            "created_at": "2026-01-31T12:03:11.864578+00:00",
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3991",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App crashed several times",
+            "status": "Jan 2026",
+            "created_at": "2026-01-31T12:03:11.864578+00:00",
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3992",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Error signing up using Google account: timeout error",
+            "status": "Jan 2026",
+            "created_at": "2026-01-31T12:03:11.864578+00:00",
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3993",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature request: Filter To-Do list by Today / Tomorrow / This Week / Next Week",
+            "status": "Q3 2026",
+            "created_at": "2026-01-31T12:03:11.864578+00:00",
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#3994",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature request: Add optional auditory cues for habit completion and streak milestones",
+            "status": "Q4 2026 tasks",
+            "created_at": "2026-01-31T12:03:11.864578+00:00",
+            "updated_at": "2026-01-31T12:03:11.864578+00:00"
         }
     ]
 }
