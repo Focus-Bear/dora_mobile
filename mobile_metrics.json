@@ -14549,6 +14549,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "4003",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-02-02T07:47:11Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "4000",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "StuvanFIT",
+            "created_at": "2026-02-01T16:18:44Z",
+            "merged_at": "2026-02-01T16:37:08Z",
+            "time_to_merge": 0.30666666666666664,
+            "release_id": null
+        },
+        {
+            "pr_id": "3999",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-02-01T14:44:47Z",
+            "merged_at": "2026-02-01T14:44:54Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -14788,9 +14815,9 @@
             "issue_id": "Focus-Bear/mobile-app#3387",
             "repo": "Focus-Bear/mobile-app",
             "title": "Timeout Popup on iOS After Completing Habits on Windows",
-            "status": "External devs in progress",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2025-10-28T12:03:03.756994+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3397",
@@ -21908,9 +21935,9 @@
             "issue_id": "Focus-Bear/mobile-app#3375",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add an alarm sound/vibration at the end of a focus timer",
-            "status": "QA Failed",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-30T12:04:53.905435+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3377",
@@ -22068,9 +22095,9 @@
             "issue_id": "Focus-Bear/mobile-app#3403",
             "repo": "Focus-Bear/mobile-app",
             "title": "[More details needed]Bug Report \u2013 App Blocking Dropdown Not Working - IOS",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3404",
@@ -22308,9 +22335,9 @@
             "issue_id": "Focus-Bear/mobile-app#3443",
             "repo": "Focus-Bear/mobile-app",
             "title": "Usage stats screen shouldn't show N/A if permissions aren't granted",
-            "status": "QA Failed",
+            "status": "Ready for QA",
             "created_at": "2025-09-29T05:07:35.593903+00:00",
-            "updated_at": "2026-01-20T12:03:37.320000+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3444",
@@ -22732,9 +22759,9 @@
             "issue_id": "Focus-Bear/mobile-app#3516",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log posthog event for quick breaks",
-            "status": "Q2 2026",
+            "status": "Code Review",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3517",
@@ -23092,9 +23119,9 @@
             "issue_id": "Focus-Bear/mobile-app#3584",
             "repo": "Focus-Bear/mobile-app",
             "title": "Building app takes 1hr?",
-            "status": "Q2 2026",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-30T12:03:04.806709+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3585",
@@ -23612,9 +23639,9 @@
             "issue_id": "Focus-Bear/mobile-app#3671",
             "repo": "Focus-Bear/mobile-app",
             "title": "Launcher doesn't show loading indicator while it's loading apps.",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2025-11-22T12:02:36.928025+00:00",
-            "updated_at": "2026-01-27T12:03:50.776653+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3672",
@@ -24028,9 +24055,9 @@
             "issue_id": "Focus-Bear/mobile-app#3742",
             "repo": "Focus-Bear/mobile-app",
             "title": "Allow shortening focus sessions",
-            "status": "Code Review",
+            "status": "QA In Progress iOS",
             "created_at": "2025-12-11T12:03:03.249758+00:00",
-            "updated_at": "2026-01-15T12:03:23.326866+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3745",
@@ -24100,9 +24127,9 @@
             "issue_id": "Focus-Bear/mobile-app#3755",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events for blank routine suggestions",
-            "status": "QA Failed",
+            "status": "Ready for QA",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-12T12:03:18.854585+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3756",
@@ -24404,9 +24431,9 @@
             "issue_id": "Focus-Bear/mobile-app#3808",
             "repo": "Focus-Bear/mobile-app",
             "title": "Failed to generate any habits from my voice note",
-            "status": "External devs in progress",
+            "status": "QA in Progress Android",
             "created_at": "2025-12-29T12:03:02.388814+00:00",
-            "updated_at": "2026-01-13T12:03:05.863642+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3809",
@@ -24468,9 +24495,9 @@
             "issue_id": "Focus-Bear/mobile-app#3817",
             "repo": "Focus-Bear/mobile-app",
             "title": "Creating a second AI habit deletes the first AI-created habit",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-31T12:03:04.451697+00:00",
-            "updated_at": "2026-01-24T12:02:48.141474+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3818",
@@ -24636,9 +24663,9 @@
             "issue_id": "Focus-Bear/mobile-app#3872",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle and Strict blocking modes behave inconsistently and appear to be swapped",
-            "status": "QA Failed",
+            "status": "QA in Progress Android",
             "created_at": "2026-01-06T12:03:00.142866+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3874",
@@ -24660,9 +24687,9 @@
             "issue_id": "Focus-Bear/mobile-app#3876",
             "repo": "Focus-Bear/mobile-app",
             "title": "Habits do not sync across devices; completed routine on desktop still appears incomplete on mobile",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-07T12:03:02.299817+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3877",
@@ -24812,9 +24839,9 @@
             "issue_id": "Focus-Bear/mobile-app#3926",
             "repo": "Focus-Bear/mobile-app",
             "title": "Incorrect blocking notification: Instagram shown as blocked but not in blocked apps list",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-20T12:03:37.320000+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3934",
@@ -24836,9 +24863,9 @@
             "issue_id": "Focus-Bear/mobile-app#3939",
             "repo": "Focus-Bear/mobile-app",
             "title": "[onboarding] Button slightly covered at the bottom of the screen",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3940",
@@ -24892,9 +24919,9 @@
             "issue_id": "Focus-Bear/mobile-app#3947",
             "repo": "Focus-Bear/mobile-app",
             "title": "Quick breaks shouldn't be visible on home screen until they complete a habit",
-            "status": "Code Review",
+            "status": "QA Failed",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3949",
@@ -25076,17 +25103,17 @@
             "issue_id": "Focus-Bear/mobile-app#3993",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Filter To-Do list by Today / Tomorrow / This Week / Next Week",
-            "status": "Q1 2027",
+            "status": "Q2 2026",
             "created_at": "2026-01-31T12:03:11.864578+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3994",
             "repo": "Focus-Bear/mobile-app",
             "title": "Feature request: Add optional auditory cues for habit completion and streak milestones",
-            "status": "Q2 2027 tasks",
+            "status": "Q2 2026",
             "created_at": "2026-01-31T12:03:11.864578+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3995",
@@ -25103,6 +25130,22 @@
             "status": "Emergency fix needed",
             "created_at": "2026-02-01T12:03:40.664290+00:00",
             "updated_at": "2026-02-01T12:03:40.664290+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4001",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Action bar looks bad in Spanish",
+            "status": "Q1 2026",
+            "created_at": "2026-02-02T12:06:16.581849+00:00",
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4002",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Crash if you put text in the quick breaks video link",
+            "status": "Q1 2026",
+            "created_at": "2026-02-02T12:06:16.581849+00:00",
+            "updated_at": "2026-02-02T12:06:16.581849+00:00"
         }
     ]
 }
