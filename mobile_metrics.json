@@ -14666,6 +14666,33 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "4025",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-02-04T11:28:15Z",
+            "merged_at": "2026-02-04T11:28:23Z",
+            "time_to_merge": 0.0022222222222222222,
+            "release_id": null
+        },
+        {
+            "pr_id": "4017",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2026-02-04T04:48:36Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "4016",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "devin-ai-integration[bot]",
+            "created_at": "2026-02-03T22:22:32Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23617,9 +23644,9 @@
             "issue_id": "Focus-Bear/mobile-app#3654",
             "repo": "Focus-Bear/mobile-app",
             "title": "Main goals selection doesn\u2019t change generated routines in onboarding",
-            "status": "QA In Progress iOS",
+            "status": "QA Failed",
             "created_at": "2025-11-20T12:03:18.507641+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3656",
@@ -24145,9 +24172,9 @@
             "issue_id": "Focus-Bear/mobile-app#3742",
             "repo": "Focus-Bear/mobile-app",
             "title": "Allow shortening focus sessions",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-11T12:03:03.249758+00:00",
-            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3745",
@@ -24273,9 +24300,9 @@
             "issue_id": "Focus-Bear/mobile-app#3763",
             "repo": "Focus-Bear/mobile-app",
             "title": "Custom goals should be prioritised when generating routine suggestions",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-16T12:02:59.803470+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3764",
@@ -24393,9 +24420,9 @@
             "issue_id": "Focus-Bear/mobile-app#3786",
             "repo": "Focus-Bear/mobile-app",
             "title": "Google Login didn't work with Duck Duck Go browser",
-            "status": "Q1 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2025-12-23T12:02:55.457185+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3787",
@@ -24657,9 +24684,9 @@
             "issue_id": "Focus-Bear/mobile-app#3851",
             "repo": "Focus-Bear/mobile-app",
             "title": "Improve posthog events for signups",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-30T12:04:53.905435+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3852",
@@ -24681,9 +24708,9 @@
             "issue_id": "Focus-Bear/mobile-app#3854",
             "repo": "Focus-Bear/mobile-app",
             "title": "Completing one evening habit marks all remaining habits as completed",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-02T12:02:59.174496+00:00",
-            "updated_at": "2026-01-30T12:04:53.905435+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3855",
@@ -24753,9 +24780,9 @@
             "issue_id": "Focus-Bear/mobile-app#3872",
             "repo": "Focus-Bear/mobile-app",
             "title": "Gentle and Strict blocking modes behave inconsistently and appear to be swapped",
-            "status": "QA in Progress Android",
+            "status": "QA Failed",
             "created_at": "2026-01-06T12:03:00.142866+00:00",
-            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3874",
@@ -24801,9 +24828,9 @@
             "issue_id": "Focus-Bear/mobile-app#3883",
             "repo": "Focus-Bear/mobile-app",
             "title": "App crashed when I used it as default launcher",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-09T12:03:12.418071+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3884",
@@ -24985,9 +25012,9 @@
             "issue_id": "Focus-Bear/mobile-app#3945",
             "repo": "Focus-Bear/mobile-app",
             "title": "Pirate theme is not consistent throughout onboarding.",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/windows-app-v2#965",
@@ -25033,9 +25060,9 @@
             "issue_id": "Focus-Bear/mobile-app#3952",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add stats on iOS",
-            "status": "Ready for QA",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3931",
@@ -25073,9 +25100,9 @@
             "issue_id": "Focus-Bear/mobile-app#3968",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding UI elements overlap system UI",
-            "status": "QA in Progress Android",
+            "status": "QA Failed",
             "created_at": "2026-01-25T12:03:09.000903+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3969",
@@ -25225,9 +25252,9 @@
             "issue_id": "Focus-Bear/mobile-app#4001",
             "repo": "Focus-Bear/mobile-app",
             "title": "Action bar looks bad in Spanish",
-            "status": "Q1 2026",
+            "status": "Code Review",
             "created_at": "2026-02-02T12:06:16.581849+00:00",
-            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4002",
@@ -25249,9 +25276,65 @@
             "issue_id": "Focus-Bear/mobile-app#4006",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blank white screen after logging in",
-            "status": "Q1 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-02-03T12:06:18.679817+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4018",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Suggested habits are incorrect when selecting Main Goals during onboarding",
+            "status": "Q3 2026",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4019",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "User habits wiped unexpectedly",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4020",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Notification categories aren't clear.",
+            "status": "Q1 2026",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4021",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Accessibility permissions is confusing now",
+            "status": "Q1 2026",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4022",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Physical activity permissions shows as allowed before it is granted",
+            "status": "Q1 2026",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4023",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App shows \u201cBlocking enabled\u201d even though routine is 5 hours away and blocking schedule is off",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4024",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking settings and blocked apps reset to default after app update or reinstall",
+            "status": "Q2 2026",
+            "created_at": "2026-02-04T12:06:15.611237+00:00",
+            "updated_at": "2026-02-04T12:06:15.611237+00:00"
         }
     ]
 }
