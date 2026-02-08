@@ -14720,6 +14720,15 @@
             "merged_at": "2026-02-07T08:53:26Z",
             "time_to_merge": 0.04611111111111111,
             "release_id": null
+        },
+        {
+            "pr_id": "4038",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-02-07T12:49:20Z",
+            "merged_at": "2026-02-08T10:16:28Z",
+            "time_to_merge": 21.452222222222222,
+            "release_id": null
         }
     ],
     "issues": [
@@ -24271,9 +24280,9 @@
             "issue_id": "Focus-Bear/mobile-app#3755",
             "repo": "Focus-Bear/mobile-app",
             "title": "Add posthog events for blank routine suggestions",
-            "status": "QA Failed",
+            "status": "Queued for Devin",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-02-07T12:03:09.911801+00:00"
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3756",
@@ -25351,9 +25360,9 @@
             "issue_id": "Focus-Bear/mobile-app#4023",
             "repo": "Focus-Bear/mobile-app",
             "title": "App shows \u201cBlocking enabled\u201d even though routine is 5 hours away and blocking schedule is off",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-02-04T12:06:15.611237+00:00",
-            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4024",
@@ -25426,6 +25435,38 @@
             "status": "Merged but not released to QA yet",
             "created_at": "2026-02-07T12:03:09.911801+00:00",
             "updated_at": "2026-02-07T12:03:09.911801+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4039",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "\u201cStart focus session\u201d shown before all habits in routine are completed",
+            "status": "Q3 2026",
+            "created_at": "2026-02-08T12:03:27.734777+00:00",
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4040",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Password protection is inconsistently enforced across platforms, allowing bypass of habit and blocking restrictions",
+            "status": "Q3 2026",
+            "created_at": "2026-02-08T12:03:27.734777+00:00",
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4041",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Editing active blocking schedule fails with \u201cError 400\u201d instead of clear user guidance",
+            "status": "Q3 2026",
+            "created_at": "2026-02-08T12:03:27.734777+00:00",
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4042",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Janky problem with soft blocking",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-08T12:03:27.734777+00:00",
+            "updated_at": "2026-02-08T12:03:27.734777+00:00"
         }
     ]
 }
