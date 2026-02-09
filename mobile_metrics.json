@@ -14729,6 +14729,15 @@
             "merged_at": "2026-02-08T10:16:28Z",
             "time_to_merge": 21.452222222222222,
             "release_id": null
+        },
+        {
+            "pr_id": "4045",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "Toby56",
+            "created_at": "2026-02-09T05:21:53Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -24368,9 +24377,9 @@
             "issue_id": "Focus-Bear/mobile-app#3772",
             "repo": "Focus-Bear/mobile-app",
             "title": "Let user customise the blocked page",
-            "status": "Dev Work In Progress",
+            "status": "Ready for QA",
             "created_at": "2025-12-19T12:02:53.612406+00:00",
-            "updated_at": "2026-01-16T12:02:57.217143+00:00"
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3770",
@@ -25328,9 +25337,9 @@
             "issue_id": "Focus-Bear/mobile-app#4019",
             "repo": "Focus-Bear/mobile-app",
             "title": "User habits wiped unexpectedly",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-04T12:06:15.611237+00:00",
-            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4020",
@@ -25384,9 +25393,9 @@
             "issue_id": "Focus-Bear/mobile-app#4027",
             "repo": "Focus-Bear/mobile-app",
             "title": "App locked up when the last habit was skipped",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-02-05T12:07:03.534709+00:00",
-            "updated_at": "2026-02-05T12:07:03.534709+00:00"
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#3027",
@@ -25424,9 +25433,9 @@
             "issue_id": "Focus-Bear/mobile-app#4035",
             "repo": "Focus-Bear/mobile-app",
             "title": "App stuck on splash screen forever",
-            "status": "Emergency fix needed",
+            "status": "Code Review",
             "created_at": "2026-02-06T12:06:24.619423+00:00",
-            "updated_at": "2026-02-06T12:06:24.619423+00:00"
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4036",
@@ -25467,6 +25476,46 @@
             "status": "Emergency fix needed",
             "created_at": "2026-02-08T12:03:27.734777+00:00",
             "updated_at": "2026-02-08T12:03:27.734777+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4043",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Froze on the last habit. I had to force quit",
+            "status": "Code Review",
+            "created_at": "2026-02-09T12:11:13.303470+00:00",
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4044",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App blocking not working on Android",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-09T12:11:13.303470+00:00",
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4046",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Text Overlapping in Settings Screen",
+            "status": "Q1 2026",
+            "created_at": "2026-02-09T12:11:13.303470+00:00",
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4048",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Manually completed habit is not marked correctly",
+            "status": "Q3 2026",
+            "created_at": "2026-02-09T12:11:13.303470+00:00",
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4049",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Video continues playing when habit timer is paused",
+            "status": "Q2 2026",
+            "created_at": "2026-02-09T12:11:13.303470+00:00",
+            "updated_at": "2026-02-09T12:11:13.303470+00:00"
         }
     ]
 }
