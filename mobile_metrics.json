@@ -14738,6 +14738,15 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "4050",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-02-09T14:09:51Z",
+            "merged_at": "2026-02-09T14:09:58Z",
+            "time_to_merge": 0.0019444444444444444,
+            "release_id": null
         }
     ],
     "issues": [
@@ -24129,9 +24138,9 @@
             "issue_id": "Focus-Bear/mobile-app#3728",
             "repo": "Focus-Bear/mobile-app",
             "title": "Username should be clearly editable",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-12-08T12:03:01.681061+00:00",
-            "updated_at": "2026-01-26T12:03:27.973621+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3729",
@@ -25081,9 +25090,9 @@
             "issue_id": "Focus-Bear/mobile-app#3947",
             "repo": "Focus-Bear/mobile-app",
             "title": "Quick breaks shouldn't be visible on home screen until they complete a habit",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-22T12:03:22.587994+00:00",
-            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3949",
@@ -25193,9 +25202,9 @@
             "issue_id": "Focus-Bear/mobile-app#3978",
             "repo": "Focus-Bear/mobile-app",
             "title": "Website blocking is not working",
-            "status": "Code Review",
+            "status": "QA in Progress Android",
             "created_at": "2026-01-27T12:03:50.776653+00:00",
-            "updated_at": "2026-01-28T12:03:24.112729+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3982",
@@ -25305,9 +25314,9 @@
             "issue_id": "Focus-Bear/mobile-app#4002",
             "repo": "Focus-Bear/mobile-app",
             "title": "Crash if you put text in the quick breaks video link",
-            "status": "Code Review",
+            "status": "Ready for QA",
             "created_at": "2026-02-02T12:06:16.581849+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4004",
@@ -25321,9 +25330,9 @@
             "issue_id": "Focus-Bear/mobile-app#4006",
             "repo": "Focus-Bear/mobile-app",
             "title": "Blank white screen after logging in",
-            "status": "Emergency fix needed",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-03T12:06:18.679817+00:00",
-            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4018",
@@ -25369,9 +25378,9 @@
             "issue_id": "Focus-Bear/mobile-app#4023",
             "repo": "Focus-Bear/mobile-app",
             "title": "App shows \u201cBlocking enabled\u201d even though routine is 5 hours away and blocking schedule is off",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-04T12:06:15.611237+00:00",
-            "updated_at": "2026-02-08T12:03:27.734777+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4024",
@@ -25393,9 +25402,9 @@
             "issue_id": "Focus-Bear/mobile-app#4027",
             "repo": "Focus-Bear/mobile-app",
             "title": "App locked up when the last habit was skipped",
-            "status": "Code Review",
+            "status": "QA In Progress iOS",
             "created_at": "2026-02-05T12:07:03.534709+00:00",
-            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#3027",
@@ -25433,17 +25442,17 @@
             "issue_id": "Focus-Bear/mobile-app#4035",
             "repo": "Focus-Bear/mobile-app",
             "title": "App stuck on splash screen forever",
-            "status": "Code Review",
+            "status": "QA in Progress Android",
             "created_at": "2026-02-06T12:06:24.619423+00:00",
-            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4036",
             "repo": "Focus-Bear/mobile-app",
             "title": "Remove some of the text from the bear bubble speech",
-            "status": "Merged but not released to QA yet",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-07T12:03:09.911801+00:00",
-            "updated_at": "2026-02-07T12:03:09.911801+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4039",
@@ -25481,9 +25490,9 @@
             "issue_id": "Focus-Bear/mobile-app#4043",
             "repo": "Focus-Bear/mobile-app",
             "title": "Froze on the last habit. I had to force quit",
-            "status": "Code Review",
+            "status": "QA in Progress Android",
             "created_at": "2026-02-09T12:11:13.303470+00:00",
-            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4044",
@@ -25497,9 +25506,9 @@
             "issue_id": "Focus-Bear/mobile-app#4046",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text Overlapping in Settings Screen",
-            "status": "Q1 2026",
+            "status": "Q3 2026",
             "created_at": "2026-02-09T12:11:13.303470+00:00",
-            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+            "updated_at": "2026-02-10T12:13:12.044922+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4048",
