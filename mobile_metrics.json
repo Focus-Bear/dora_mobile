@@ -25211,9 +25211,9 @@
             "issue_id": "Focus-Bear/mobile-app#3978",
             "repo": "Focus-Bear/mobile-app",
             "title": "Website blocking is not working",
-            "status": "QA Failed",
+            "status": "QA Passed/Done",
             "created_at": "2026-01-27T12:03:50.776653+00:00",
-            "updated_at": "2026-02-11T12:11:44.275769+00:00"
+            "updated_at": "2026-02-12T12:09:21.136563+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3982",
@@ -25363,9 +25363,9 @@
             "issue_id": "Focus-Bear/mobile-app#4020",
             "repo": "Focus-Bear/mobile-app",
             "title": "Notification categories aren't clear.",
-            "status": "Q1 2026",
+            "status": "Q3 2026",
             "created_at": "2026-02-04T12:06:15.611237+00:00",
-            "updated_at": "2026-02-04T12:06:15.611237+00:00"
+            "updated_at": "2026-02-12T12:09:21.136563+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4021",
@@ -25411,9 +25411,9 @@
             "issue_id": "Focus-Bear/mobile-app#4027",
             "repo": "Focus-Bear/mobile-app",
             "title": "App locked up when the last habit was skipped",
-            "status": "QA In Progress iOS",
+            "status": "QA Passed/Done",
             "created_at": "2026-02-05T12:07:03.534709+00:00",
-            "updated_at": "2026-02-10T12:13:12.044922+00:00"
+            "updated_at": "2026-02-12T12:09:21.136563+00:00"
         },
         {
             "issue_id": "Focus-Bear/web_dashboard#3027",
@@ -25550,6 +25550,22 @@
             "status": "Q1 2026",
             "created_at": "2026-02-11T12:11:44.275769+00:00",
             "updated_at": "2026-02-11T12:11:44.275769+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/Mac-App#1674",
+            "repo": "Focus-Bear/Mac-App",
+            "title": "Talking clock idea",
+            "status": "Queued for Devin",
+            "created_at": "2026-02-12T12:09:21.136563+00:00",
+            "updated_at": "2026-02-12T12:09:21.136563+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4054",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Show custom blocked message on widget",
+            "status": "Q1 2026",
+            "created_at": "2026-02-12T12:09:21.136563+00:00",
+            "updated_at": "2026-02-12T12:09:21.136563+00:00"
         }
     ]
 }
