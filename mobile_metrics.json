@@ -23707,9 +23707,9 @@
             "issue_id": "Focus-Bear/mobile-app#3654",
             "repo": "Focus-Bear/mobile-app",
             "title": "Main goals selection doesn\u2019t change generated routines in onboarding",
-            "status": "External devs in progress",
+            "status": "QA in Progress Android",
             "created_at": "2025-11-20T12:03:18.507641+00:00",
-            "updated_at": "2026-02-11T12:11:44.275769+00:00"
+            "updated_at": "2026-02-13T12:06:01.018807+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3656",
@@ -25566,6 +25566,38 @@
             "status": "Q1 2026",
             "created_at": "2026-02-12T12:09:21.136563+00:00",
             "updated_at": "2026-02-12T12:09:21.136563+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4055",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Blocking incorrectly blocks apps not on the block list; requires reinstall to resolve",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-13T12:06:01.018807+00:00",
+            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4056",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Voice input in to do list returns an error",
+            "status": "Q2 2026",
+            "created_at": "2026-02-13T12:06:01.018807+00:00",
+            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4057",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Cookie banner does not align with Privacy Policy layout",
+            "status": "Q2 2026",
+            "created_at": "2026-02-13T12:06:01.018807+00:00",
+            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4058",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Settings can't be accessed - displays blank screen",
+            "status": "Q2 2026",
+            "created_at": "2026-02-13T12:06:01.018807+00:00",
+            "updated_at": "2026-02-13T12:06:01.018807+00:00"
         }
     ]
 }
