@@ -23717,9 +23717,9 @@
             "issue_id": "Focus-Bear/mobile-app#3654",
             "repo": "Focus-Bear/mobile-app",
             "title": "Main goals selection doesn\u2019t change generated routines in onboarding",
-            "status": "QA in Progress Android",
+            "status": "QA Failed",
             "created_at": "2025-11-20T12:03:18.507641+00:00",
-            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+            "updated_at": "2026-02-15T12:03:12.247961+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3656",
@@ -25493,9 +25493,9 @@
             "issue_id": "Focus-Bear/mobile-app#4041",
             "repo": "Focus-Bear/mobile-app",
             "title": "Editing active blocking schedule fails with \u201cError 400\u201d instead of clear user guidance",
-            "status": "Q3 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-02-08T12:03:27.734777+00:00",
-            "updated_at": "2026-02-08T12:03:27.734777+00:00"
+            "updated_at": "2026-02-15T12:03:12.247961+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4042",
@@ -25605,9 +25605,25 @@
             "issue_id": "Focus-Bear/mobile-app#4058",
             "repo": "Focus-Bear/mobile-app",
             "title": "Settings can't be accessed - displays blank screen",
-            "status": "Q2 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-02-13T12:06:01.018807+00:00",
-            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+            "updated_at": "2026-02-15T12:03:12.247961+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4059",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "can't delete blocking schedule - error 400",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-15T12:03:12.247961+00:00",
+            "updated_at": "2026-02-15T12:03:12.247961+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4060",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Integrate notes webview",
+            "status": "Dev Work In Progress",
+            "created_at": "2026-02-15T12:03:12.247961+00:00",
+            "updated_at": "2026-02-15T12:03:12.247961+00:00"
         }
     ]
 }
