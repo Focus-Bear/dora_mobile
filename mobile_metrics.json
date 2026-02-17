@@ -25525,9 +25525,9 @@
             "issue_id": "Focus-Bear/mobile-app#4046",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text Overlapping in Settings Screen",
-            "status": "Q3 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-02-09T12:11:13.303470+00:00",
-            "updated_at": "2026-02-10T12:13:12.044922+00:00"
+            "updated_at": "2026-02-17T12:07:57.636427+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4048",
@@ -25589,9 +25589,9 @@
             "issue_id": "Focus-Bear/mobile-app#4056",
             "repo": "Focus-Bear/mobile-app",
             "title": "Voice input in to do list returns an error",
-            "status": "Q2 2026",
+            "status": "Emergency fix needed",
             "created_at": "2026-02-13T12:06:01.018807+00:00",
-            "updated_at": "2026-02-13T12:06:01.018807+00:00"
+            "updated_at": "2026-02-17T12:07:57.636427+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4057",
@@ -25640,6 +25640,22 @@
             "status": "Dev Work In Progress",
             "created_at": "2026-02-16T12:07:55.127287+00:00",
             "updated_at": "2026-02-16T12:07:55.127287+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4063",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Wear OS app rejected",
+            "status": "Q1 2026",
+            "created_at": "2026-02-17T12:07:57.636427+00:00",
+            "updated_at": "2026-02-17T12:07:57.636427+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4064",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Feature request: Optional \u201cStudy Buddy\u201d companion during focus sessions",
+            "status": "Q1 2027",
+            "created_at": "2026-02-17T12:07:57.636427+00:00",
+            "updated_at": "2026-02-17T12:07:57.636427+00:00"
         }
     ]
 }
