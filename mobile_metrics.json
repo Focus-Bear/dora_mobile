@@ -14766,6 +14766,24 @@
             "merged_at": "2026-02-11T08:11:39Z",
             "time_to_merge": 0.004166666666666667,
             "release_id": null
+        },
+        {
+            "pr_id": "4068",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "BaoHG1508",
+            "created_at": "2026-02-18T07:25:53Z",
+            "merged_at": "2026-02-18T07:36:28Z",
+            "time_to_merge": 0.1763888888888889,
+            "release_id": null
+        },
+        {
+            "pr_id": "4065",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "abrahambelaygelaw",
+            "created_at": "2026-02-17T12:53:11Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -25656,6 +25674,14 @@
             "status": "Q1 2027",
             "created_at": "2026-02-17T12:07:57.636427+00:00",
             "updated_at": "2026-02-17T12:07:57.636427+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4066",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Use backend `sort_mode` for Tasks sorting + fix group count with spoons filter",
+            "status": "Q1 2026",
+            "created_at": "2026-02-18T12:07:55.861021+00:00",
+            "updated_at": "2026-02-18T12:07:55.861021+00:00"
         }
     ]
 }
