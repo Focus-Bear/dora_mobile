@@ -22712,9 +22712,9 @@
             "issue_id": "Focus-Bear/mobile-app#3469",
             "repo": "Focus-Bear/mobile-app",
             "title": "Allow reordering of subtasks under each task in To-Do list",
-            "status": "Q2 2026",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-02T12:02:53.506417+00:00",
-            "updated_at": "2025-10-24T12:03:28.182812+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3470",
@@ -22976,9 +22976,9 @@
             "issue_id": "Focus-Bear/mobile-app#3516",
             "repo": "Focus-Bear/mobile-app",
             "title": "Log posthog event for quick breaks",
-            "status": "Code Review",
+            "status": "QA Passed/Done",
             "created_at": "2025-10-14T12:03:18.059403+00:00",
-            "updated_at": "2026-02-02T12:06:16.581849+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3517",
@@ -24320,9 +24320,9 @@
             "issue_id": "Focus-Bear/mobile-app#3751",
             "repo": "Focus-Bear/mobile-app",
             "title": "Countdown does not run and action button is not activated after 60 seconds",
-            "status": "Code Review",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-12-14T12:02:48.459550+00:00",
-            "updated_at": "2026-01-05T12:03:37.435758+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3752",
@@ -24600,9 +24600,9 @@
             "issue_id": "Focus-Bear/mobile-app#3801",
             "repo": "Focus-Bear/mobile-app",
             "title": "Security Issues: The forgot password feedback displays different messages depending on if the email exists or not",
-            "status": "Code Review",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-12-24T12:03:06.580922+00:00",
-            "updated_at": "2026-01-05T12:03:37.435758+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3802",
@@ -25552,9 +25552,9 @@
             "issue_id": "Focus-Bear/mobile-app#4046",
             "repo": "Focus-Bear/mobile-app",
             "title": "Text Overlapping in Settings Screen",
-            "status": "Emergency fix needed",
+            "status": "Q1 2026",
             "created_at": "2026-02-09T12:11:13.303470+00:00",
-            "updated_at": "2026-02-17T12:07:57.636427+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#4048",
@@ -25568,9 +25568,9 @@
             "issue_id": "Focus-Bear/mobile-app#4049",
             "repo": "Focus-Bear/mobile-app",
             "title": "Video continues playing when habit timer is paused",
-            "status": "Q2 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2026-02-09T12:11:13.303470+00:00",
-            "updated_at": "2026-02-09T12:11:13.303470+00:00"
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         },
         {
             "issue_id": "Focus-Bear/backend#1644",
@@ -25691,6 +25691,30 @@
             "status": "Q1 2026",
             "created_at": "2026-02-18T12:07:55.861021+00:00",
             "updated_at": "2026-02-18T12:07:55.861021+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4069",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "App blocking reported not working since v1.13 for specific user",
+            "status": "Emergency fix needed",
+            "created_at": "2026-02-20T12:06:26.905565+00:00",
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4071",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "show the full list of blocked apps on Android",
+            "status": "Q1 2027",
+            "created_at": "2026-02-20T12:06:26.905565+00:00",
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
+        },
+        {
+            "issue_id": "Focus-Bear/mobile-app#4072",
+            "repo": "Focus-Bear/mobile-app",
+            "title": "Improve language missing keys checker",
+            "status": "Dev Work In Progress",
+            "created_at": "2026-02-20T12:06:26.905565+00:00",
+            "updated_at": "2026-02-20T12:06:26.905565+00:00"
         }
     ]
 }
