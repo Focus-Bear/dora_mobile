@@ -14793,6 +14793,24 @@
             "merged_at": null,
             "time_to_merge": null,
             "release_id": null
+        },
+        {
+            "pr_id": "4074",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "alxurb1",
+            "created_at": "2026-02-21T08:32:23Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
+        },
+        {
+            "pr_id": "4073",
+            "repo": "Focus-Bear/mobile-app",
+            "author": "jeznag",
+            "created_at": "2026-02-21T02:02:54Z",
+            "merged_at": null,
+            "time_to_merge": null,
+            "release_id": null
         }
     ],
     "issues": [
@@ -23560,9 +23578,9 @@
             "issue_id": "Focus-Bear/mobile-app#3624",
             "repo": "Focus-Bear/mobile-app",
             "title": "[suggestion] Title: Add a streak animation when a new day begins",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2025-11-10T12:03:08.960614+00:00",
-            "updated_at": "2026-01-18T12:03:15.722338+00:00"
+            "updated_at": "2026-02-21T12:03:46.055000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3625",
@@ -25208,9 +25226,9 @@
             "issue_id": "Focus-Bear/mobile-app#3969",
             "repo": "Focus-Bear/mobile-app",
             "title": "Onboarding buttons and labels overlapping issues",
-            "status": "Q1 2026",
+            "status": "Dev Work In Progress",
             "created_at": "2026-01-25T12:03:09.000903+00:00",
-            "updated_at": "2026-02-01T12:03:40.664290+00:00"
+            "updated_at": "2026-02-21T12:03:46.055000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3972",
@@ -25336,9 +25354,9 @@
             "issue_id": "Focus-Bear/mobile-app#3995",
             "repo": "Focus-Bear/mobile-app",
             "title": "Cannot cancel or go back after selecting habit input method during onboarding (Voice / Image)",
-            "status": "Dev Work In Progress",
+            "status": "Merged but not released to QA yet",
             "created_at": "2026-02-01T12:03:40.664290+00:00",
-            "updated_at": "2026-02-03T12:06:18.679817+00:00"
+            "updated_at": "2026-02-21T12:03:46.055000+00:00"
         },
         {
             "issue_id": "Focus-Bear/mobile-app#3996",
@@ -25584,9 +25602,9 @@
             "issue_id": "Focus-Bear/mobile-app#4052",
             "repo": "Focus-Bear/mobile-app",
             "title": "Contact permission checkbox in Delete account",
-            "status": "Q1 2026",
+            "status": "Code Review",
             "created_at": "2026-02-11T12:11:44.275769+00:00",
-            "updated_at": "2026-02-11T12:11:44.275769+00:00"
+            "updated_at": "2026-02-21T12:03:46.055000+00:00"
         },
         {
             "issue_id": "Focus-Bear/Mac-App#1674",
